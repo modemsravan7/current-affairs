@@ -1,0 +1,622 @@
+[
+  {
+    "id": "C201",
+    "question": "Who co-chaired the Paris AI Summit with PM Modi?",
+    "description": "Co-chair of the Paris AI Summit along with PM Modi.",
+    "options": [
+      "French President Emmanuel Macron",
+      "Angela Merkel",
+      "Justin Trudeau",
+      "Boris Johnson"
+    ],
+    "correctAnswer": "French President Emmanuel Macron"
+  },
+  {
+    "id": "C202",
+    "question": "Which country launched 'Operation Devil Hunt' targeting ex-PM Sheikh Hasina’s loyalists?",
+    "description": "Country conducting Operation Devil Hunt.",
+    "options": [
+      "Bangladesh",
+      "Pakistan",
+      "India",
+      "Myanmar"
+    ],
+    "correctAnswer": "Bangladesh"
+  },
+  {
+    "id": "C203",
+    "question": "Where will the 14th Asian Fisheries and Aquaculture Forum (AFAF) be held?",
+    "description": "Host city for the 14th AFAF.",
+    "options": [
+      "New Delhi",
+      "Mumbai",
+      "Chennai",
+      "Kolkata"
+    ],
+    "correctAnswer": "New Delhi"
+  },
+  {
+    "id": "C204",
+    "question": "Who resigned as Romanian President in 2025?",
+    "description": "Romanian President who resigned in 2025.",
+    "options": [
+      "Klaus Iohannis",
+      "Traian Băsescu",
+      "Ion Iliescu",
+      "Emil Constantinescu"
+    ],
+    "correctAnswer": "Klaus Iohannis"
+  },
+  {
+    "id": "C205",
+    "question": "Who was elected as the new President of Greece?",
+    "description": "Newly elected President of Greece.",
+    "options": [
+      "Constantine Tassoulas",
+      "Katerina Sakellaropoulou",
+      "Prokopis Pavlopoulos",
+      "Alexis Tsipras"
+    ],
+    "correctAnswer": "Constantine Tassoulas"
+  },
+  {
+    "id": "C206",
+    "question": "Which Indian bank celebrated 89 years by joining the Partnership for Carbon Accounting Financials?",
+    "description": "Indian bank marking 89 years by joining carbon accounting initiative.",
+    "options": [
+      "Indian Overseas Bank (IOB)",
+      "State Bank of India",
+      "Punjab National Bank",
+      "Bank of Baroda"
+    ],
+    "correctAnswer": "Indian Overseas Bank (IOB)"
+  },
+  {
+    "id": "C207",
+    "question": "What new security measure did RBI introduce for international transactions?",
+    "description": "Security feature implemented by RBI for international transactions.",
+    "options": [
+      "Additional Factor Authentication (AFA)",
+      "Two-Factor Authentication (2FA)",
+      "Biometric Verification",
+      "OTP-based approval"
+    ],
+    "correctAnswer": "Additional Factor Authentication (AFA)"
+  },
+  {
+    "id": "C208",
+    "question": "Which Indian bank expanded its AI-powered Amitabh Bachchan avatar?",
+    "description": "Bank that enhanced its AI Amitabh Bachchan avatar for customer service.",
+    "options": [
+      "IDFC FIRST Bank",
+      "HDFC Bank",
+      "ICICI Bank",
+      "Axis Bank"
+    ],
+    "correctAnswer": "IDFC FIRST Bank"
+  },
+  {
+    "id": "C209",
+    "question": "Who has been appointed as the Chief Economist of Canara Bank?",
+    "description": "Person appointed as Chief Economist at Canara Bank.",
+    "options": [
+      "Dr. Madhavankutty G.",
+      "Dr. Raghuram Rajan",
+      "Dr. Arvind Subramanian",
+      "Dr. C. Rangarajan"
+    ],
+    "correctAnswer": "Dr. Madhavankutty G."
+  },
+  {
+    "id": "C210",
+    "question": "Who will sign the new ₹50 banknotes in India?",
+    "description": "The official who will sign the new ₹50 currency notes.",
+    "options": [
+      "RBI Governor Sanjay Malhotra",
+      "Finance Minister Nirmala Sitharaman",
+      "RBI Governor Shaktikanta Das",
+      "President of India"
+    ],
+    "correctAnswer": "RBI Governor Sanjay Malhotra"
+  },
+  {
+    "id": "C211",
+    "question": "Who became India’s second-oldest ODI debutant at 33?",
+    "description": "Cricketer making ODI debut at age 33, second oldest for India.",
+    "options": [
+      "Varun Chakravarthy",
+      "Anil Kumble",
+      "Pravin Amre",
+      "Bhupinder Singh"
+    ],
+    "correctAnswer": "Varun Chakravarthy"
+  },
+  {
+    "id": "C212",
+    "question": "Who retired as Sri Lanka’s Test captain after 100 matches?",
+    "description": "Sri Lankan cricketer retiring as Test captain after 100 matches.",
+    "options": [
+      "Dimuth Karunaratne",
+      "Mahela Jayawardene",
+      "Kumar Sangakkara",
+      "Sanath Jayasuriya"
+    ],
+    "correctAnswer": "Dimuth Karunaratne"
+  },
+  {
+    "id": "C213",
+    "question": "Which Indian cricketer surpassed Chris Gayle in ODI sixes?",
+    "description": "Indian cricketer who overtook Chris Gayle’s record for most ODI sixes.",
+    "options": [
+      "Rohit Sharma",
+      "Virat Kohli",
+      "MS Dhoni",
+      "Yuvraj Singh"
+    ],
+    "correctAnswer": "Rohit Sharma"
+  },
+  {
+    "id": "C214",
+    "question": "Which footballer retired at 36, ending a legendary Real Madrid career?",
+    "description": "Footballer retiring at 36 after an illustrious Real Madrid career.",
+    "options": [
+      "Marcelo",
+      "Sergio Ramos",
+      "Cristiano Ronaldo",
+      "Iker Casillas"
+    ],
+    "correctAnswer": "Marcelo"
+  },
+  {
+    "id": "C215",
+    "question": "What is the name of the new sports drink backed by Muralitharan?",
+    "description": "Sports drink endorsed by cricketer Muralitharan.",
+    "options": [
+      "Spinner",
+      "EnergyX",
+      "HydraBoost",
+      "PowerPlay"
+    ],
+    "correctAnswer": "Spinner"
+  },
+  {
+    "id": "C216",
+    "question": "Who won the Mumbai Open 2025 WTA 125 title?",
+    "description": "Winner of the 2025 Mumbai Open WTA 125 tennis tournament.",
+    "options": [
+      "Jil Teichmann",
+      "Sania Mirza",
+      "Ashleigh Barty",
+      "Elina Svitolina"
+    ],
+    "correctAnswer": "Jil Teichmann"
+  },
+  {
+    "id": "C217",
+    "question": "Which footballer topped the 2025 highest-paid athlete list?",
+    "description": "Highest-paid athlete in 2025 according to earnings.",
+    "options": [
+      "Cristiano Ronaldo",
+      "Lionel Messi",
+      "Neymar",
+      "LeBron James"
+    ],
+    "correctAnswer": "Cristiano Ronaldo"
+  },
+  {
+    "id": "C218",
+    "question": "Where will the 2027 National Games be held in India?",
+    "description": "Host state for the 2027 Indian National Games.",
+    "options": [
+      "Meghalaya",
+      "Manipur",
+      "Goa",
+      "Kerala"
+    ],
+    "correctAnswer": "Meghalaya"
+  },
+  {
+    "id": "C219",
+    "question": "AIIMS Delhi launched which automated biomedical waste system?",
+    "description": "Name of the automated biomedical waste management system launched by AIIMS Delhi.",
+    "options": [
+      "Srjanam",
+      "Swasthya",
+      "CleanMed",
+      "BioSafe"
+    ],
+    "correctAnswer": "Srjanam"
+  },
+  {
+    "id": "C220",
+    "question": "What space phenomenon did ESA's Euclid Telescope recently capture?",
+    "description": "Space phenomenon captured by ESA's Euclid Telescope.",
+    "options": [
+      "A perfect Einstein Ring",
+      "Black hole merger",
+      "Supernova explosion",
+      "Cosmic microwave background"
+    ],
+    "correctAnswer": "A perfect Einstein Ring"
+  },
+  {
+    "id": "C221",
+    "question": "What will China build at a 2,000m depth in the South China Sea?",
+    "description": "China's planned construction at deep-sea depth in the South China Sea.",
+    "options": [
+      "A deep-sea research facility",
+      "A military submarine base",
+      "An underwater city",
+      "A shipping hub"
+    ],
+    "correctAnswer": "A deep-sea research facility"
+  },
+  {
+    "id": "C222",
+    "question": "What future energy source is ITER developing?",
+    "description": "Energy source being developed by the ITER project.",
+    "options": [
+      "Nuclear fusion energy",
+      "Solar energy",
+      "Wind energy",
+      "Hydroelectric power"
+    ],
+    "correctAnswer": "Nuclear fusion energy"
+  },
+  {
+    "id": "C223",
+    "question": "Who will replace Pekka Lundmark as Nokia’s CEO?",
+    "description": "New CEO appointed for Nokia replacing Pekka Lundmark.",
+    "options": [
+      "Justin Hotard",
+      "Rajeev Suri",
+      "Elop Stephen",
+      "Risto Siilasmaa"
+    ],
+    "correctAnswer": "Justin Hotard"
+  },
+  {
+    "id": "C224",
+    "question": "Who became ICAI’s 73rd President for 2025-26?",
+    "description": "Newly elected President of the Institute of Chartered Accountants of India.",
+    "options": [
+      "CA Charanjot Singh Nanda",
+      "CA Nihar N Jambusaria",
+      "CA Prafulla P Chhajed",
+      "CA Debashis Mitra"
+    ],
+    "correctAnswer": "CA Charanjot Singh Nanda"
+  },
+  {
+    "id": "C225",
+    "question": "Who is the first Hindu Director of US National Intelligence?",
+    "description": "First Hindu appointed as US National Intelligence Director.",
+    "options": [
+      "Tulsi Gabbard",
+      "Sundar Pichai",
+      "Satya Nadella",
+      "Nirav Shah"
+    ],
+    "correctAnswer": "Tulsi Gabbard"
+  },
+  {
+    "id": "C226",
+    "question": "Which IPS officer won the ‘CA in Public Service’ award?",
+    "description": "IPS officer recognized for excellence in public service.",
+    "options": [
+      "Deepak Kedia",
+      "Kiran Bedi",
+      "Rajnath Singh",
+      "Anil Kumar"
+    ],
+    "correctAnswer": "Deepak Kedia"
+  },
+  {
+    "id": "C227",
+    "question": "Which film won the NETPAC Award at the Rotterdam International Film Festival?",
+    "description": "Film awarded the NETPAC Award at Rotterdam Film Festival.",
+    "options": [
+      "Varsha Bharath’s ‘Bad Girl’",
+      "Gully Boy",
+      "Sacred Games",
+      "Piku"
+    ],
+    "correctAnswer": "Varsha Bharath’s ‘Bad Girl’"
+  },
+  {
+    "id": "C228",
+    "question": "What is the name of the India-Egypt joint military exercise in 2025?",
+    "description": "Joint military exercise between India and Egypt in 2025.",
+    "options": ["Desert Storm", "Cyclone 2025", "Operation Nile", "Pharaoh Drill"],
+    "correctAnswer": "Cyclone 2025"
+  },
+  {
+    "id": "C229",
+    "question": "Which Indian trainer aircraft was renamed ‘Yashas’?",
+    "description": "Indian trainer aircraft renamed ‘Yashas’.",
+    "options": ["HAL's HJT-36", "Tejas", "IJT-22", "Saras Mk II"],
+    "correctAnswer": "HAL's HJT-36"
+  },
+  {
+    "id": "C230",
+    "question": "Which company partnered with HAL for electronic warfare systems?",
+    "description": "HAL's partner for electronic warfare systems.",
+    "options": ["Saab", "Lockheed Martin", "Dassault", "Boeing"],
+    "correctAnswer": "Saab"
+  },
+  {
+    "id": "C231",
+    "question": "When is International Darwin Day celebrated?",
+    "description": "Date of observance for International Darwin Day.",
+    "options": ["February 11", "February 12", "February 13", "February 10"],
+    "correctAnswer": "February 12"
+  },
+  {
+    "id": "C232",
+    "question": "What is the theme of International Day of Women & Girls in Science 2025?",
+    "description": "Theme of Women & Girls in Science Day 2025.",
+    "options": [
+      "Empowering Women in Science",
+      "Breaking Barriers in STEM",
+      "Unpacking STEM Careers: Her Voice in Science",
+      "Science Without Borders"
+    ],
+    "correctAnswer": "Unpacking STEM Careers: Her Voice in Science"
+  },
+  {
+    "id": "C233",
+    "question": "When is National Productivity Day observed in India?",
+    "description": "Date of National Productivity Day in India.",
+    "options": ["February 10", "February 11", "February 12", "February 13"],
+    "correctAnswer": "February 12"
+  },
+  {
+    "id": "C234",
+    "question": "When is World Pulses Day observed?",
+    "description": "Date of World Pulses Day observance.",
+    "options": ["February 8", "February 9", "February 10", "February 11"],
+    "correctAnswer": "February 10"
+  },
+  {
+    "id": "C235",
+    "question": "What is the theme of International Epilepsy Day 2025?",
+    "description": "Theme of International Epilepsy Day 2025.",
+    "options": ["MyEpilepsyJourney", "End Epilepsy Now", "Living with Epilepsy", "Seizure-Free Future"],
+    "correctAnswer": "MyEpilepsyJourney"
+  },
+  {
+    "id": "C236",
+    "question": "Which international day is observed on February 11 to combat smuggling?",
+    "description": "International day to raise awareness about smuggling.",
+    "options": ["Anti-Smuggling Day", "Smuggling Awareness Day", "No Trafficking Day", "Stop Smuggling Day"],
+    "correctAnswer": "Anti-Smuggling Day"
+  },
+  {
+    "id": "C237",
+    "question": "Which United Nations-recognized day highlights the conservation of the Arabian leopard?",
+    "description": "UN day for conservation of the Arabian leopard.",
+    "options": [
+      "Arabian Wildlife Day",
+      "Save the Leopard Day",
+      "International Day of the Arabian Leopard",
+      "Wild Cat Conservation Day"
+    ],
+    "correctAnswer": "International Day of the Arabian Leopard (February 10)"
+  },
+  {
+    "id": "C238",
+    "question": "What is the focus of the International Day Against Violent Extremism 2025?",
+    "description": "Focus of the 2025 International Day Against Violent Extremism.",
+    "options": [
+      "Promoting Peace through Education",
+      "Countering Cyber Extremism",
+      "Combating terrorism from groups like ISIL, Al-Qaida, and Boko Haram",
+      "Youth Engagement in Peacebuilding"
+    ],
+    "correctAnswer": "Combating terrorism from groups like ISIL, Al-Qaida, and Boko Haram"
+  },
+  {
+    "id": "C239",
+    "question": "Where will the WAVES Summit 2025 be held?",
+    "description": "Venue of the WAVES Summit 2025.",
+    "options": ["Delhi", "Dubai", "Mumbai", "Bengaluru"],
+    "correctAnswer": "Mumbai"
+  },
+  {
+    "id": "C240",
+    "question": "Who inaugurated the International Unani Medicine Conference in 2025?",
+    "description": "Inauguration of the 2025 International Unani Medicine Conference.",
+    "options": [
+      "Prime Minister Narendra Modi",
+      "President Droupadi Murmu",
+      "Health Minister Mansukh Mandaviya",
+      "Ayush Minister Sarbananda Sonowal"
+    ],
+    "correctAnswer": "President Droupadi Murmu"
+  },
+  {
+    "id": "C241",
+    "question": "Which country will host the next Global AI Summit after Paris?",
+    "description": "Host country of the next Global AI Summit after Paris.",
+    "options": ["Germany", "India", "Japan", "USA"],
+    "correctAnswer": "India"
+  },
+  {
+    "id": "C242",
+    "question": "Where did PM Modi address the SAMVAD event on Buddhism?",
+    "description": "Location of PM Modi's address at the SAMVAD event on Buddhism.",
+    "options": ["Nepal", "Sri Lanka", "Thailand", "Bhutan"],
+    "correctAnswer": "Thailand"
+  },
+  {
+    "id": "C243",
+    "question": "What was India’s key focus at the World Government Summit 2025 in Dubai?",
+    "description": "India's main agenda at the 2025 World Government Summit in Dubai.",
+    "options": [
+      "Digital Transformation",
+      "Green growth and climate resilience",
+      "AI in Governance",
+      "Space Diplomacy"
+    ],
+    "correctAnswer": "Green growth and climate resilience"
+  },
+  {
+    "id": "C244",
+    "question": "What is India’s rank in the Global LEED Green Buildings 2024?",
+    "description": "India’s global ranking in LEED-certified green buildings for 2024.",
+    "options": ["1st", "2nd", "3rd", "4th"],
+    "correctAnswer": "3rd"
+  },
+  {
+    "id": "C245",
+    "question": "What was India’s rank in Transparency International's Corruption Perceptions Index (CPI) 2024?",
+    "description": "India's position in CPI 2024 by Transparency International.",
+    "options": ["88th", "96th", "104th", "82nd"],
+    "correctAnswer": "96th out of 180 countries"
+  },
+  {
+    "id": "C246",
+    "question": "What rank did India secure in International Shipments under the World Bank’s Logistics Performance Index?",
+    "description": "India's rank in International Shipments - Logistics Performance Index.",
+    "options": ["18th", "22nd", "26th", "20th"],
+    "correctAnswer": "22nd"
+  },
+  {
+    "id": "C247",
+    "question": "What report did NITI Aayog release on higher education in 2025?",
+    "description": "Higher education-related report by NITI Aayog in 2025.",
+    "options": [
+      "NEP 2025 Review",
+      "Digital Universities Plan",
+      "Policy report on improving State Public Universities",
+      "Innovation in Technical Education"
+    ],
+    "correctAnswer": "A policy report on improving State Public Universities"
+  },
+  {
+    "id": "C248",
+    "question": "Who topped Bloomberg’s 2025 list of Asia’s wealthiest families?",
+    "description": "Top name in Bloomberg’s 2025 list of Asia’s richest families.",
+    "options": ["Mukesh Ambani", "Gautam Adani", "Lee Family", "Tata Family"],
+    "correctAnswer": "Mukesh Ambani"
+  },
+  {
+    "id": "C249",
+    "question": "How many Jan Dhan accounts were recorded as of January 2025?",
+    "description": "Number of Jan Dhan accounts as of Jan 2025.",
+    "options": ["50 crore", "54.5 crore", "52.1 crore", "55 crore"],
+    "correctAnswer": "54.5 crore"
+  },
+  {
+    "id": "C250",
+    "question": "How many commodities are now tradable on eNAM?",
+    "description": "Total commodities tradable on the eNAM platform.",
+    "options": ["200", "215", "231", "240"],
+    "correctAnswer": "231"
+  },
+  {
+    "id": "C251",
+    "question": "Which organization launched the India-EFTA Desk in 2025?",
+    "description": "Organization that launched the India-EFTA Desk in 2025.",
+    "options": [
+      "NITI Aayog",
+      "Ministry of External Affairs",
+      "Ministry of Commerce and Industry",
+      "FICCI"
+    ],
+    "correctAnswer": "Ministry of Commerce and Industry"
+  },
+  {
+    "id": "C252",
+    "question": "What was India’s retail inflation (CPI) rate in January 2025?",
+    "description": "India’s CPI retail inflation rate for Jan 2025.",
+    "options": ["4.31%", "4.15%", "4.60%", "3.98%"],
+    "correctAnswer": "4.31%"
+  },
+  {
+    "id": "C253",
+    "question": "What was India’s IIP growth rate in December 2024?",
+    "description": "India's Index of Industrial Production growth for Dec 2024.",
+    "options": ["2.9%", "3.0%", "3.2%", "3.4%"],
+    "correctAnswer": "3.2%"
+  },
+  {
+    "id": "C254",
+    "question": "Which institution signed an MoU with ERNET India for IoT research?",
+    "description": "Institution partnered with ERNET India for IoT research.",
+    "options": [
+      "IIT Madras",
+      "IIITDM Kancheepuram",
+      "NIT Trichy",
+      "IISc Bengaluru"
+    ],
+    "correctAnswer": "IIITDM Kancheepuram"
+  },
+  {
+    "id": "C255",
+    "question": "Which drone technology firm partnered with Tata Elxsi under the ‘Make in India’ initiative?",
+    "description": "Drone tech firm partnering with Tata Elxsi for ‘Make in India’.",
+    "options": [
+      "IdeaForge",
+      "Garuda Aerospace",
+      "Asteria Aerospace",
+      "Marut Drones"
+    ],
+    "correctAnswer": "Garuda Aerospace"
+  },
+  {
+    "id": "C256",
+    "question": "Which foreign investment firm increased its stake in AU Small Finance Bank to 7%?",
+    "description": "Firm that increased stake in AU Small Finance Bank to 7%.",
+    "options": [
+      "Blackstone",
+      "Zulia Investments (Temasek unit)",
+      "Goldman Sachs",
+      "GIC Ventures"
+    ],
+    "correctAnswer": "Zulia Investments (Temasek unit)"
+  },
+  {
+    "id": "C257",
+    "question": "Which IT company partnered with Finland’s UPM for a major cloud transformation deal?",
+    "description": "IT company that signed a cloud deal with Finland's UPM.",
+    "options": [
+      "Infosys",
+      "Tata Consultancy Services (TCS)",
+      "Wipro",
+      "HCLTech"
+    ],
+    "correctAnswer": "Tata Consultancy Services (TCS)"
+  },
+  {
+    "id": "C258",
+    "question": "What WPI inflation rate was recorded in January 2025?",
+    "description": "Wholesale Price Index (WPI) inflation rate in January 2025.",
+    "options": ["2.00%", "2.31%", "2.50%", "2.12%"],
+    "correctAnswer": "2.31% year-on-year"
+  },
+  {
+    "id": "C259",
+    "question": "Who was Namibia’s first President, who passed away at 95?",
+    "description": "Namibia’s first President who passed away at age 95.",
+    "options": [
+      "Hage Geingob",
+      "Sam Nujoma",
+      "Theo-Ben Gurirab",
+      "Andimba Toivo ya Toivo"
+    ],
+    "correctAnswer": "Sam Nujoma"
+  },
+  {
+    "id": "C260",
+    "question": "Which prominent religious leader of the Shri Ram Janmabhoomi Temple passed away in 2025?",
+    "description": "Religious head of Shri Ram Janmabhoomi Temple who died in 2025.",
+    "options": [
+      "Mahant Nritya Gopal Das",
+      "Acharya Satyendra Das",
+      "Swami Avimukteshwaranand",
+      "Swami Ramdev"
+    ],
+    "correctAnswer": "Acharya Satyendra Das"
+  }
+]

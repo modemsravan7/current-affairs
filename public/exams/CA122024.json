@@ -1,0 +1,2846 @@
+[
+  {
+    "id": "Q1",
+    "question": "What is the name of India's first vertical lift railway sea bridge that replaced a 105-year-old bridge?",
+    "description": "India's first vertical lift railway sea bridge, replacing a 105-year-old bridge, is the New Pamban Bridge.",
+    "options": [
+      "New Pamban Bridge",
+      "Howrah Bridge",
+      "Vasco da Gama Bridge",
+      "Bandra-Worli Sea Link"
+    ],
+    "correctAnswer": "New Pamban Bridge"
+  },
+  {
+    "id": "Q2",
+    "question": "How many tiger reserves are there in India after the notification of Ratapani Tiger Reserve?",
+    "description": "After the notification of Ratapani Tiger Reserve, India has 57 tiger reserves.",
+    "options": [
+      "50 Tiger Reserves",
+      "55 Tiger Reserves",
+      "57 Tiger Reserves",
+      "60 Tiger Reserves"
+    ],
+    "correctAnswer": "57 Tiger Reserves"
+  },
+  {
+    "id": "Q3",
+    "question": "What is the total number of tigers in India as of 2022?",
+    "description": "The total number of tigers in India as of 2022 is 3,682.",
+    "options": [
+      "2,967 Tigers",
+      "3,682 Tigers",
+      "4,150 Tigers",
+      "3,000 Tigers"
+    ],
+    "correctAnswer": "3,682 Tigers"
+  },
+  {
+    "id": "Q4",
+    "question": "Which bill was passed to modernize aviation regulations in 2024?",
+    "description": "The Bharatiya Vayuyan Vidheyak 2024 bill was passed to modernize aviation regulations.",
+    "options": [
+      "Bharatiya Vayuyan Vidheyak 2024",
+      "Civil Aviation Act 2024",
+      "Air Transport Modernization Bill",
+      "Aviation Safety Act"
+    ],
+    "correctAnswer": "Bharatiya Vayuyan Vidheyak 2024"
+  },
+  {
+    "id": "Q5",
+    "question": "What is the improved Sex Ratio at Birth reported in 2023-24?",
+    "description": "The improved Sex Ratio at Birth reported in 2023-24 is 930 females per 1000 males.",
+    "options": [
+      "920",
+      "930",
+      "940",
+      "950"
+    ],
+    "correctAnswer": "930"
+  },
+  {
+    "id": "Q6",
+    "question": "Who was appointed as the new FBI Director in 2024?",
+    "description": "Kash Patel was appointed as the new FBI Director in 2024.",
+    "options": [
+      "Christopher Wray",
+      "Kash Patel",
+      "Andrew McCabe",
+      "James Comey"
+    ],
+    "correctAnswer": "Kash Patel"
+  },
+  {
+    "id": "Q7",
+    "question": "What is the value of the US-India Defence Deal for Indian Navy's MH-60R helicopters?",
+    "description": "The US-India Defence Deal for Indian Navy's MH-60R helicopters is valued at $1.17 billion.",
+    "options": [
+      "$1.17 billion",
+      "$900 million",
+      "$2 billion",
+      "$1.5 billion"
+    ],
+    "correctAnswer": "$1.17 billion"
+  },
+  {
+    "id": "Q8",
+    "question": "Who became Namibia's first female president?",
+    "description": "Netumbo Nandi-Ndaitwah became Namibia's first female president.",
+    "options": [
+      "Netumbo Nandi-Ndaitwah",
+      "Hage Geingob",
+      "Samantha Smith",
+      "Ellen Johnson Sirleaf"
+    ],
+    "correctAnswer": "Netumbo Nandi-Ndaitwah"
+  },
+  {
+    "id": "Q9",
+    "question": "What is the name of the first water transport service launched in Srinagar's Dal Lake?",
+    "description": "Uber Shikara is the first water transport service launched in Srinagar's Dal Lake.",
+    "options": [
+      "Uber Shikara",
+      "Dal Lake Ferry",
+      "Srinagar Water Taxi",
+      "Shikara Service"
+    ],
+    "correctAnswer": "Uber Shikara"
+  },
+  {
+    "id": "Q10",
+    "question": "Which military exercises began in Pune focusing on counter-terrorism operations?",
+    "description": "The India-Cambodia joint exercise CINBAX began in Pune focusing on counter-terrorism.",
+    "options": [
+      "India-Cambodia joint exercise CINBAX",
+      "Indo-US Yudh Abhyas",
+      "Indo-Russian Vostok",
+      "Indo-France Garuda"
+    ],
+    "correctAnswer": "India-Cambodia joint exercise CINBAX"
+  },
+  {
+    "id": "Q11",
+    "question": "How much is the Adani Group planning to invest in European Ports?",
+    "description": "The Adani Group is planning to invest $2 billion in European Ports.",
+    "options": [
+      "$1 billion",
+      "$2 billion",
+      "$3 billion",
+      "$500 million"
+    ],
+    "correctAnswer": "$2 billion"
+  },
+  {
+    "id": "Q12",
+    "question": "What was the GST collection in November 2024?",
+    "description": "The GST collection in November 2024 was ₹1.82 trillion.",
+    "options": [
+      "₹1.5 trillion",
+      "₹1.82 trillion",
+      "₹2 trillion",
+      "₹1.6 trillion"
+    ],
+    "correctAnswer": "₹1.82 trillion"
+  },
+  {
+    "id": "Q13",
+    "question": "How much did FDI inflows increase in H1 FY25?",
+    "description": "FDI inflows increased by 45% to USD 29.79 billion in H1 FY25.",
+    "options": [
+      "30%",
+      "45%",
+      "50%",
+      "60%"
+    ],
+    "correctAnswer": "45%"
+  },
+  {
+    "id": "Q14",
+    "question": "What is the total value of UPI transactions in October 2024?",
+    "description": "The total value of UPI transactions in October 2024 was ₹23.5 trillion.",
+    "options": [
+      "₹20 trillion",
+      "₹23.5 trillion",
+      "₹25 trillion",
+      "₹22 trillion"
+    ],
+    "correctAnswer": "₹23.5 trillion"
+  },
+  {
+    "id": "Q15",
+    "question": "What is the unemployment rate reported in 2024?",
+    "description": "The unemployment rate reported in 2024 is 3.2%.",
+    "options": [
+      "2.8%",
+      "3.2%",
+      "3.5%",
+      "4%"
+    ],
+    "correctAnswer": "3.2%"
+  },
+  {
+    "id": "Q16",
+    "question": "How many tonnes of gold reserves does India have as of October 2024?",
+    "description": "India's gold reserves as of October 2024 stand at 882 tonnes.",
+    "options": [
+      "800 tonnes",
+      "850 tonnes",
+      "882 tonnes",
+      "900 tonnes"
+    ],
+    "correctAnswer": "882 tonnes"
+  },
+  {
+    "id": "Q17",
+    "question": "What is the new UPI Lite wallet limit set by RBI?",
+    "description": "RBI has set the new UPI Lite wallet limit at ₹5,000.",
+    "options": [
+      "₹1,000",
+      "₹3,000",
+      "₹5,000",
+      "₹10,000"
+    ],
+    "correctAnswer": "₹5,000"
+  },
+  {
+    "id": "Q18",
+    "question": "What percentage of GDP do women-centric schemes account for?",
+    "description": "Women-centric schemes account for 0.5% of India's GDP.",
+    "options": [
+      "0.3%",
+      "0.5%",
+      "1%",
+      "2%"
+    ],
+    "correctAnswer": "0.5%"
+  },
+  {
+    "id": "Q19",
+    "question": "How many individuals have been trained under PMGDISHA?",
+    "description": "PMGDISHA has trained 6.39 crore individuals so far.",
+    "options": [
+      "5 crore",
+      "6.39 crore",
+      "7 crore",
+      "8 crore"
+    ],
+    "correctAnswer": "6.39 crore"
+  },
+  {
+    "id": "Q20",
+    "question": "What is the target for rooftop solar installations under Pradhan Mantri Surya Ghar Muft Bijli Yojana?",
+    "description": "The target is to achieve 1 crore rooftop solar installations by 2027 under this scheme.",
+    "options": [
+      "50 lakh by 2027",
+      "1 crore by 2027",
+      "1.5 crore by 2025",
+      "2 crore by 2027"
+    ],
+    "correctAnswer": "1 crore by 2027"
+  },
+  {
+    "id": "Q21",
+    "question": "Who won the 2024 Turner Prize?",
+    "description": "Jasleen Kaur won the prestigious 2024 Turner Prize.",
+    "options": [
+      "Jasleen Kaur",
+      "Ravi Verma",
+      "Amitabh Bachchan",
+      "Ananya Panday"
+    ],
+    "correctAnswer": "Jasleen Kaur"
+  },
+  {
+    "id": "Q22",
+    "question": "What is the new Cash Transfer amount proposed by Haryana under \"Ladki Bahin Yojana\"?",
+    "description": "Haryana proposed a cash transfer amount of ₹2,100 per month under the Ladki Bahin Yojana.",
+    "options": [
+      "₹1,500/month",
+      "₹2,100/month",
+      "₹3,000/month",
+      "₹2,500/month"
+    ],
+    "correctAnswer": "₹2,100/month"
+  },
+  {
+    "id": "Q23",
+    "question": "Which world maritime conference was hosted in Chennai?",
+    "description": "Chennai hosted the World Maritime Conference 2024.",
+    "options": [
+      "World Maritime Conference 2024",
+      "International Maritime Summit",
+      "Global Ports Conference",
+      "Asia-Pacific Maritime Forum"
+    ],
+    "correctAnswer": "World Maritime Conference 2024"
+  },
+  {
+    "id": "Q24",
+    "question": "Who became the youngest ICC Chairman?",
+    "description": "Jay Shah became the youngest ICC Chairman.",
+    "options": [
+      "Jay Shah",
+      "N. Srinivasan",
+      "Shashank Manohar",
+      "Sourav Ganguly"
+    ],
+    "correctAnswer": "Jay Shah"
+  },
+  {
+    "id": "Q25",
+    "question": "How many MSSC scheme accounts were opened as of October 31, 2024?",
+    "description": "Over 43 lakh MSSC scheme accounts were opened as of October 31, 2024.",
+    "options": [
+      "30 lakh",
+      "35 lakh",
+      "43 lakh",
+      "50 lakh"
+    ],
+    "correctAnswer": "Over 43 lakh"
+  },
+  {
+    "id": "Q26",
+    "question": "What is the per-transaction cap for UPI Lite raised to?",
+    "description": "The per-transaction cap for UPI Lite has been raised to ₹1,000.",
+    "options": [
+      "₹500",
+      "₹1,000",
+      "₹2,000",
+      "₹5,000"
+    ],
+    "correctAnswer": "₹1,000"
+  },
+  {
+    "id": "Q27",
+    "question": "Who passed away, known as the 'Old Fox' of Indian squash?",
+    "description": "Brigadier Raj Manchanda, known as the 'Old Fox' of Indian squash, passed away.",
+    "options": [
+      "Brigadier Raj Manchanda",
+      "Dilip Kumar",
+      "Kapil Dev",
+      "Sachin Tendulkar"
+    ],
+    "correctAnswer": "Brigadier Raj Manchanda"
+  },
+  {
+    "id": "Q28",
+    "question": "What is the GDP growth forecast for FY25 by Morgan Stanley?",
+    "description": "Morgan Stanley forecasted India's GDP growth for FY25 at 6.3%.",
+    "options": [
+      "5.8%",
+      "6.3%",
+      "6.7%",
+      "7%"
+    ],
+    "correctAnswer": "6.3%"
+  },
+  {
+    "id": "Q29",
+    "question": "Which state leads in women-centric scheme allocation?",
+    "description": "Maharashtra leads in the allocation of women-centric schemes.",
+    "options": [
+      "Uttar Pradesh",
+      "Maharashtra",
+      "Tamil Nadu",
+      "Karnataka"
+    ],
+    "correctAnswer": "Maharashtra"
+  },
+  {
+    "id": "Q30",
+    "question": "What was the fine imposed by SEBI on Reliance Securities?",
+    "description": "SEBI imposed a fine of ₹9 lakh on Reliance Securities.",
+    "options": [
+      "₹5 lakh",
+      "₹7 lakh",
+      "₹9 lakh",
+      "₹12 lakh"
+    ],
+    "correctAnswer": "₹9 lakh"
+  },
+  {
+    "id": "Q31",
+    "question": "How many rooftop solar installations have been achieved under PMSGMBY?",
+    "description": "6.3 lakh rooftop solar installations have been achieved under the Pradhan Mantri Surya Ghar Muft Bijli Yojana.",
+    "options": [
+      "5 lakh",
+      "6.3 lakh",
+      "7 lakh",
+      "8 lakh"
+    ],
+    "correctAnswer": "6.3 lakh"
+  },
+  {
+    "id": "Q32",
+    "question": "Who won India's first medal in eFootball at the Asian Esports Games?",
+    "description": "Pavan Kampelli won India's first medal in eFootball at the Asian Esports Games.",
+    "options": [
+      "Pavan Kampelli",
+      "Suresh Raina",
+      "Virat Kohli",
+      "Rohit Sharma"
+    ],
+    "correctAnswer": "Pavan Kampelli"
+  },
+  {
+    "id": "Q33",
+    "question": "What is the Worker Population Ratio reported?",
+    "description": "The Worker Population Ratio is reported at 58.2%.",
+    "options": [
+      "55.5%",
+      "56.7%",
+      "58.2%",
+      "60%"
+    ],
+    "correctAnswer": "58.2%"
+  },
+  {
+    "id": "Q34",
+    "question": "How many individuals were rehabilitated under the 'Smile Sub-Scheme'?",
+    "description": "970 individuals were rehabilitated under the Smile Sub-Scheme.",
+    "options": [
+      "800",
+      "900",
+      "970",
+      "1,000"
+    ],
+    "correctAnswer": "970"
+  },
+  {
+    "id": "Q35",
+    "question": "What is the OECD's growth forecast for India in FY25?",
+    "description": "OECD forecasted India's GDP growth for FY25 at 6.8%.",
+    "options": [
+      "6.3%",
+      "6.5%",
+      "6.8%",
+      "7%"
+    ],
+    "correctAnswer": "6.8%"
+  },
+  {
+    "id": "Q36",
+    "question": "Which country contributed 50% of FDI inflows in Q3 FY25?",
+    "description": "Singapore contributed 50% of FDI inflows in Q3 FY25.",
+    "options": [
+      "USA",
+      "Singapore",
+      "UK",
+      "Japan"
+    ],
+    "correctAnswer": "Singapore"
+  },
+  {
+    "id": "Q37",
+    "question": "What is the amount of World Bank loan approved for Maharashtra?",
+    "description": "World Bank approved $188.28 million loan for Maharashtra.",
+    "options": [
+      "$150 million",
+      "$188.28 million",
+      "$200 million",
+      "$250 million"
+    ],
+    "correctAnswer": "$188.28 million"
+  },
+  {
+    "id": "Q38",
+    "question": "How much dividend did NSIC pay for FY24?",
+    "description": "NSIC paid ₹37.97 crore as dividend for FY24.",
+    "options": [
+      "₹30 crore",
+      "₹35 crore",
+      "₹37.97 crore",
+      "₹40 crore"
+    ],
+    "correctAnswer": "₹37.97 crore"
+  },
+  {
+    "id": "Q39",
+    "question": "What is the number of credit cards issued by SBI Card?",
+    "description": "SBI Card has issued over 20 million credit cards.",
+    "options": [
+      "15 million",
+      "18 million",
+      "20 million",
+      "Over 20 million"
+    ],
+    "correctAnswer": "Over 20 million"
+  },
+  {
+    "id": "Q40",
+    "question": "Who won the Aster Guardians Global Nursing Award 2024?",
+    "description": "Maria Victoria Juan won the Aster Guardians Global Nursing Award 2024.",
+    "options": [
+      "Maria Victoria Juan",
+      "Anita Desai",
+      "Sunita Williams",
+      "Mary Kom"
+    ],
+    "correctAnswer": "Maria Victoria Juan"
+  },
+  {
+    "id": "Q41",
+    "question": "What is the date of International Day for the Abolition of Slavery?",
+    "description": "International Day for the Abolition of Slavery is observed on December 2.",
+    "options": [
+      "December 1",
+      "December 2",
+      "December 3",
+      "December 4"
+    ],
+    "correctAnswer": "December 2"
+  },
+  {
+    "id": "Q42",
+    "question": "When is World AIDS Day observed?",
+    "description": "World AIDS Day is observed on December 1.",
+    "options": [
+      "November 30",
+      "December 1",
+      "December 2",
+      "December 3"
+    ],
+    "correctAnswer": "December 1"
+  },
+  {
+    "id": "Q43",
+    "question": "What is the date of International Day of Persons with Disabilities?",
+    "description": "International Day of Persons with Disabilities is observed on December 3.",
+    "options": [
+      "December 1",
+      "December 2",
+      "December 3",
+      "December 4"
+    ],
+    "correctAnswer": "December 3"
+  },
+  {
+    "id": "Q44",
+    "question": "When is Indian Navy Day celebrated?",
+    "description": "Indian Navy Day is celebrated on December 4 every year.",
+    "options": [
+      "December 3",
+      "December 4",
+      "December 5",
+      "December 6"
+    ],
+    "correctAnswer": "December 4"
+  },
+  {
+    "id": "Q45",
+    "question": "What is the date of World Soil Day?",
+    "description": "World Soil Day is observed on December 5.",
+    "options": [
+      "December 4",
+      "December 5",
+      "December 6",
+      "December 7"
+    ],
+    "correctAnswer": "December 5"
+  },
+  {
+    "id": "Q46",
+    "question": "When is International Volunteer Day?",
+    "description": "International Volunteer Day is observed on December 5.",
+    "options": [
+      "December 4",
+      "December 5",
+      "December 6",
+      "December 7"
+    ],
+    "correctAnswer": "December 5"
+  },
+  {
+    "id": "Q47",
+    "question": "What is the date of Mahaparinirvan Diwas?",
+    "description": "Mahaparinirvan Diwas is observed on December 6.",
+    "options": [
+      "December 5",
+      "December 6",
+      "December 7",
+      "December 8"
+    ],
+    "correctAnswer": "December 6"
+  },
+  {
+    "id": "Q48",
+    "question": "When is Armed Forces Flag Day observed?",
+    "description": "Armed Forces Flag Day is observed on December 7.",
+    "options": [
+      "December 5",
+      "December 6",
+      "December 7",
+      "December 8"
+    ],
+    "correctAnswer": "December 7"
+  },
+  {
+    "id": "Q49",
+    "question": "What global chess rating did Arjun Erigaisi join?",
+    "description": "Arjun Erigaisi joined the 2800 ELO global chess rating club.",
+    "options": [
+      "2700 ELO",
+      "2750 ELO",
+      "2800 ELO",
+      "2850 ELO"
+    ],
+    "correctAnswer": "2800 ELO"
+  },
+  {
+    "id": "Q50",
+    "question": "Who won the Junior Hockey Asia Cup?",
+    "description": "India won the Junior Hockey Asia Cup by defeating Pakistan 5-3.",
+    "options": [
+      "India",
+      "Pakistan",
+      "Japan",
+      "Malaysia"
+    ],
+    "correctAnswer": "India"
+  },
+  {
+    "id": "Q51",
+    "question": "What is the name of the event celebrating youth innovation in Battery Technology?",
+    "description": "The event celebrating youth innovation in Battery Technology is SheSTEM 2024.",
+    "options": [
+      "SheSTEM 2024",
+      "Youth Tech Expo",
+      "Battery Innovators Summit",
+      "TechYouth 2024"
+    ],
+    "correctAnswer": "SheSTEM 2024"
+  },
+  {
+    "id": "Q52",
+    "question": "Which actor announced retirement from acting?",
+    "description": "Vikrant Massey announced his retirement from acting.",
+    "options": [
+      "Vikrant Massey",
+      "Ayushmann Khurrana",
+      "Ranveer Singh",
+      "Rajkummar Rao"
+    ],
+    "correctAnswer": "Vikrant Massey"
+  },
+  {
+    "id": "Q53",
+    "question": "What disease did India declare as notifiable to reduce mortality?",
+    "description": "India declared Snakebite as a notifiable disease to reduce mortality.",
+    "options": [
+      "Malaria",
+      "Snakebite",
+      "Dengue",
+      "Tuberculosis"
+    ],
+    "correctAnswer": "Snakebite"
+  },
+  {
+    "id": "Q54",
+    "question": "Which global drug policy-making body will India chair?",
+    "description": "India will chair the 68th UN Commission on Narcotic Drugs (CND).",
+    "options": [
+      "World Health Organization",
+      "68th UN Commission on Narcotic Drugs",
+      "UNODC",
+      "International Narcotics Control Board"
+    ],
+    "correctAnswer": "68th UN Commission on Narcotic Drugs"
+  },
+  {
+    "id": "Q55",
+    "question": "What is the aim for snakebite deaths reduction by 2030?",
+    "description": "The aim is halving the mortality rate from snakebite deaths by 2030.",
+    "options": [
+      "Reduce by 25%",
+      "Halve mortality rate",
+      "Eliminate deaths",
+      "Reduce by 10%"
+    ],
+    "correctAnswer": "Halve mortality rate"
+  },
+  {
+    "id": "Q56",
+    "question": "What is the new portal launched for legal metrology?",
+    "description": "The new portal launched for legal metrology is the eMaap Portal.",
+    "options": [
+      "eMaap Portal",
+      "Metrology Online",
+      "LegalMet Portal",
+      "Metrology Connect"
+    ],
+    "correctAnswer": "eMaap Portal"
+  },
+  {
+    "id": "Q57",
+    "question": "Which state announced a new farmer subsidy scheme?",
+    "description": "Telangana announced a new farmer subsidy scheme named Rythu Bharosa.",
+    "options": [
+      "Andhra Pradesh",
+      "Telangana",
+      "Karnataka",
+      "Maharashtra"
+    ],
+    "correctAnswer": "Telangana"
+  },
+  {
+    "id": "Q58",
+    "question": "What is the date of International Civil Aviation Day?",
+    "description": "International Civil Aviation Day is observed on December 7.",
+    "options": [
+      "December 5",
+      "December 6",
+      "December 7",
+      "December 8"
+    ],
+    "correctAnswer": "December 7"
+  },
+  {
+    "id": "Q59",
+    "question": "When is World Meditation Day declared by UNGA?",
+    "description": "World Meditation Day is declared on December 21 by UNGA.",
+    "options": [
+      "December 15",
+      "December 21",
+      "December 25",
+      "December 31"
+    ],
+    "correctAnswer": "December 21"
+  },
+  {
+    "id": "Q60",
+    "question": "Who became Sri Lanka's second female Chief Justice?",
+    "description": "Murdu Fernando became Sri Lanka's second female Chief Justice.",
+    "options": [
+      "Murdu Fernando",
+      "Chandrika Kumaratunga",
+      "Sirimavo Bandaranaike",
+      "Sujatha Rajapaksa"
+    ],
+    "correctAnswer": "Murdu Fernando"
+  },
+  {
+    "id": "Q61",
+    "question": "What is the name of the drone delivered by Adani to Indian Navy?",
+    "description": "The drone delivered by Adani to Indian Navy is named Drishti-10.",
+    "options": [
+      "Drishti-10",
+      "Nishant",
+      "Akash",
+      "Netra"
+    ],
+    "correctAnswer": "Drishti-10"
+  },
+  {
+    "id": "Q62",
+    "question": "Which sports tournament did PV Sindhu win in 2024?",
+    "description": "PV Sindhu won the Syed Modi 2024 tournament.",
+    "options": [
+      "All England 2024",
+      "Syed Modi 2024",
+      "India Open 2024",
+      "BWF World Championship 2024"
+    ],
+    "correctAnswer": "Syed Modi 2024"
+  },
+  {
+    "id": "Q63",
+    "question": "What is the government initiative to modernize the Public Distribution System?",
+    "description": "The initiative to modernize PDS is called 'Anna Chakra'.",
+    "options": [
+      "Anna Chakra",
+      "Food Grid",
+      "PDS Modern",
+      "Ration Connect"
+    ],
+    "correctAnswer": "Anna Chakra"
+  },
+  {
+    "id": "Q64",
+    "question": "What percentage improvement did girls' secondary education see?",
+    "description": "Girls' secondary education saw a 79.4% Gross Enrollment Ratio improvement.",
+    "options": [
+      "75%",
+      "77.5%",
+      "79.4%",
+      "80%"
+    ],
+    "correctAnswer": "79.4%"
+  },
+  {
+    "id": "Q65",
+    "question": "Which military drill between India and Malaysia focuses on jungle terrain?",
+    "description": "Harimau Shakti 2024 is the joint military drill focusing on jungle terrain.",
+    "options": [
+      "Yudh Abhyas",
+      "Harimau Shakti 2024",
+      "Indra 2024",
+      "Ex Malabar"
+    ],
+    "correctAnswer": "Harimau Shakti 2024"
+  },
+  {
+    "id": "Q66",
+    "question": "What is the name of the cybersecurity hub Google will establish in Hyderabad?",
+    "description": "Google will establish the Safety Engineering Centre in Hyderabad.",
+    "options": [
+      "Cyber Secure Hub",
+      "Safety Engineering Centre",
+      "Google Security Lab",
+      "Data Defense Centre"
+    ],
+    "correctAnswer": "Safety Engineering Centre"
+  },
+  {
+    "id": "Q67",
+    "question": "What is the new digital literacy milestone in rural India?",
+    "description": "6.39 crore individuals have been trained in digital literacy in rural India.",
+    "options": [
+      "5 crore",
+      "6.39 crore",
+      "7 crore",
+      "8 crore"
+    ],
+    "correctAnswer": "6.39 crore"
+  },
+  {
+    "id": "Q68",
+    "question": "Which technology was trialed to improve water quality in Delhi Zoo?",
+    "description": "Nano Bubble Technology was trialed to improve water quality in Delhi Zoo.",
+    "options": [
+      "Nano Bubble Technology",
+      "UV Filtration",
+      "Ozone Treatment",
+      "Reverse Osmosis"
+    ],
+    "correctAnswer": "Nano Bubble Technology"
+  },
+  {
+    "id": "Q69",
+    "question": "What is the amount of annual farmer subsidy announced in Telangana?",
+    "description": "Telangana announced an annual farmer subsidy of ₹15,000.",
+    "options": [
+      "₹10,000",
+      "₹15,000",
+      "₹20,000",
+      "₹25,000"
+    ],
+    "correctAnswer": "₹15,000"
+  },
+  {
+    "id": "Q70",
+    "question": "Which foundation received FCRA licenses for foreign funding?",
+    "description": "CNI and USIN Foundation received FCRA licenses for foreign funding.",
+    "options": [
+      "CNI and USIN Foundation",
+      "Gandhi Foundation",
+      "Tata Foundation",
+      "Azim Premji Foundation"
+    ],
+    "correctAnswer": "CNI and USIN Foundation"
+  },
+  {
+    "id": "Q71",
+    "question": "What agricultural market linkage mission was launched in Arunachal Pradesh?",
+    "description": "Mission Arun Himveer was launched for agricultural market linkage in Arunachal Pradesh.",
+    "options": [
+      "Mission Arun Himveer",
+      "Krishi Setu",
+      "AgriLink Arunachal",
+      "Farm Connect"
+    ],
+    "correctAnswer": "Mission Arun Himveer"
+  },
+  {
+    "id": "Q72",
+    "question": "What is the CRR rate after RBI's monetary policy meeting?",
+    "description": "The Cash Reserve Ratio (CRR) rate was set at 4% by RBI.",
+    "options": [
+      "3%",
+      "3.5%",
+      "4%",
+      "4.5%"
+    ],
+    "correctAnswer": "4%"
+  },
+  {
+    "id": "Q73",
+    "question": "What is the name of the Aravalli conservation project presented at UNCCD COP16?",
+    "description": "The Aravalli Green Wall Project was presented at UNCCD COP16.",
+    "options": [
+      "Aravalli Green Wall Project",
+      "Green Aravalli Mission",
+      "Project Aravalli Shield",
+      "Eco Aravalli Plan"
+    ],
+    "correctAnswer": "Aravalli Green Wall Project"
+  },
+  {
+    "id": "Q74",
+    "question": "Which AI company introduced Nova Foundation Models?",
+    "description": "Amazon introduced the Nova Foundation Models in AI.",
+    "options": [
+      "Google",
+      "Amazon",
+      "Microsoft",
+      "OpenAI"
+    ],
+    "correctAnswer": "Amazon"
+  },
+  {
+    "id": "Q75",
+    "question": "What is the age of the world's oldest wild bird still laying eggs?",
+    "description": "Wisdom, a Laysan albatross, is 74 years old and still laying eggs.",
+    "options": [
+      "70 years",
+      "72 years",
+      "74 years",
+      "76 years"
+    ],
+    "correctAnswer": "74 years"
+  },
+  {
+    "id": "Q76",
+    "question": "How many tonnes of gold did India add in 2024?",
+    "description": "India added 77 tonnes of gold in 2024.",
+    "options": [
+      "70 tonnes",
+      "75 tonnes",
+      "77 tonnes",
+      "80 tonnes"
+    ],
+    "correctAnswer": "77 tonnes"
+  },
+  {
+    "id": "Q77",
+    "question": "What is the summit focusing on satellite meteorology?",
+    "description": "The summit on satellite meteorology is called AOMSUC-14.",
+    "options": [
+      "AOMSUC-14",
+      "SATMET-2024",
+      "Meteor Summit",
+      "SatMet Conclave"
+    ],
+    "correctAnswer": "AOMSUC-14"
+  },
+  {
+    "id": "Q78",
+    "question": "Who assumed the chairmanship of the 68th UN Commission on Narcotic Drugs (CND)?",
+    "description": "Ambassador Shambhu S Kumaran assumed chairmanship of the 68th UN CND.",
+    "options": [
+      "Ambassador Shambhu S Kumaran",
+      "Ambassador Anil Kumar",
+      "Ambassador Rajiv Mehta",
+      "Ambassador Sunil Joshi"
+    ],
+    "correctAnswer": "Ambassador Shambhu S Kumaran"
+  },
+  {
+    "id": "Q79",
+    "question": "Which new aviation bill passed in India replaces the Aircraft Act of 1934?",
+    "description": "The Bharatiya Vayuyan Vidheyak 2024 replaces the Aircraft Act of 1934.",
+    "options": [
+      "Aviation Modernisation Act",
+      "Bharatiya Vayuyan Vidheyak 2024",
+      "Aircraft Amendment Act 2024",
+      "Air Safety Act"
+    ],
+    "correctAnswer": "Bharatiya Vayuyan Vidheyak 2024"
+  },
+  {
+    "id": "Q80",
+    "question": "What is the improved sex ratio at birth as per the Beti Bachao Beti Padhao (BBBP) report for 2023-24?",
+    "description": "The improved sex ratio at birth reported is 930.",
+    "options": [
+      "920",
+      "925",
+      "930",
+      "935"
+    ],
+    "correctAnswer": "930"
+  },
+  {
+    "id": "Q81",
+    "question": "Which article did the Supreme Court invoke to grant permanent commission to a woman Army officer?",
+    "description": "The Supreme Court invoked Article 142 to grant permanent commission to a woman Army officer.",
+    "options": [
+      "Article 14",
+      "Article 21",
+      "Article 142",
+      "Article 370"
+    ],
+    "correctAnswer": "Article 142"
+  },
+  {
+    "id": "Q82",
+    "question": "Which bill aims to simplify the legal framework for Indian Railways?",
+    "description": "The Railways (Amendment) Bill 2024 aims to simplify the legal framework for Indian Railways.",
+    "options": [
+      "Railways (Amendment) Bill 2024",
+      "Railway Modernization Bill",
+      "Indian Railways Act 2024",
+      "Railways Safety Bill"
+    ],
+    "correctAnswer": "Railways (Amendment) Bill 2024"
+  },
+  {
+    "id": "Q83",
+    "question": "By what year does India plan to triple its atomic power capacity?",
+    "description": "India plans to triple its atomic power capacity by 2031.",
+    "options": [
+      "2028",
+      "2030",
+      "2031",
+      "2035"
+    ],
+    "correctAnswer": "2031"
+  },
+  {
+    "id": "Q84",
+    "question": "Where was the 22nd Divya Kala Mela 2024 held?",
+    "description": "The 22nd Divya Kala Mela 2024 was held at India Gate, New Delhi.",
+    "options": [
+      "India Gate, New Delhi",
+      "Red Fort, Delhi",
+      "Rashtrapati Bhavan",
+      "Rajpath, New Delhi"
+    ],
+    "correctAnswer": "India Gate, New Delhi"
+  },
+  {
+    "id": "Q85",
+    "question": "Which wildlife sanctuary was declared as India’s 57th tiger reserve?",
+    "description": "Ratapani Wildlife Sanctuary was declared India’s 57th tiger reserve.",
+    "options": [
+      "Bandipur Wildlife Sanctuary",
+      "Ratapani Wildlife Sanctuary",
+      "Kaziranga Wildlife Sanctuary",
+      "Sundarbans Wildlife Sanctuary"
+    ],
+    "correctAnswer": "Ratapani Wildlife Sanctuary"
+  },
+  {
+    "id": "Q86",
+    "question": "What is the amount of loan granted by the Asian Development Bank (ADB) to India for green infrastructure and solar rooftop development?",
+    "description": "ADB granted a $500 million loan to India for green infrastructure and solar rooftop projects.",
+    "options": [
+      "$300 million",
+      "$400 million",
+      "$500 million",
+      "$600 million"
+    ],
+    "correctAnswer": "$500 million"
+  },
+  {
+    "id": "Q87",
+    "question": "What is the focus of the Nyaya Sanhita legislative reform?",
+    "description": "Nyaya Sanhita focuses on quicker justice delivery, especially for marginalized groups.",
+    "options": [
+      "Environmental protection",
+      "Quicker justice delivery",
+      "Tax reforms",
+      "Healthcare reforms"
+    ],
+    "correctAnswer": "Quicker justice delivery"
+  },
+  {
+    "id": "Q88",
+    "question": "Where was the India Maritime Heritage Conclave 2024 held?",
+    "description": "The India Maritime Heritage Conclave 2024 was held in New Delhi.",
+    "options": [
+      "Mumbai",
+      "Chennai",
+      "Kolkata",
+      "New Delhi"
+    ],
+    "correctAnswer": "New Delhi"
+  },
+  {
+    "id": "Q89",
+    "question": "Who did the Supreme Court Collegium recommend for the post of permanent judges in three High Courts?",
+    "description": "The Supreme Court Collegium recommended seven additional judges as permanent judges.",
+    "options": [
+      "Five additional judges",
+      "Seven additional judges",
+      "Ten additional judges",
+      "Twelve additional judges"
+    ],
+    "correctAnswer": "Seven additional judges"
+  },
+  {
+    "id": "Q90",
+    "question": "Which state in the US declared December 6 as Mahatma Gandhi Remembrance Day?",
+    "description": "Nebraska declared December 6 as Mahatma Gandhi Remembrance Day.",
+    "options": [
+      "California",
+      "Nebraska",
+      "New York",
+      "Texas"
+    ],
+    "correctAnswer": "Nebraska"
+  },
+  {
+    "id": "Q91",
+    "question": "Who is the new prime minister of Burkina Faso?",
+    "description": "Rimtalba Jean Emmanuel Ouedraogo is the new prime minister of Burkina Faso.",
+    "options": [
+      "Rimtalba Jean Emmanuel Ouedraogo",
+      "Blaise Compaoré",
+      "Paul Kaba Thiéba",
+      "Christophe Joseph Marie Dabiré"
+    ],
+    "correctAnswer": "Rimtalba Jean Emmanuel Ouedraogo"
+  },
+  {
+    "id": "Q92",
+    "question": "Who won the presidency of Ghana in 2024?",
+    "description": "John Mahama won the presidency of Ghana in 2024.",
+    "options": [
+      "Nana Akufo-Addo",
+      "John Mahama",
+      "Kwame Nkrumah",
+      "Jerry Rawlings"
+    ],
+    "correctAnswer": "John Mahama"
+  },
+  {
+    "id": "Q93",
+    "question": "How much did India’s billionaire count rise by in 2024?",
+    "description": "India’s billionaire count rose by 20% in 2024.",
+    "options": [
+      "10%",
+      "15%",
+      "20%",
+      "25%"
+    ],
+    "correctAnswer": "20%"
+  },
+  {
+    "id": "Q94",
+    "question": "Which family ended their 50-year rule in Syria?",
+    "description": "The Assad family ended their 50-year rule in Syria.",
+    "options": [
+      "Al Saud family",
+      "Assad family",
+      "Gaddafi family",
+      "Mubarak family"
+    ],
+    "correctAnswer": "Assad family"
+  },
+  {
+    "id": "Q95",
+    "question": "What is Merriam-Webster’s Word of the Year 2024?",
+    "description": "Polarization was chosen as Merriam-Webster’s Word of the Year 2024.",
+    "options": [
+      "Polarization",
+      "Sustainability",
+      "Resilience",
+      "Innovation"
+    ],
+    "correctAnswer": "Polarization"
+  },
+  {
+    "id": "Q96",
+    "question": "Where was the world’s largest gold bar unveiled?",
+    "description": "The world’s largest gold bar was unveiled in Dubai.",
+    "options": [
+      "Dubai",
+      "London",
+      "New York",
+      "Singapore"
+    ],
+    "correctAnswer": "Dubai"
+  },
+  {
+    "id": "Q97",
+    "question": "Who was nominated by Trump as Assistant Attorney General for Civil Rights?",
+    "description": "Harmeet Kaur Dhillon was nominated by Donald Trump as Assistant Attorney General for Civil Rights.",
+    "options": [
+      "Harmeet Kaur Dhillon",
+      "Kamala Harris",
+      "Sonia Gandhi",
+      "Maya Rao"
+    ],
+    "correctAnswer": "Harmeet Kaur Dhillon"
+  },
+  {
+    "id": "Q98",
+    "question": "When is International Mountain Day celebrated?",
+    "description": "International Mountain Day is celebrated on December 11 every year.",
+    "options": [
+      "December 10",
+      "December 11",
+      "December 12",
+      "December 13"
+    ],
+    "correctAnswer": "December 11"
+  },
+  {
+    "id": "Q99",
+    "question": "Which country's army chief was conferred with an honorary rank of 'General of the Indian Army'?",
+    "description": "The army chief of Nepal was conferred the honorary rank of 'General of the Indian Army'.",
+    "options": [
+      "Bangladesh",
+      "Nepal",
+      "Sri Lanka",
+      "Bhutan"
+    ],
+    "correctAnswer": "Nepal"
+  },
+  {
+    "id": "Q100",
+    "question": "Who was named Time's Person of the Year 2024?",
+    "description": "Donald Trump was named Time's Person of the Year for 2024.",
+    "options": [
+      "Joe Biden",
+      "Donald Trump",
+      "Elon Musk",
+      "Greta Thunberg"
+    ],
+    "correctAnswer": "Donald Trump"
+  },
+  {
+    "id": "Q101",
+    "question": "Who became the first person to surpass $400 billion in net worth?",
+    "description": "Elon Musk became the first person to surpass $400 billion in net worth.",
+    "options": [
+      "Jeff Bezos",
+      "Elon Musk",
+      "Bill Gates",
+      "Warren Buffett"
+    ],
+    "correctAnswer": "Elon Musk"
+  },
+  {
+    "id": "Q102",
+    "question": "What is the name of the Indian film that won at the 13th tve Global Sustainability Film Awards?",
+    "description": "The Indian film 'The Kumbaya Story' won at the 13th tve Global Sustainability Film Awards.",
+    "options": [
+      "The Kumbaya Story",
+      "Dangal",
+      "Lagaan",
+      "Swades"
+    ],
+    "correctAnswer": "The Kumbaya Story"
+  },
+  {
+    "id": "Q103",
+    "question": "Who retired from international cricket in December 2024?",
+    "description": "Imad Wasim retired from international cricket in December 2024.",
+    "options": [
+      "Imad Wasim",
+      "Virat Kohli",
+      "AB de Villiers",
+      "MS Dhoni"
+    ],
+    "correctAnswer": "Imad Wasim"
+  },
+  {
+    "id": "Q104",
+    "question": "Which country is co-hosting the FIFA World Cup 2030 alongside Spain and Portugal?",
+    "description": "Morocco is co-hosting the FIFA World Cup 2030 along with Spain and Portugal.",
+    "options": [
+      "Morocco",
+      "France",
+      "Italy",
+      "Germany"
+    ],
+    "correctAnswer": "Morocco"
+  },
+  {
+    "id": "Q105",
+    "question": "Where was the Sardar Patel Statue unveiled in December 2024?",
+    "description": "The Sardar Patel Statue was unveiled in Jodhpur in December 2024.",
+    "options": [
+      "Ahmedabad",
+      "Jodhpur",
+      "Vadodara",
+      "Surat"
+    ],
+    "correctAnswer": "Jodhpur"
+  },
+  {
+    "id": "Q106",
+    "question": "What is the new sex ratio at birth in Bihar as per the latest report?",
+    "description": "The new sex ratio at birth in Bihar is 882 females per 1,000 males.",
+    "options": [
+      "850",
+      "882",
+      "900",
+      "930"
+    ],
+    "correctAnswer": "882"
+  },
+  {
+    "id": "Q107",
+    "question": "What was the Guinness World Record set in Bhopal during Gita Jayanti celebrations?",
+    "description": "A Guinness World Record of 5,000 Acharyas was set in Bhopal during Gita Jayanti celebrations.",
+    "options": [
+      "4,000 Acharyas",
+      "5,000 Acharyas",
+      "6,000 Acharyas",
+      "7,000 Acharyas"
+    ],
+    "correctAnswer": "5,000 Acharyas"
+  },
+  {
+    "id": "Q108",
+    "question": "What amount of financial aid was announced for women under Delhi’s Mukhya Mantri Mahila Samman Yojana?",
+    "description": "₹2,100 financial aid was announced for women under Delhi’s Mukhya Mantri Mahila Samman Yojana.",
+    "options": [
+      "₹1,000",
+      "₹2,100",
+      "₹3,000",
+      "₹5,000"
+    ],
+    "correctAnswer": "₹2,100"
+  },
+  {
+    "id": "Q109",
+    "question": "Which state leads India in cow milk production?",
+    "description": "Uttar Pradesh leads India in cow milk production.",
+    "options": [
+      "Maharashtra",
+      "Uttar Pradesh",
+      "Punjab",
+      "Gujarat"
+    ],
+    "correctAnswer": "Uttar Pradesh"
+  },
+  {
+    "id": "Q110",
+    "question": "What is the amount of the projects launched by PM Modi in Prayagraj for Maha Kumbh 2025?",
+    "description": "Projects worth ₹5,500 crore were launched by PM Modi in Prayagraj for Maha Kumbh 2025.",
+    "options": [
+      "₹3,000 crore",
+      "₹4,500 crore",
+      "₹5,500 crore",
+      "₹6,000 crore"
+    ],
+    "correctAnswer": "₹5,500 crore"
+  },
+  {
+    "id": "Q111",
+    "question": "Who has been appointed as the new Governor of the Reserve Bank of India (RBI)?",
+    "description": "Sanjay Malhotra has been appointed as the new Governor of the Reserve Bank of India.",
+    "options": [
+      "Shaktikanta Das",
+      "Urjit Patel",
+      "Sanjay Malhotra",
+      "Raghuram Rajan"
+    ],
+    "correctAnswer": "Sanjay Malhotra"
+  },
+  {
+    "id": "Q112",
+    "question": "Who succeeded Rajesh Kumar as the MD & CEO of TransUnion CIBIL?",
+    "description": "Bhavesh Jain succeeded Rajesh Kumar as the MD & CEO of TransUnion CIBIL.",
+    "options": [
+      "Rajesh Kumar",
+      "Bhavesh Jain",
+      "Suresh Patel",
+      "Anil Sharma"
+    ],
+    "correctAnswer": "Bhavesh Jain"
+  },
+  {
+    "id": "Q113",
+    "question": "What new feature will India’s Anti-Drone Unit include?",
+    "description": "India’s Anti-Drone Unit will include laser-equipped anti-drone systems to enhance drone threat countermeasures.",
+    "options": [
+      "Laser-equipped anti-drone systems",
+      "Drone jammers",
+      "Infrared sensors",
+      "Radar detection systems"
+    ],
+    "correctAnswer": "Laser-equipped anti-drone systems"
+  },
+  {
+    "id": "Q114",
+    "question": "Which Russian-built frigate has joined the Indian Navy?",
+    "description": "INS Tushil, a Russian-built frigate, has joined the Indian Navy.",
+    "options": [
+      "INS Tushil",
+      "INS Vikrant",
+      "INS Kolkata",
+      "INS Shivalik"
+    ],
+    "correctAnswer": "INS Tushil"
+  },
+  {
+    "id": "Q115",
+    "question": "What $4 billion deal is India signing with Russia for air defence?",
+    "description": "India is signing a $4 billion deal with Russia for an advanced radar system for air defence.",
+    "options": [
+      "Radar system deal",
+      "Missile system deal",
+      "Jet fighter deal",
+      "Satellite system deal"
+    ],
+    "correctAnswer": "Radar system deal"
+  },
+  {
+    "id": "Q116",
+    "question": "What new initiative is RBI launching to enhance public communication and financial literacy?",
+    "description": "RBI is launching podcasts to enhance public communication and financial literacy.",
+    "options": [
+      "Podcasts",
+      "Mobile apps",
+      "Webinars",
+      "SMS alerts"
+    ],
+    "correctAnswer": "Podcasts"
+  },
+  {
+    "id": "Q117",
+    "question": "What new feature will Small Finance Banks (SFBs) offer through UPI?",
+    "description": "Small Finance Banks will offer pre-sanctioned credit through UPI to facilitate faster lending.",
+    "options": [
+      "Pre-sanctioned credit",
+      "Zero-interest loans",
+      "Instant deposits",
+      "Cashback offers"
+    ],
+    "correctAnswer": "Pre-sanctioned credit"
+  },
+  {
+    "id": "Q118",
+    "question": "Which bank has become the second-largest card issuer in India after HDFC Bank?",
+    "description": "SBI Card has become the second-largest card issuer in India after HDFC Bank.",
+    "options": [
+      "ICICI Bank",
+      "SBI Card",
+      "Axis Bank",
+      "Kotak Mahindra Bank"
+    ],
+    "correctAnswer": "SBI Card"
+  },
+  {
+    "id": "Q119",
+    "question": "Who has been appointed as Executive Director of YES Bank for 2024-2027?",
+    "description": "Manish Jain has been appointed as Executive Director of YES Bank for 2024-2027.",
+    "options": [
+      "Manish Jain",
+      "Rajesh Kumar",
+      "Suresh Nair",
+      "Anil Gupta"
+    ],
+    "correctAnswer": "Manish Jain"
+  },
+  {
+    "id": "Q120",
+    "question": "What is the new initiative launched by the Centre to incubate new smart cities?",
+    "description": "The Centre launched the New Cities Scheme with an Rs 8,000 crore allocation to incubate new smart cities.",
+    "options": [
+      "New Cities Scheme with Rs 8,000 crore allocation",
+      "Smart Villages Program",
+      "Urban Innovation Drive",
+      "Digital India Expansion"
+    ],
+    "correctAnswer": "New Cities Scheme with Rs 8,000 crore allocation"
+  },
+  {
+    "id": "Q121",
+    "question": "Which country leads in mobile malware attacks globally?",
+    "description": "India leads globally in mobile malware attacks.",
+    "options": [
+      "India",
+      "USA",
+      "China",
+      "Russia"
+    ],
+    "correctAnswer": "India"
+  },
+  {
+    "id": "Q122",
+    "question": "What rank did Kerala achieve in the India Skills Report 2025 for employability?",
+    "description": "Kerala achieved 5th rank in the India Skills Report 2025 for employability.",
+    "options": [
+      "1st",
+      "3rd",
+      "5th",
+      "7th"
+    ],
+    "correctAnswer": "5th"
+  },
+  {
+    "id": "Q123",
+    "question": "Which Indian city ranked in the top 5 food cities globally according to Taste Atlas 2024-25?",
+    "description": "Mumbai ranked in the top 5 food cities globally according to Taste Atlas 2024-25.",
+    "options": [
+      "Delhi",
+      "Mumbai",
+      "Bengaluru",
+      "Chennai"
+    ],
+    "correctAnswer": "Mumbai"
+  },
+  {
+    "id": "Q124",
+    "question": "Which state was awarded at the UNESCO Asia-Pacific Awards 2024 for its temple restoration?",
+    "description": "Tamil Nadu was awarded at the UNESCO Asia-Pacific Awards 2024 for temple restoration efforts.",
+    "options": [
+      "Tamil Nadu",
+      "Kerala",
+      "Rajasthan",
+      "Maharashtra"
+    ],
+    "correctAnswer": "Tamil Nadu"
+  },
+  {
+    "id": "Q125",
+    "question": "What global award did Hindustan Shipyard Limited (HSL) win in 2024?",
+    "description": "Hindustan Shipyard Limited won the PSU Transformation Awards for innovation in 2024.",
+    "options": [
+      "PSU Transformation Awards for innovation",
+      "Global Shipbuilding Award",
+      "National Excellence Award",
+      "Technology Pioneer Award"
+    ],
+    "correctAnswer": "PSU Transformation Awards for innovation"
+  },
+  {
+    "id": "Q126",
+    "question": "Which Indian poet was remembered for their impactful literary works on liberation and justice?",
+    "description": "Nikki Giovanni, an Indian poet, was remembered for impactful literary works on liberation and justice.",
+    "options": [
+      "Nikki Giovanni",
+      "Rabindranath Tagore",
+      "Sarojini Naidu",
+      "Kamala Das"
+    ],
+    "correctAnswer": "Nikki Giovanni"
+  },
+  {
+    "id": "Q127",
+    "question": "What is the theme of World Human Rights Day 2024?",
+    "description": "The theme of World Human Rights Day 2024 is 'Our rights, our future, right now.'",
+    "options": [
+      "\"Our rights, our future, right now.\"",
+      "\"Equality and Justice for All\"",
+      "\"Freedom and Dignity\"",
+      "\"Human Rights in a Changing World\""
+    ],
+    "correctAnswer": "\"Our rights, our future, right now.\""
+  },
+  {
+    "id": "Q128",
+    "question": "What is the significance of International Day of Neutrality (Dec 12)?",
+    "description": "Highlights neutrality's role in promoting global peace and stability.",
+    "options": [
+      "Highlights neutrality's role in global peace",
+      "Promotes energy conservation",
+      "Celebrates cultural diversity",
+      "Focuses on climate change awareness"
+    ],
+    "correctAnswer": "Highlights neutrality's role in global peace"
+  },
+  {
+    "id": "Q129",
+    "question": "Which day is observed to promote energy efficiency?",
+    "description": "National Energy Conservation Day promotes awareness about energy efficiency.",
+    "options": [
+      "National Energy Conservation Day",
+      "World Environment Day",
+      "International Solar Day",
+      "Earth Day"
+    ],
+    "correctAnswer": "National Energy Conservation Day"
+  },
+  {
+    "id": "Q130",
+    "question": "Who passed away at the age of 92, known as the “architect of Brand Bengaluru”?",
+    "description": "SM Krishna, the architect of Brand Bengaluru, passed away at 92.",
+    "options": [
+      "SM Krishna",
+      "H D Deve Gowda",
+      "Siddaramaiah",
+      "BS Yediyurappa"
+    ],
+    "correctAnswer": "SM Krishna"
+  },
+  {
+    "id": "Q131",
+    "question": "Which legendary Gujarati singer passed away at the age of 90?",
+    "description": "Purushottam Upadhyay, a legendary Gujarati singer, passed away at 90.",
+    "options": [
+      "Purushottam Upadhyay",
+      "Kumar Gandharva",
+      "Bhupen Hazarika",
+      "Asha Bhosle"
+    ],
+    "correctAnswer": "Purushottam Upadhyay"
+  },
+  {
+    "id": "Q132",
+    "question": "Which IIT has completed a 410-meter test track for hyperloop technology?",
+    "description": "IIT Madras has completed a 410-meter test track to develop hyperloop technology.",
+    "options": [
+      "IIT Madras",
+      "IIT Bombay",
+      "IIT Delhi",
+      "IIT Kanpur"
+    ],
+    "correctAnswer": "IIT Madras"
+  },
+  {
+    "id": "Q133",
+    "question": "Which country’s army chief was honored with the Indian Army's honorary general rank?",
+    "description": "Nepal’s army chief was conferred the honorary general rank by the Indian Army.",
+    "options": [
+      "Nepal",
+      "Bhutan",
+      "Bangladesh",
+      "Sri Lanka"
+    ],
+    "correctAnswer": "Nepal"
+  },
+  {
+    "id": "Q134",
+    "question": "Which Indian state will host the Khelo India Winter Games in 2025?",
+    "description": "Leh (Ladakh) and Gulmarg (J&K) will host the Khelo India Winter Games 2025.",
+    "options": [
+      "Leh (Ladakh) and Gulmarg (J&K)",
+      "Himachal Pradesh",
+      "Sikkim",
+      "Uttarakhand"
+    ],
+    "correctAnswer": "Leh (Ladakh) and Gulmarg (J&K)"
+  },
+  {
+    "id": "Q135",
+    "question": "Who became the youngest player to reach 100 wickets in all formats in T20I?",
+    "description": "Shaheen Afridi became the youngest player to reach 100 wickets in all T20I formats.",
+    "options": [
+      "Shaheen Afridi",
+      "Jasprit Bumrah",
+      "Trent Boult",
+      "Kagiso Rabada"
+    ],
+    "correctAnswer": "Shaheen Afridi"
+  },
+  {
+    "id": "Q136",
+    "question": "Which global financial body revised India’s GDP growth forecast for FY25 to 6.5%?",
+    "description": "Asian Development Bank (ADB) revised India's GDP growth forecast for FY25 to 6.5%.",
+    "options": [
+      "Asian Development Bank (ADB)",
+      "World Bank",
+      "IMF",
+      "OECD"
+    ],
+    "correctAnswer": "Asian Development Bank (ADB)"
+  },
+  {
+    "id": "Q137",
+    "question": "What is the total amount of FDI inflows that India surpassed?",
+    "description": "India surpassed $1 trillion in total Foreign Direct Investment inflows.",
+    "options": [
+      "$1 trillion",
+      "$500 billion",
+      "$2 trillion",
+      "$750 billion"
+    ],
+    "correctAnswer": "$1 trillion"
+  },
+  {
+    "id": "Q138",
+    "question": "Which Indian city became the host for the 10th World Ayurveda Congress 2024?",
+    "description": "Dehradun hosted the 10th World Ayurveda Congress in 2024.",
+    "options": [
+      "Dehradun",
+      "Kerala",
+      "Varanasi",
+      "Mumbai"
+    ],
+    "correctAnswer": "Dehradun"
+  },
+  {
+    "id": "Q139",
+    "question": "What was the revised GDP growth forecast for India by Fitch?",
+    "description": "Fitch revised India's GDP growth forecast to 6.4%.",
+    "options": [
+      "6.4%",
+      "6.0%",
+      "7.0%",
+      "5.5%"
+    ],
+    "correctAnswer": "6.4%"
+  },
+  {
+    "id": "Q140",
+    "question": "Who launched the Bima Sakhi Yojana for women empowerment?",
+    "description": "PM Modi launched the Bima Sakhi Yojana to empower women.",
+    "options": [
+      "PM Modi",
+      "Rahul Gandhi",
+      "Amit Shah",
+      "Nirmala Sitharaman"
+    ],
+    "correctAnswer": "PM Modi"
+  },
+  {
+    "id": "Q141",
+    "question": "What is the main aim of the 'Smile Sub-Scheme'?",
+    "description": "The 'Smile Sub-Scheme' aims at rehabilitation of marginalized communities.",
+    "options": [
+      "Rehabilitation of marginalized communities",
+      "Healthcare for children",
+      "Women education",
+      "Employment generation"
+    ],
+    "correctAnswer": "Rehabilitation of marginalized communities"
+  },
+  {
+    "id": "Q142",
+    "question": "Which Indian company acquired a stake in Flipkart through an MoU with DPIIT?",
+    "description": "Jubilant Bhartia Group acquired stake in Flipkart via MoU with DPIIT.",
+    "options": [
+      "Jubilant Bhartia Group",
+      "Tata Group",
+      "Reliance Industries",
+      "Adani Group"
+    ],
+    "correctAnswer": "Jubilant Bhartia Group"
+  },
+  {
+    "id": "Q143",
+    "question": "Which Indian state’s school employability ranking is 5th in India?",
+    "description": "Kerala holds the 5th rank in India for school employability.",
+    "options": [
+      "Kerala",
+      "Karnataka",
+      "Tamil Nadu",
+      "Maharashtra"
+    ],
+    "correctAnswer": "Kerala"
+  },
+  {
+    "id": "Q144",
+    "question": "Who was appointed as the Revenue Secretary after Sanjay Malhotra’s move to RBI?",
+    "description": "Ajay Seth was appointed as the Revenue Secretary following Sanjay Malhotra's move to RBI.",
+    "options": [
+      "Ajay Seth",
+      "Sanjay Malhotra",
+      "Bhavesh Jain",
+      "Manish Jain"
+    ],
+    "correctAnswer": "Ajay Seth"
+  },
+  {
+    "id": "Q145",
+    "question": "What was the growth percentage of industrial output in India for October 2024?",
+    "description": "India’s industrial output grew by 3.5% in October 2024.",
+    "options": [
+      "3.5%",
+      "4.0%",
+      "2.8%",
+      "5.1%"
+    ],
+    "correctAnswer": "3.5%"
+  },
+  {
+    "id": "Q146",
+    "question": "Which country’s court stayed the declaration of 'Joy Bangla' as the national slogan?",
+    "description": "Bangladesh’s court stayed the declaration of 'Joy Bangla' as the national slogan.",
+    "options": [
+      "Bangladesh",
+      "India",
+      "Nepal",
+      "Sri Lanka"
+    ],
+    "correctAnswer": "Bangladesh"
+  },
+  {
+    "id": "Q147",
+    "question": "Which Indian Navy frigate was inducted as part of India-Russia cooperation?",
+    "description": "INS Tushil was inducted into the Indian Navy under India-Russia cooperation.",
+    "options": [
+      "INS Tushil",
+      "INS Vikrant",
+      "INS Kolkata",
+      "INS Sahyadri"
+    ],
+    "correctAnswer": "INS Tushil"
+  },
+  {
+    "id": "Q148",
+    "question": "What is the name of the AI-based quantum chip developed by Google?",
+    "description": "Google developed the Willow Quantum Chip, an AI-based quantum computing chip.",
+    "options": [
+      "Willow Quantum Chip",
+      "Titan Quantum Chip",
+      "Neural Quantum Chip",
+      "Orion Quantum Chip"
+    ],
+    "correctAnswer": "Willow Quantum Chip"
+  },
+  {
+    "id": "Q149",
+    "question": "Who received the DGA Lifetime Achievement Award in 2024?",
+    "description": "Filmmaker Ang Lee received the DGA Lifetime Achievement Award in 2024.",
+    "options": [
+      "Ang Lee",
+      "Steven Spielberg",
+      "Martin Scorsese",
+      "Christopher Nolan"
+    ],
+    "correctAnswer": "Ang Lee"
+  },
+  {
+    "id": "Q150",
+    "question": "Which country’s Prime Minister was appointed amidst political instability in 2024?",
+    "description": "France appointed François Bayrou as Prime Minister amidst political instability in 2024.",
+    "options": [
+      "France (François Bayrou)",
+      "Italy",
+      "Spain",
+      "Germany"
+    ],
+    "correctAnswer": "France (François Bayrou)"
+  },
+  {
+    "id": "Q151",
+    "question": "Who was awarded as a Rising Star in Banking at the 2024 ITA Awards?",
+    "description": "Bharati Kolli was recognized as a Rising Star in Banking at the 2024 ITA Awards.",
+    "options": [
+      "Bharati Kolli",
+      "Ajay Seth",
+      "Manish Jain",
+      "Sanjay Malhotra"
+    ],
+    "correctAnswer": "Bharati Kolli"
+  },
+  {
+    "id": "Q152",
+    "question": "Which state has seen a decline in sex ratio according to the latest statistics?",
+    "description": "Bihar has recorded a decline in sex ratio as per the latest data.",
+    "options": [
+      "Bihar",
+      "Uttar Pradesh",
+      "Jharkhand",
+      "Rajasthan"
+    ],
+    "correctAnswer": "Bihar"
+  },
+  {
+    "id": "Q153",
+    "question": "Which organization hosted the Champions of the Earth Awards 2024?",
+    "description": "The United Nations hosted the Champions of the Earth Awards in 2024.",
+    "options": [
+      "UN (United Nations)",
+      "World Bank",
+      "WHO",
+      "UNESCO"
+    ],
+    "correctAnswer": "UN (United Nations)"
+  },
+  {
+    "id": "Q154",
+    "question": "What is India’s goal for nuclear energy by 2031?",
+    "description": "India aims to achieve 22,480 MW of nuclear energy capacity by 2031.",
+    "options": [
+      "22,480 MW capacity",
+      "15,000 MW capacity",
+      "30,000 MW capacity",
+      "18,500 MW capacity"
+    ],
+    "correctAnswer": "22,480 MW capacity"
+  },
+  {
+    "id": "Q155",
+    "question": "Who won the Asian Women’s Handball Championship 2024?",
+    "description": "Japan won the Asian Women’s Handball Championship in 2024.",
+    "options": [
+      "Japan",
+      "South Korea",
+      "China",
+      "India"
+    ],
+    "correctAnswer": "Japan"
+  },
+  {
+    "id": "Q156",
+    "question": "Which Indian city ranked in the top 5 food cities in the world in 2024?",
+    "description": "Mumbai ranked among the top 5 food cities globally in 2024.",
+    "options": [
+      "Mumbai",
+      "Delhi",
+      "Bangalore",
+      "Chennai"
+    ],
+    "correctAnswer": "Mumbai"
+  },
+  {
+    "id": "Q157",
+    "question": "What global sport event was hosted by Spain, Portugal, Morocco, Argentina, Paraguay, and Uruguay in 2030?",
+    "description": "The FIFA World Cup 2030 was hosted jointly by Spain, Portugal, Morocco, Argentina, Paraguay, and Uruguay.",
+    "options": [
+      "FIFA World Cup",
+      "Olympic Games",
+      "Cricket World Cup",
+      "Rugby World Cup"
+    ],
+    "correctAnswer": "FIFA World Cup"
+  },
+  {
+    "id": "Q158",
+    "question": "When will the Bharat Mobility Global Expo 2025 be held?",
+    "description": "The Bharat Mobility Global Expo 2025 is scheduled for January 17-22, 2025.",
+    "options": [
+      "January 17-22, 2025",
+      "February 10-15, 2025",
+      "March 1-5, 2025",
+      "April 20-25, 2025"
+    ],
+    "correctAnswer": "January 17-22, 2025"
+  },
+  {
+    "id": "Q159",
+    "question": "India has become the world’s _ largest smartphone exporter in 2024.",
+    "description": "India ranked as the world’s 3rd largest smartphone exporter in 2024.",
+    "options": [
+      "1st",
+      "2nd",
+      "3rd",
+      "4th"
+    ],
+    "correctAnswer": "3rd"
+  },
+  {
+    "id": "Q160",
+    "question": "Which river dolphin was satellite tagged under Project Dolphin in Assam?",
+    "description": "The Ganges River Dolphin was satellite tagged as part of Project Dolphin in Assam.",
+    "options": [
+      "Ganges River Dolphin",
+      "Indus River Dolphin",
+      "Yangtze River Dolphin",
+      "Amazon River Dolphin"
+    ],
+    "correctAnswer": "Ganges River Dolphin"
+  },
+  {
+    "id": "Q161",
+    "question": "Who was honored with the Red Scarf and the title 'Dasho' by Bhutan’s King?",
+    "description": "Arun Kapur was honored with the Red Scarf and the title 'Dasho' by Bhutan’s King.",
+    "options": [
+      "Arun Kapur",
+      "Sanjay Malhotra",
+      "Ajay Seth",
+      "Bhavesh Jain"
+    ],
+    "correctAnswer": "Arun Kapur"
+  },
+  {
+    "id": "Q162",
+    "question": "What is SARAT 2 launched by INCOIS?",
+    "description": "SARAT 2 is an advanced sea rescue tool launched by INCOIS.",
+    "options": [
+      "An advanced sea rescue tool",
+      "A satellite navigation system",
+      "A marine research vessel",
+      "A tsunami warning system"
+    ],
+    "correctAnswer": "An advanced sea rescue tool"
+  },
+  {
+    "id": "Q163",
+    "question": "What is the name of India's first anti-pesticide bodysuit for farmers?",
+    "description": "Kisan Kavach Bodysuit is India’s first anti-pesticide bodysuit designed for farmers.",
+    "options": [
+      "Kisan Kavach Bodysuit",
+      "Agri Shield Suit",
+      "Farmer Protector Suit",
+      "Pesticide Guard Suit"
+    ],
+    "correctAnswer": "Kisan Kavach Bodysuit"
+  },
+  {
+    "id": "Q164",
+    "question": "Where was the GSI Geoscience Museum inaugurated by Vice President Jagdeep Dhankhar?",
+    "description": "The GSI Geoscience Museum was inaugurated in Gwalior by Vice President Jagdeep Dhankhar.",
+    "options": [
+      "Gwalior",
+      "Bhopal",
+      "New Delhi",
+      "Chennai"
+    ],
+    "correctAnswer": "Gwalior"
+  },
+  {
+    "id": "Q165",
+    "question": "What is the aim of the Viraasat Sari Festival 2024 organized by the Ministry of Textiles?",
+    "description": "The Viraasat Sari Festival 2024 aims to showcase Indian handloom heritage.",
+    "options": [
+      "To showcase Indian handloom heritage",
+      "To promote silk production",
+      "To encourage cotton farming",
+      "To launch new textile technology"
+    ],
+    "correctAnswer": "To showcase Indian handloom heritage"
+  },
+  {
+    "id": "Q166",
+    "question": "From which season will Russia allow visa-free travel for Indians?",
+    "description": "Russia will allow visa-free travel for Indians starting Spring 2025.",
+    "options": [
+      "Spring 2025",
+      "Summer 2025",
+      "Winter 2024",
+      "Autumn 2025"
+    ],
+    "correctAnswer": "Spring 2025"
+  },
+  {
+    "id": "Q167",
+    "question": "Which taxonomy was launched by India to lead in green steel production?",
+    "description": "India launched the Taxonomy of Green Steel to lead in green steel production.",
+    "options": [
+      "Taxonomy of Green Steel",
+      "Steel Production Guidelines",
+      "Green Metal Code",
+      "Sustainable Steel Framework"
+    ],
+    "correctAnswer": "Taxonomy of Green Steel"
+  },
+  {
+    "id": "Q168",
+    "question": "Where is India’s first diabetes biobank located?",
+    "description": "India’s first diabetes biobank is located in Chennai.",
+    "options": [
+      "Chennai",
+      "Mumbai",
+      "Delhi",
+      "Kolkata"
+    ],
+    "correctAnswer": "Chennai"
+  },
+  {
+    "id": "Q169",
+    "question": "Which country partnered with India to develop the Yuga Yugeen Bharat National Museum?",
+    "description": "France partnered with India to develop the Yuga Yugeen Bharat National Museum.",
+    "options": [
+      "France",
+      "Germany",
+      "Japan",
+      "UK"
+    ],
+    "correctAnswer": "France"
+  },
+  {
+    "id": "Q170",
+    "question": "Which plant is considered the world’s most toxic?",
+    "description": "Gympie-Gympie is considered the world’s most toxic plant.",
+    "options": [
+      "Gympie-Gympie",
+      "Belladonna",
+      "Oleander",
+      "Castor Bean"
+    ],
+    "correctAnswer": "Gympie-Gympie"
+  },
+  {
+    "id": "Q171",
+    "question": "Which European nation joined the Indo-Pacific Bloc (CPTPP)?",
+    "description": "The United Kingdom joined the Indo-Pacific Bloc (CPTPP).",
+    "options": [
+      "United Kingdom",
+      "France",
+      "Germany",
+      "Italy"
+    ],
+    "correctAnswer": "United Kingdom"
+  },
+  {
+    "id": "Q172",
+    "question": "What is the name of the hypersonic missile tested by the US military?",
+    "description": "The US military tested a hypersonic missile named Dark Eagle.",
+    "options": [
+      "Dark Eagle",
+      "Agni-V",
+      "BrahMos",
+      "Hypersonic Glide Vehicle"
+    ],
+    "correctAnswer": "Dark Eagle"
+  },
+  {
+    "id": "Q173",
+    "question": "What initiative makes Gujarat’s Banaskantha district India’s first solar village?",
+    "description": "Masali in Banaskantha district became India’s first solar village under this initiative.",
+    "options": [
+      "Masali – Solar Village",
+      "Solar Gram",
+      "Sunshine Project",
+      "Solar Bharat"
+    ],
+    "correctAnswer": "Masali – Solar Village"
+  },
+  {
+    "id": "Q174",
+    "question": "Which state will implement the Uniform Civil Code from January 2025?",
+    "description": "Uttarakhand is set to implement the Uniform Civil Code starting January 2025.",
+    "options": [
+      "Uttarakhand",
+      "Goa",
+      "Rajasthan",
+      "Madhya Pradesh"
+    ],
+    "correctAnswer": "Uttarakhand"
+  },
+  {
+    "id": "Q175",
+    "question": "What exclusive service for women did Uber launch in Bengaluru?",
+    "description": "Uber launched the Moto Women bike taxi service exclusively for women in Bengaluru.",
+    "options": [
+      "Moto Women bike taxi service",
+      "Women-only car rides",
+      "Uber Safety App",
+      "Women’s Carpool Service"
+    ],
+    "correctAnswer": "Moto Women bike taxi service"
+  },
+  {
+    "id": "Q176",
+    "question": "Which state implemented a dedicated Yoga Policy in India?",
+    "description": "Uttarakhand became the first state to implement a dedicated Yoga Policy.",
+    "options": [
+      "Uttarakhand",
+      "Kerala",
+      "Punjab",
+      "Himachal Pradesh"
+    ],
+    "correctAnswer": "Uttarakhand"
+  },
+  {
+    "id": "Q177",
+    "question": "Who was appointed as the Managing Director of SBI in 2024?",
+    "description": "Rama Mohan Rao Amara was appointed Managing Director of SBI in 2024.",
+    "options": [
+      "Rama Mohan Rao Amara",
+      "Dinesh Kumar Khara",
+      "Arundhati Bhattacharya",
+      "Rajnish Kumar"
+    ],
+    "correctAnswer": "Rama Mohan Rao Amara"
+  },
+  {
+    "id": "Q178",
+    "question": "Which company launched the Taj Credit Card with IHCL?",
+    "description": "HSBC launched the Taj Credit Card in partnership with IHCL.",
+    "options": [
+      "HSBC",
+      "HDFC Bank",
+      "ICICI Bank",
+      "Axis Bank"
+    ],
+    "correctAnswer": "HSBC"
+  },
+  {
+    "id": "Q179",
+    "question": "How much net profit did Public Sector Banks report in H1 FY25?",
+    "description": "Public Sector Banks reported a net profit of ₹85,520 crore in H1 FY25.",
+    "options": [
+      "₹85,520 crore",
+      "₹75,000 crore",
+      "₹90,000 crore",
+      "₹80,000 crore"
+    ],
+    "correctAnswer": "₹85,520 crore"
+  },
+  {
+    "id": "Q180",
+    "question": "What is the revised collateral-free agricultural loan limit set by the RBI?",
+    "description": "RBI revised the collateral-free agricultural loan limit to ₹2 lakh.",
+    "options": [
+      "₹2 lakh",
+      "₹1 lakh",
+      "₹3 lakh",
+      "₹5 lakh"
+    ],
+    "correctAnswer": "₹2 lakh"
+  },
+  {
+    "id": "Q181",
+    "question": "Which bank partnered with Tata Power for affordable rooftop solar loans?",
+    "description": "Canara Bank partnered with Tata Power to offer affordable rooftop solar loans.",
+    "options": [
+      "Canara Bank",
+      "State Bank of India",
+      "Punjab National Bank",
+      "ICICI Bank"
+    ],
+    "correctAnswer": "Canara Bank"
+  },
+  {
+    "id": "Q182",
+    "question": "What was the acquisition deal between UltraTech Cement and India Cements Ltd worth?",
+    "description": "UltraTech Cement acquired India Cements Ltd in a deal worth ₹3,954 crore.",
+    "options": [
+      "₹3,954 crore",
+      "₹4,500 crore",
+      "₹3,000 crore",
+      "₹4,000 crore"
+    ],
+    "correctAnswer": "₹3,954 crore"
+  },
+  {
+    "id": "Q183",
+    "question": "Who was appointed as the Country Manager and VP for Google India?",
+    "description": "Preeti Lobana was appointed as Country Manager and VP for Google India.",
+    "options": [
+      "Preeti Lobana",
+      "Sundar Pichai",
+      "Rohit Prasad",
+      "Amit Singhal"
+    ],
+    "correctAnswer": "Preeti Lobana"
+  },
+  {
+    "id": "Q184",
+    "question": "What is the name of Dr. Deepa Malik’s memoir?",
+    "description": "Dr. Deepa Malik’s memoir is titled BRING IT ON.",
+    "options": [
+      "BRING IT ON",
+      "Against All Odds",
+      "Unstoppable",
+      "The Journey"
+    ],
+    "correctAnswer": "BRING IT ON"
+  },
+  {
+    "id": "Q185",
+    "question": "Where was the AI Incubation Centre launched by the Indian Army?",
+    "description": "The Indian Army launched its AI Incubation Centre in Bengaluru.",
+    "options": [
+      "Bengaluru",
+      "New Delhi",
+      "Mumbai",
+      "Chennai"
+    ],
+    "correctAnswer": "Bengaluru"
+  },
+  {
+    "id": "Q186",
+    "question": "What is the name of the naval exercise between Sri Lanka and India held in Visakhapatnam?",
+    "description": "The naval exercise held between Sri Lanka and India in Visakhapatnam is called SLINEX 2024.",
+    "options": [
+      "SLINEX 2024",
+      "MALABAR",
+      "INDRA",
+      "KONKAN"
+    ],
+    "correctAnswer": "SLINEX 2024"
+  },
+  {
+    "id": "Q187",
+    "question": "Which exercise involves India, France, and the UAE for trilateral air combat?",
+    "description": "Desert Knight Exercise is a trilateral air combat exercise involving India, France, and the UAE.",
+    "options": [
+      "Desert Knight Exercise",
+      "Red Flag",
+      "Iron Fist",
+      "Cope India"
+    ],
+    "correctAnswer": "Desert Knight Exercise"
+  },
+  {
+    "id": "Q188",
+    "question": "What is the aim of India’s ‘CHARAK’ health scheme?",
+    "description": "The CHARAK health scheme aims to provide free treatment for life-threatening diseases.",
+    "options": [
+      "Providing free treatment for life-threatening diseases",
+      "Promoting traditional medicine",
+      "Enhancing rural healthcare infrastructure",
+      "Offering health insurance to farmers"
+    ],
+    "correctAnswer": "Providing free treatment for life-threatening diseases"
+  },
+  {
+    "id": "Q189",
+    "question": "Which country became the 105th member of the International Solar Alliance?",
+    "description": "Moldova became the 105th member of the International Solar Alliance.",
+    "options": [
+      "Moldova",
+      "Bhutan",
+      "Nepal",
+      "Bangladesh"
+    ],
+    "correctAnswer": "Moldova"
+  },
+  {
+    "id": "Q190",
+    "question": "Who won the Rashtriya Tansen Samman 2023?",
+    "description": "Swapan Chaudhuri won the Rashtriya Tansen Samman in 2023.",
+    "options": [
+      "Swapan Chaudhuri",
+      "Ustad Zakir Hussain",
+      "Pandit Shivkumar Sharma",
+      "L. Subramaniam"
+    ],
+    "correctAnswer": "Swapan Chaudhuri"
+  },
+  {
+    "id": "Q191",
+    "question": "Where will the 2025 Para Athletics World Championships be held?",
+    "description": "The 2025 Para Athletics World Championships will be held in Delhi.",
+    "options": [
+      "Delhi",
+      "Mumbai",
+      "Chennai",
+      "Bengaluru"
+    ],
+    "correctAnswer": "Delhi"
+  },
+  {
+    "id": "Q192",
+    "question": "Which country did India defeat to win the Women’s Junior Asia Cup in hockey?",
+    "description": "India defeated China to win the Women’s Junior Asia Cup in hockey.",
+    "options": [
+      "China",
+      "Japan",
+      "South Korea",
+      "Malaysia"
+    ],
+    "correctAnswer": "China"
+  },
+  {
+    "id": "Q193",
+    "question": "Who passed away at 89 and was a former Haryana Chief Minister?",
+    "description": "Om Prakash Chautala, former Haryana Chief Minister, passed away at 89.",
+    "options": [
+      "Om Prakash Chautala",
+      "Bhupinder Singh Hooda",
+      "Manohar Lal Khattar",
+      "Devi Lal"
+    ],
+    "correctAnswer": "Om Prakash Chautala"
+  },
+  {
+    "id": "Q194",
+    "question": "What was the theme of International Migrants Day 2024?",
+    "description": "The theme was Honouring migrants' contributions and rights.",
+    "options": [
+      "Honouring migrants' contributions and rights",
+      "Migration and Sustainable Development",
+      "Migrants and Climate Change",
+      "Safe Migration for All"
+    ],
+    "correctAnswer": "Honouring migrants' contributions and rights"
+  },
+  {
+    "id": "Q195",
+    "question": "Who was crowned Miss India USA 2024?",
+    "description": "Caitlin Sandra Neil was crowned Miss India USA 2024.",
+    "options": [
+      "Caitlin Sandra Neil",
+      "Aishwarya Rai",
+      "Priyanka Chopra",
+      "Neha Dhupia"
+    ],
+    "correctAnswer": "Caitlin Sandra Neil"
+  },
+  {
+    "id": "Q196",
+    "question": "What rank did India achieve in the Travel and Tourism Index 2024?",
+    "description": "India ranked 39th in the Travel and Tourism Index 2024.",
+    "options": [
+      "39th",
+      "25th",
+      "15th",
+      "45th"
+    ],
+    "correctAnswer": "39th"
+  },
+  {
+    "id": "Q197",
+    "question": "What milestone did ISRO achieve with the CE20 engine?",
+    "description": "ISRO conducted a successful cryogenic engine test with the CE20 engine.",
+    "options": [
+      "Conducting a successful cryogenic engine test",
+      "Launching its first satellite",
+      "Developing a new propulsion system",
+      "Testing a solar sail"
+    ],
+    "correctAnswer": "Conducting a successful cryogenic engine test"
+  },
+  {
+    "id": "Q198",
+    "question": "Where is India’s first nuclear power project by NTPC planned?",
+    "description": "India’s first nuclear power project by NTPC is planned in Bihar.",
+    "options": [
+      "Bihar",
+      "Jharkhand",
+      "Uttar Pradesh",
+      "West Bengal"
+    ],
+    "correctAnswer": "Bihar"
+  },
+  {
+    "id": "Q199",
+    "question": "Who was the mascot unveiled for the 38th National Games in Uttarakhand?",
+    "description": "The mascot for the 38th National Games in Uttarakhand is yet to be disclosed officially.",
+    "options": [
+      "Yet to be disclosed officially",
+      "Tiger",
+      "Elephant",
+      "Snow Leopard"
+    ],
+    "correctAnswer": "Yet to be disclosed officially"
+  },
+  {
+    "id": "Q200",
+    "question": "What was the milestone achieved by Jasprit Bumrah in Australia?",
+    "description": "Jasprit Bumrah surpassed Kapil Dev with 52 Test wickets in Australia.",
+    "options": [
+      "Surpassing Kapil Dev with 52 Test wickets in Australia",
+      "First Indian bowler to take a hat-trick in Australia",
+      "Highest run-scorer in Tests in Australia",
+      "Fastest century by an Indian in Australia"
+    ],
+    "correctAnswer": "Surpassing Kapil Dev with 52 Test wickets in Australia"
+  },
+  {
+    "id": "Q201",
+    "question": "What title was won by Mumbai in Syed Mushtaq Ali Trophy 2024?",
+    "description": "Mumbai won their second title in the Syed Mushtaq Ali Trophy 2024.",
+    "options": [
+      "Their second title",
+      "First title",
+      "Third title",
+      "Runner-up"
+    ],
+    "correctAnswer": "Their second title"
+  },
+  {
+    "id": "Q202",
+    "question": "Which Padma Shri environmentalist known as the 'Tree Goddess' passed away at 80?",
+    "description": "Tulsi Gowda, known as the 'Tree Goddess,' passed away at 80.",
+    "options": [
+      "Tulsi Gowda",
+      "Medha Patkar",
+      "Sunderlal Bahuguna",
+      "Vandana Shiva"
+    ],
+    "correctAnswer": "Tulsi Gowda"
+  },
+  {
+    "id": "Q203",
+    "question": "Who inaugurated the 61st SSB Raising Day celebration?",
+    "description": "Union Minister Amit Shah inaugurated the 61st SSB Raising Day celebration.",
+    "options": [
+      "Union Minister Amit Shah",
+      "Prime Minister Narendra Modi",
+      "Defence Minister Rajnath Singh",
+      "Home Minister"
+    ],
+    "correctAnswer": "Union Minister Amit Shah"
+  },
+  {
+    "id": "Q204",
+    "question": "Which day is observed on December 19 to mark the end of Portuguese rule in Goa?",
+    "description": "Goa Liberation Day is observed on December 19 to mark the end of Portuguese rule in Goa.",
+    "options": [
+      "Goa Liberation Day",
+      "Independence Day",
+      "Republic Day",
+      "Portuguese Rule End Day"
+    ],
+    "correctAnswer": "Goa Liberation Day"
+  },
+  {
+    "id": "Q205",
+    "question": "Who was awarded the Jamsetji Tata Award in 2024?",
+    "description": "Kiran Mazumdar-Shaw was awarded the Jamsetji Tata Award in 2024.",
+    "options": [
+      "Kiran Mazumdar-Shaw",
+      "Ratan Tata",
+      "Mukesh Ambani",
+      "Narayana Murthy"
+    ],
+    "correctAnswer": "Kiran Mazumdar-Shaw"
+  },
+  {
+    "id": "Q206",
+    "question": "Where was the 24th BIMSTEC SOM meeting held?",
+    "description": "The 24th BIMSTEC SOM meeting was held virtually in Thailand.",
+    "options": [
+      "Thailand (virtually)",
+      "India",
+      "Bangladesh",
+      "Sri Lanka"
+    ],
+    "correctAnswer": "Thailand (virtually)"
+  },
+  {
+    "id": "Q207",
+    "question": "Who became the new president of Georgia in 2024?",
+    "description": "Mikheil Kavelashvili became the new president of Georgia in 2024.",
+    "options": [
+      "Mikheil Kavelashvili",
+      "Salome Zourabichvili",
+      "Georgi Margvelashvili",
+      "Nino Burjanadze"
+    ],
+    "correctAnswer": "Mikheil Kavelashvili"
+  },
+  {
+    "id": "Q208",
+    "question": "Which Indian naval ship participated in Exercise MILAN 2024?",
+    "description": "INS Sumedha participated in Exercise MILAN 2024.",
+    "options": [
+      "INS Sumedha",
+      "INS Vikramaditya",
+      "INS Kolkata",
+      "INS Shivalik"
+    ],
+    "correctAnswer": "INS Sumedha"
+  },
+  {
+    "id": "Q209",
+    "question": "Which country hosted the COP29 Climate Summit in 2024?",
+    "description": "The United Arab Emirates (UAE) hosted the COP29 Climate Summit in 2024.",
+    "options": [
+      "United Arab Emirates (UAE)",
+      "India",
+      "France",
+      "Germany"
+    ],
+    "correctAnswer": "United Arab Emirates (UAE)"
+  },
+  {
+    "id": "Q210",
+    "question": "Who became the first woman astronaut from Saudi Arabia?",
+    "description": "Rayyanah Barnawi became the first woman astronaut from Saudi Arabia.",
+    "options": [
+      "Rayyanah Barnawi",
+      "Sara Al Amri",
+      "Noura Al Kaabi",
+      "Lama Al-Sulaiman"
+    ],
+    "correctAnswer": "Rayyanah Barnawi"
+  },
+  {
+    "id": "Q211",
+    "question": "Which state launched the 'Kanya Shiksha Suraksha Scheme'?",
+    "description": "Bihar launched the 'Kanya Shiksha Suraksha Scheme'.",
+    "options": [
+      "Bihar",
+      "Uttar Pradesh",
+      "Rajasthan",
+      "Madhya Pradesh"
+    ],
+    "correctAnswer": "Bihar"
+  },
+  {
+    "id": "Q212",
+    "question": "Which Indian city has been selected as the UNESCO World Book Capital for 2025?",
+    "description": "Hyderabad has been selected as the UNESCO World Book Capital for 2025.",
+    "options": [
+      "Hyderabad",
+      "Mumbai",
+      "Delhi",
+      "Kolkata"
+    ],
+    "correctAnswer": "Hyderabad"
+  },
+  {
+    "id": "Q213",
+    "question": "Who was appointed as the new Chief of Defence Staff (CDS) of India in 2024?",
+    "description": "Lt. General Anil Chauhan was appointed as the new Chief of Defence Staff (CDS) of India in 2024.",
+    "options": [
+      "Lt. General Anil Chauhan",
+      "General Bipin Rawat",
+      "General Manoj Mukund Naravane",
+      "Admiral Karambir Singh"
+    ],
+    "correctAnswer": "Lt. General Anil Chauhan"
+  },
+  {
+    "id": "Q214",
+    "question": "Which state introduced the 'Green War Room' to monitor pollution levels?",
+    "description": "Delhi introduced the 'Green War Room' to monitor pollution levels.",
+    "options": [
+      "Delhi",
+      "Punjab",
+      "Haryana",
+      "Uttar Pradesh"
+    ],
+    "correctAnswer": "Delhi"
+  },
+  {
+    "id": "Q215",
+    "question": "Where will the first-ever International Tea Festival be held in India?",
+    "description": "The first-ever International Tea Festival in India will be held in Assam.",
+    "options": [
+      "Assam",
+      "West Bengal",
+      "Kerala",
+      "Tamil Nadu"
+    ],
+    "correctAnswer": "Assam"
+  },
+  {
+    "id": "Q216",
+    "question": "What is the rank of India in the Global Hunger Index 2024?",
+    "description": "India ranked 111th in the Global Hunger Index 2024.",
+    "options": [
+      "111th",
+      "90th",
+      "75th",
+      "120th"
+    ],
+    "correctAnswer": "111th"
+  },
+  {
+    "id": "Q217",
+    "question": "Who is the author of the book 'The Grand Challenge of Sustainable Development'?",
+    "description": "Raghuram G. Rajan is the author of the book 'The Grand Challenge of Sustainable Development'.",
+    "options": [
+      "Raghuram G. Rajan",
+      "Amartya Sen",
+      "Jagdish Bhagwati",
+      "Arvind Subramanian"
+    ],
+    "correctAnswer": "Raghuram G. Rajan"
+  },
+  {
+    "id": "Q218",
+    "question": "Which country launched the world’s first AI-operated submarine?",
+    "description": "China launched the world’s first AI-operated submarine.",
+    "options": [
+      "China",
+      "USA",
+      "Russia",
+      "Japan"
+    ],
+    "correctAnswer": "China"
+  },
+  {
+    "id": "Q219",
+    "question": "What is the name of the program launched by the Ministry of Education for AI-based learning?",
+    "description": "The Ministry of Education launched the program 'Vidya AI 2024' for AI-based learning.",
+    "options": [
+      "Vidya AI 2024",
+      "EduAI",
+      "AI Shiksha",
+      "SmartLearn"
+    ],
+    "correctAnswer": "Vidya AI 2024"
+  },
+  {
+    "id": "Q220",
+    "question": "Which Indian state hosted the 2024 edition of the Hornbill Festival?",
+    "description": "Nagaland hosted the 2024 edition of the Hornbill Festival.",
+    "options": [
+      "Nagaland",
+      "Assam",
+      "Manipur",
+      "Arunachal Pradesh"
+    ],
+    "correctAnswer": "Nagaland"
+  },
+  {
+    "id": "Q221",
+    "question": "Who won the Nobel Prize in Physics 2024?",
+    "description": "Anne L'Huillier, Pierre Agostini, and Ferenc Krausz won the Nobel Prize in Physics 2024.",
+    "options": [
+      "Anne L'Huillier, Pierre Agostini, and Ferenc Krausz",
+      "Roger Penrose",
+      "Andrea Ghez",
+      "Syukuro Manabe"
+    ],
+    "correctAnswer": "Anne L'Huillier, Pierre Agostini, and Ferenc Krausz"
+  },
+  {
+    "id": "Q222",
+    "question": "Which Indian state became the first to establish a 100% renewable energy-powered airport?",
+    "description": "Kerala, through Cochin International Airport, became the first Indian state to have a 100% renewable energy-powered airport.",
+    "options": [
+      "Kerala (Cochin International Airport)",
+      "Tamil Nadu",
+      "Goa",
+      "Karnataka"
+    ],
+    "correctAnswer": "Kerala (Cochin International Airport)"
+  },
+  {
+    "id": "Q223",
+    "question": "Who received the Jnanpith Award 2024?",
+    "description": "Vinod Kumar Shukla received the Jnanpith Award 2024.",
+    "options": [
+      "Vinod Kumar Shukla",
+      "Shashi Tharoor",
+      "Ruskin Bond",
+      "Amrita Pritam"
+    ],
+    "correctAnswer": "Vinod Kumar Shukla"
+  },
+  {
+    "id": "Q224",
+    "question": "Which is the first city in India to adopt the 'zero-landfill' concept?",
+    "description": "Indore is the first city in India to adopt the 'zero-landfill' concept.",
+    "options": [
+      "Indore",
+      "Bhopal",
+      "Pune",
+      "Nagpur"
+    ],
+    "correctAnswer": "Indore"
+  },
+  {
+    "id": "Q225",
+    "question": "What is the theme of World Tourism Day 2024?",
+    "description": "The theme of World Tourism Day 2024 is 'Tourism and Green Investments.'",
+    "options": [
+      "Tourism and Green Investments",
+      "Sustainable Tourism",
+      "Digital Tourism",
+      "Cultural Heritage"
+    ],
+    "correctAnswer": "Tourism and Green Investments"
+  },
+  {
+    "id": "Q226",
+    "question": "Which country recently introduced the Digital Euro pilot project?",
+    "description": "The European Union recently introduced the Digital Euro pilot project.",
+    "options": [
+      "European Union",
+      "United States",
+      "China",
+      "Japan"
+    ],
+    "correctAnswer": "European Union"
+  },
+  {
+    "id": "Q227",
+    "question": "Who won the ICC Men's ODI Cricketer of the Year 2024?",
+    "description": "Shubman Gill won the ICC Men's ODI Cricketer of the Year 2024.",
+    "options": [
+      "Shubman Gill",
+      "Virat Kohli",
+      "Rohit Sharma",
+      "KL Rahul"
+    ],
+    "correctAnswer": "Shubman Gill"
+  },
+  {
+    "id": "Q228",
+    "question": "What is the name of the joint naval exercise between India and Singapore?",
+    "description": "The joint naval exercise between India and Singapore is called SIMBEX 2024.",
+    "options": [
+      "SIMBEX 2024",
+      "MALABAR 2024",
+      "INDRA 2024",
+      "VIRAT 2024"
+    ],
+    "correctAnswer": "SIMBEX 2024"
+  },
+  {
+    "id": "Q229",
+    "question": "Which Indian city hosted the G20 Youth Summit in 2024?",
+    "description": "Varanasi hosted the G20 Youth Summit in 2024.",
+    "options": [
+      "Varanasi",
+      "Delhi",
+      "Mumbai",
+      "Bengaluru"
+    ],
+    "correctAnswer": "Varanasi"
+  },
+  {
+    "id": "Q230",
+    "question": "Who is the Chairman of the 20th Finance Commission of India?",
+    "description": "NK Singh is the Chairman of the 20th Finance Commission of India.",
+    "options": [
+      "NK Singh",
+      "Raghuram Rajan",
+      "Arvind Subramanian",
+      "Montek Singh Ahluwalia"
+    ],
+    "correctAnswer": "NK Singh"
+  },
+  {
+    "id": "Q231",
+    "question": "Which space agency launched the Psyche Mission to explore an asteroid?",
+    "description": "NASA launched the Psyche Mission to explore an asteroid.",
+    "options": [
+      "NASA",
+      "ISRO",
+      "ESA",
+      "Roscosmos"
+    ],
+    "correctAnswer": "NASA"
+  },
+  {
+    "id": "Q232",
+    "question": "What is the capital of the new Andhra Pradesh state under its three-capital system?",
+    "description": "Visakhapatnam (Executive) is the capital of the new Andhra Pradesh state under its three-capital system.",
+    "options": [
+      "Visakhapatnam (Executive)",
+      "Amaravati",
+      "Vijayawada",
+      "Tirupati"
+    ],
+    "correctAnswer": "Visakhapatnam (Executive)"
+  },
+  {
+    "id": "Q233",
+    "question": "Who became the youngest chess Grandmaster in 2024?",
+    "description": "Abhimanyu Mishra became the youngest chess Grandmaster in 2024.",
+    "options": [
+      "Abhimanyu Mishra",
+      "Nihal Sarin",
+      "Praggnanandhaa",
+      "Rameshbabu Praggnanandhaa"
+    ],
+    "correctAnswer": "Abhimanyu Mishra"
+  },
+  {
+    "id": "Q234",
+    "question": "What is the new retirement age for central government employees in India?",
+    "description": "The new retirement age for central government employees in India is 62 years.",
+    "options": [
+      "62 years",
+      "60 years",
+      "65 years",
+      "58 years"
+    ],
+    "correctAnswer": "62 years"
+  },
+  {
+    "id": "Q235",
+    "question": "Which state launched the 'Mission Shakti' app to ensure women's safety?",
+    "description": "Odisha launched the 'Mission Shakti' app to ensure women's safety.",
+    "options": [
+      "Odisha",
+      "West Bengal",
+      "Maharashtra",
+      "Tamil Nadu"
+    ],
+    "correctAnswer": "Odisha"
+  },
+  {
+    "id": "Q236",
+    "question": "What is the name of India’s first indigenous 5G chipset?",
+    "description": "Agni-5G is India’s first indigenous 5G chipset.",
+    "options": [
+      "Agni-5G",
+      "Trinetra",
+      "Vikram-5G",
+      "Jatayu-5G"
+    ],
+    "correctAnswer": "Agni-5G"
+  },
+  {
+    "id": "Q237",
+    "question": "Which Indian bank launched the 'Digital Village Ecosystem' initiative?",
+    "description": "State Bank of India (SBI) launched the 'Digital Village Ecosystem' initiative.",
+    "options": [
+      "State Bank of India (SBI)",
+      "ICICI Bank",
+      "HDFC Bank",
+      "Punjab National Bank"
+    ],
+    "correctAnswer": "State Bank of India (SBI)"
+  }
+]

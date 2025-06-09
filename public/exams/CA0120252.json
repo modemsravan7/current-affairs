@@ -1,0 +1,1201 @@
+[
+  {
+    "id": "E101",
+    "question": "What amount did the RBI sell in November 2024 to stabilize the rupee?",
+    "description": "RBI intervened in the currency market by selling this amount to stabilize the rupee.",
+    "options": [
+      "$15.5 billion",
+      "$18.0 billion",
+      "$20.2 billion",
+      "$22.5 billion"
+    ],
+    "correctAnswer": "$20.2 billion"
+  },
+  {
+    "id": "E102",
+    "question": "What is India’s net direct tax collection till January 2025?",
+    "description": "The total direct tax collected in India up to January 2025.",
+    "options": [
+      "₹14.50 lakh crore",
+      "₹15.75 lakh crore",
+      "₹16.90 lakh crore",
+      "₹18.25 lakh crore"
+    ],
+    "correctAnswer": "₹16.90 lakh crore"
+  },
+  {
+    "id": "E103",
+    "question": "What is the name of the app launched for showcasing India’s military history?",
+    "description": "This app presents the historical achievements and heritage of the Indian military.",
+    "options": [
+      "Bharat Veer App",
+      "Indian Military Heritage",
+      "Bharat Ranbhoomi Darshan App",
+      "Veer Sena App"
+    ],
+    "correctAnswer": "Bharat Ranbhoomi Darshan App"
+  },
+  {
+    "id": "E104",
+    "question": "What does PMKSY stand for in the context of watershed projects?",
+    "description": "PMKSY is a major government scheme aimed at improving irrigation and watershed management.",
+    "options": [
+      "Pradhan Mantri Krishi Sinchayee Yojana",
+      "Pradhan Mantri Kisan Suraksha Yojana",
+      "Pradhan Mantri Krishi Samridhi Yojana",
+      "Pradhan Mantri Krishi Sudhar Yojana"
+    ],
+    "correctAnswer": "Pradhan Mantri Krishi Sinchayee Yojana"
+  },
+  {
+    "id": "E105",
+    "question": "What position did Anju Bobby George recently assume in AFI?",
+    "description": "Anju Bobby George was appointed to this leadership role in the Athletics Federation of India.",
+    "options": [
+      "President of AFI",
+      "Secretary General of AFI",
+      "Chairperson of the Athletes Commission",
+      "Treasurer of AFI"
+    ],
+    "correctAnswer": "Chairperson of the Athletes Commission"
+  },
+  {
+    "id": "E106",
+    "question": "Who surpassed Roger Federer’s record of Grand Slam matches in the Australian Open 2025?",
+    "description": "This tennis player broke Federer’s record at the 2025 Australian Open.",
+    "options": [
+      "Rafael Nadal",
+      "Novak Djokovic",
+      "Carlos Alcaraz",
+      "Daniil Medvedev"
+    ],
+    "correctAnswer": "Novak Djokovic"
+  },
+  {
+    "id": "E107",
+    "question": "Which award did Aparna Sen receive at the WBFJA 2025?",
+    "description": "Aparna Sen was honored with this prestigious lifetime achievement award.",
+    "options": [
+      "Dadasaheb Phalke Award",
+      "Satyajit Ray Lifetime Achievement Award",
+      "Padma Shri",
+      "National Film Award"
+    ],
+    "correctAnswer": "Satyajit Ray Lifetime Achievement Award"
+  },
+  {
+    "id": "E108",
+    "question": "Who was named as Punjab Kings’ captain for IPL 2025?",
+    "description": "This player was appointed captain of Punjab Kings for IPL 2025.",
+    "options": [
+      "KL Rahul",
+      "Shreyas Iyer",
+      "Mayank Agarwal",
+      "Arshdeep Singh"
+    ],
+    "correctAnswer": "Shreyas Iyer"
+  },
+  {
+    "id": "E109",
+    "question": "Which countries will commemorate 2026 as a 'dual year'?",
+    "description": "These two countries agreed to jointly celebrate 2026 as a year of special commemoration.",
+    "options": [
+      "India and Spain",
+      "India and Portugal",
+      "India and France",
+      "India and Italy"
+    ],
+    "correctAnswer": "India and Spain"
+  },
+  {
+    "id": "E110",
+    "question": "Which new species of pangolin was discovered by ZSI?",
+    "description": "Zoological Survey of India discovered this pangolin species recently.",
+    "options": [
+      "Manis crassicaudata",
+      "Manis indoburmanica",
+      "Manis pentadactyla",
+      "Manis javanica"
+    ],
+    "correctAnswer": "Manis indoburmanica"
+  },
+  {
+    "id": "E111",
+    "question": "What milestone was achieved by ISRO's SpaDeX mission?",
+    "description": "SpaDeX mission accomplished this significant technological demonstration.",
+    "options": [
+      "Satellite launch technology",
+      "Spacecraft docking technology demonstration",
+      "Mars rover landing",
+      "Lunar orbit insertion"
+    ],
+    "correctAnswer": "Spacecraft docking technology demonstration"
+  },
+  {
+    "id": "E112",
+    "question": "What amount has the Cabinet approved for the revival of RINL?",
+    "description": "The government sanctioned this amount to support the revival of Rashtriya Ispat Nigam Limited.",
+    "options": [
+      "₹10,000 crore",
+      "₹11,440 crore",
+      "₹12,500 crore",
+      "₹13,000 crore"
+    ],
+    "correctAnswer": "₹11,440 crore"
+  },
+  {
+    "id": "E113",
+    "question": "Which two beaches in Kerala achieved Blue Flag certification?",
+    "description": "These two beaches in Kerala received the prestigious Blue Flag eco-label certification.",
+    "options": [
+      "Kappad and Chal beaches",
+      "Varkala and Kovalam beaches",
+      "Marari and Bekal beaches",
+      "Alappuzha and Cherai beaches"
+    ],
+    "correctAnswer": "Kappad and Chal beaches"
+  },
+  {
+    "id": "E114",
+    "question": "What app did NPCI launch to enable UPI transactions in the UAE?",
+    "description": "NPCI introduced this app to facilitate UPI-based payments in the UAE.",
+    "options": [
+      "Magnati",
+      "UAE Pay",
+      "UPI Connect",
+      "Pay UAE"
+    ],
+    "correctAnswer": "Magnati"
+  },
+  {
+    "id": "E115",
+    "question": "Which state launched a power privatization plan for Dakshinanchal and Purvanchal?",
+    "description": "This Indian state announced privatization plans for power distribution in specific regions.",
+    "options": [
+      "Uttar Pradesh",
+      "Maharashtra",
+      "Bihar",
+      "Odisha"
+    ],
+    "correctAnswer": "Uttar Pradesh"
+  },
+  {
+    "id": "E116",
+    "question": "What percentage growth was recorded in India’s IIP in November 2024?",
+    "description": "The Index of Industrial Production showed this growth rate in November 2024.",
+    "options": [
+      "4.8%",
+      "5.2%",
+      "5.5%",
+      "6.0%"
+    ],
+    "correctAnswer": "5.2%"
+  },
+  {
+    "id": "E117",
+    "question": "Which company launched a laptop assembly line in Chennai under the PLI 2.0 scheme?",
+    "description": "This company started assembling laptops in Chennai as part of the PLI 2.0 scheme.",
+    "options": [
+      "Syrma SGS",
+      "Dell",
+      "HP India",
+      "Lenovo"
+    ],
+    "correctAnswer": "Syrma SGS"
+  },
+  {
+    "id": "E118",
+    "question": "Who inaugurated the second multi-purpose vessel, 'Utkarsh'?",
+    "description": "This shipyard launched the vessel named 'Utkarsh'.",
+    "options": [
+      "L&T Shipyard",
+      "Mazagon Dock",
+      "Cochin Shipyard",
+      "Garden Reach Shipbuilders"
+    ],
+    "correctAnswer": "L&T Shipyard"
+  },
+  {
+    "id": "E119",
+    "question": "What is the new record low of the rupee against USD in January 2025?",
+    "description": "The Indian rupee hit this new low value against the US dollar.",
+    "options": [
+      "₹84/USD",
+      "₹85/USD",
+      "₹86/USD",
+      "₹87/USD"
+    ],
+    "correctAnswer": "₹86/USD"
+  },
+  {
+    "id": "E120",
+    "question": "Which new satellite species was discovered by the Zoological Survey of India (ZSI) in 2025?",
+    "description": "ZSI identified this new species of pangolin in 2025.",
+    "options": [
+      "Manis crassicaudata",
+      "Manis indoburmanica",
+      "Manis pentadactyla",
+      "Manis javanica"
+    ],
+    "correctAnswer": "Manis indoburmanica"
+  },
+  {
+    "id": "E121",
+    "question": "Which project was launched with ₹100 crore to enhance natural rubber quality in India’s North-East?",
+    "description": "This project aims to improve the quality of natural rubber in Northeast India.",
+    "options": [
+      "INROAD Project",
+      "Rubber Development Scheme",
+      "Natural Rubber Enhancement Plan",
+      "North-East Rubber Initiative"
+    ],
+    "correctAnswer": "INROAD Project"
+  },
+  {
+    "id": "E122",
+    "question": "What is the projected GDP growth rate for India in FY25 as per CRISIL?",
+    "description": "CRISIL’s projection of India’s GDP growth for FY25.",
+    "options": [
+      "5.5%",
+      "6.0%",
+      "6.7%",
+      "7.2%"
+    ],
+    "correctAnswer": "6.7%"
+  },
+  {
+    "id": "E123",
+    "question": "Which platform was launched by Piyush Goyal to enhance cleantech value chains?",
+    "description": "This platform aims to boost cleantech sectors in India.",
+    "options": [
+      "Bharat Clean Energy Platform",
+      "Bharat Cleantech Platform",
+      "India GreenTech Initiative",
+      "Renewable Energy Alliance"
+    ],
+    "correctAnswer": "Bharat Cleantech Platform"
+  },
+  {
+    "id": "E124",
+    "question": "Where was the Sri Sri Radha Madanmohanji Temple, Asia’s second-largest ISKCON temple, inaugurated?",
+    "description": "This city is home to Asia’s second-largest ISKCON temple.",
+    "options": [
+      "Navi Mumbai",
+      "Delhi",
+      "Bengaluru",
+      "Chennai"
+    ],
+    "correctAnswer": "Navi Mumbai"
+  },
+  {
+    "id": "E125",
+    "question": "What is the name of the app launched by DoT to curb telecom fraud?",
+    "description": "DoT launched this app to combat telecom-related frauds.",
+    "options": [
+      "Sanchar Saathi App",
+      "Telecom Guardian",
+      "Fraud Alert",
+      "Mobile Saathi"
+    ],
+    "correctAnswer": "Sanchar Saathi App"
+  },
+  {
+    "id": "E126",
+    "question": "What milestone anniversary did the India Meteorological Department (IMD) celebrate in January 2025?",
+    "description": "IMD marked this anniversary in 2025.",
+    "options": [
+      "125 Years",
+      "150 Years",
+      "175 Years",
+      "200 Years"
+    ],
+    "correctAnswer": "150 Years"
+  },
+  {
+    "id": "E127",
+    "question": "Which festival in Tamil Nadu began with bull-taming events in January 2025?",
+    "description": "This traditional Tamil Nadu festival involves bull-taming and started in January 2025.",
+    "options": [
+      "Avaniyapuram Jallikattu",
+      "Pongal",
+      "Thaipusam",
+      "Kambala"
+    ],
+    "correctAnswer": "Avaniyapuram Jallikattu"
+  },
+  {
+    "id": "E128",
+    "question": "What is the name of the app launched on Army Day 2025 to boost battlefield tourism?",
+    "description": "An app launched to promote tourism related to India's military history.",
+    "options": [
+      "Bharat Ranbhoomi Darshan App",
+      "Army Heritage App",
+      "Veer Sena App",
+      "Defence Tourism App"
+    ],
+    "correctAnswer": "Bharat Ranbhoomi Darshan App"
+  },
+  {
+    "id": "E129",
+    "question": "Which international committee did India join to strengthen the use of Big Data for SDGs?",
+    "description": "India joined this committee to enhance Big Data usage for Sustainable Development Goals.",
+    "options": [
+      "UN Big Data Committee",
+      "UN Data Science Panel",
+      "Global SDG Analytics Group",
+      "International Data Alliance"
+    ],
+    "correctAnswer": "UN Big Data Committee"
+  },
+  {
+    "id": "E130",
+    "question": "What is the expected annual growth rate of India’s F&B export industry over the next five years?",
+    "description": "Projected growth rate for the Food & Beverage export sector in India.",
+    "options": [
+      "10-12%",
+      "12-13%",
+      "14-15%",
+      "16-18%"
+    ],
+    "correctAnswer": "14-15%"
+  },
+  {
+    "id": "E131",
+    "question": "What was the retail inflation rate in India in December 2024?",
+    "description": "The retail inflation figure for India in the last month of 2024.",
+    "options": [
+      "4.85%",
+      "5.22%",
+      "5.50%",
+      "6.0%"
+    ],
+    "correctAnswer": "5.22%"
+  },
+  {
+    "id": "E132",
+    "question": "What is the name of the cold-weather apparel developed by DRDO?",
+    "description": "DRDO developed this special cold-weather protective gear.",
+    "options": [
+      "HIMKAVACH",
+      "SnowShield",
+      "ColdGuard",
+      "FrostArmor"
+    ],
+    "correctAnswer": "HIMKAVACH"
+  },
+  {
+    "id": "E133",
+    "question": "Which Indian state integrated with Ayushman Bharat PM-JAY in January 2025?",
+    "description": "This state became the 34th to join the PM-JAY health insurance scheme.",
+    "options": [
+      "Odisha",
+      "Bihar",
+      "Jharkhand",
+      "Chhattisgarh"
+    ],
+    "correctAnswer": "Odisha"
+  },
+  {
+    "id": "E134",
+    "question": "What is the record low exchange rate of the rupee against the US dollar in January 2025?",
+    "description": "The Indian rupee hit this lowest value against the USD in January 2025.",
+    "options": [
+      "₹84/USD",
+      "₹85/USD",
+      "₹86/USD",
+      "₹87/USD"
+    ],
+    "correctAnswer": "₹86/USD"
+  },
+  {
+    "id": "E135",
+    "question": "Which initiative was launched in Assam for inland waterway safety?",
+    "description": "This program aims to improve safety on inland waterways in Assam.",
+    "options": [
+      "National River Traffic & Navigation System (NRT&NS)",
+      "Inland Water Safety Initiative",
+      "River Guard Assam",
+      "Safe Waterways Project"
+    ],
+    "correctAnswer": "National River Traffic & Navigation System (NRT&NS)"
+  },
+  {
+    "id": "E136",
+    "question": "Who was appointed the Chairperson of the AFI Athletes Commission in 2025?",
+    "description": "This athlete was appointed head of the Athletics Federation of India’s Athletes Commission.",
+    "options": [
+      "Anju Bobby George",
+      "P.T. Usha",
+      "Dutee Chand",
+      "Neeraj Chopra"
+    ],
+    "correctAnswer": "Anju Bobby George"
+  },
+  {
+    "id": "E137",
+    "question": "Which countries declared 2026 as a 'Dual Year' focusing on culture and AI?",
+    "description": "These two countries announced 2026 as a year emphasizing cultural and AI cooperation.",
+    "options": [
+      "India and Spain",
+      "India and Japan",
+      "India and France",
+      "India and Germany"
+    ],
+    "correctAnswer": "India and Spain"
+  },
+  {
+    "id": "E138",
+    "question": "What is the name of the ₹75,000 crore energy and cement expansion plan announced by Adani?",
+    "description": "A major investment plan by Adani focused on energy and cement sectors in Chhattisgarh.",
+    "options": [
+      "Adani Investment in Chhattisgarh",
+      "Adani Cement Expansion Plan",
+      "Adani Energy Growth Project",
+      "Adani Infrastructure Development"
+    ],
+    "correctAnswer": "Adani Investment in Chhattisgarh"
+  },
+  {
+    "id": "E139",
+    "question": "What is the new appointment process for Election Commissioners under the revised act?",
+    "description": "The revised legal framework governing appointment of the Chief Election Commissioner and other Election Commissioners.",
+    "options": [
+      "CEC and Other ECs Act, 2023",
+      "Election Commissioner Appointment Act, 2024",
+      "Election Governance Reform Act, 2023",
+      "Chief Election Commissioner Act, 2023"
+    ],
+    "correctAnswer": "CEC and Other ECs Act, 2023"
+  },
+  {
+    "id": "E140",
+    "question": "Which Indian beaches received Blue Flag certification for sustainability?",
+    "description": "Two beaches in Kerala recognized for their environmental standards and cleanliness.",
+    "options": [
+      "Kappad and Chal beaches",
+      "Radhanagar and Kovalam beaches",
+      "Marina and Juhu beaches",
+      "Gokarna and Varkala beaches"
+    ],
+    "correctAnswer": "Kappad and Chal beaches"
+  },
+  {
+    "id": "E141",
+    "question": "Which regional center was announced in J&K for climate resilience in January 2025?",
+    "description": "A meteorological center launched to enhance climate-related services in Jammu and Kashmir.",
+    "options": [
+      "Srinagar Meteorology Centre",
+      "Jammu Climate Research Center",
+      "Ladakh Weather Station",
+      "Kashmir Climate Observatory"
+    ],
+    "correctAnswer": "Srinagar Meteorology Centre"
+  },
+  {
+    "id": "E142",
+    "question": "What is the projected factory output growth rate for November 2024?",
+    "description": "Industrial output growth measured by the Index of Industrial Production (IIP) for November 2024.",
+    "options": [
+      "4.8%",
+      "5.2%",
+      "5.5%",
+      "6.0%"
+    ],
+    "correctAnswer": "5.2%"
+  },
+  {
+    "id": "E143",
+    "question": "Which Hindu festival on January 14, 2025, marks the Sun's transition to Capricorn?",
+    "description": "This festival celebrates the solar event known as Makar Sankranti.",
+    "options": [
+      "Makar Sankranti",
+      "Pongal",
+      "Lohri",
+      "Maghi"
+    ],
+    "correctAnswer": "Makar Sankranti"
+  },
+  {
+    "id": "E144",
+    "question": "Who is India’s fastest ODI century scorer in women’s cricket as of January 2025?",
+    "description": "The female cricketer holding the record for the fastest ODI hundred in India.",
+    "options": [
+      "Smriti Mandhana",
+      "Harmanpreet Kaur",
+      "Mithali Raj",
+      "Jemimah Rodrigues"
+    ],
+    "correctAnswer": "Smriti Mandhana"
+  },
+  {
+    "id": "E145",
+    "question": "Which Indian Railways innovation achieved a benchmark in green energy technology?",
+    "description": "A pioneering hydrogen fuel-run train engine developed by Indian Railways.",
+    "options": [
+      "Hydrogen fuel-run train engine",
+      "Electric high-speed train",
+      "Solar-powered train",
+      "Biofuel train engine"
+    ],
+    "correctAnswer": "Hydrogen fuel-run train engine"
+  },
+  {
+    "id": "E146",
+    "question": "What is the total direct tax collection of India by January 2025?",
+    "description": "Total net direct tax revenue collected by India till January 2025.",
+    "options": [
+      "₹16.90 lakh crore",
+      "₹15.80 lakh crore",
+      "₹17.50 lakh crore",
+      "₹18.00 lakh crore"
+    ],
+    "correctAnswer": "₹16.90 lakh crore"
+  },
+  {
+    "id": "E147",
+    "question": "Which organization developed space docking technology in January 2025?",
+    "description": "India’s premier space agency achieved a milestone in spacecraft docking technology.",
+    "options": [
+      "ISRO",
+      "DRDO",
+      "NASA",
+      "SpaceX"
+    ],
+    "correctAnswer": "ISRO"
+  },
+  {
+    "id": "E148",
+    "question": "What is the world’s most powerful reusable rocket launched by Blue Origin?",
+    "description": "Blue Origin’s heavy-lift rocket designed for reusability.",
+    "options": [
+      "New Glenn",
+      "Falcon Heavy",
+      "Starship",
+      "Ariane 6"
+    ],
+    "correctAnswer": "New Glenn"
+  },
+  {
+    "id": "E149",
+    "question": "Which app was launched for Maha Kumbh 2025 by Uttar Pradesh?",
+    "description": "An FM channel app launched to support the cultural event of Maha Kumbh.",
+    "options": [
+      "Kumbhvani FM",
+      "Kumbh Radio",
+      "Divine Voices",
+      "Maha Kumbh Radio"
+    ],
+    "correctAnswer": "Kumbhvani FM"
+  },
+  {
+    "id": "E150",
+    "question": "What is the name of the inaugural Kho Kho World Cup’s host city?",
+    "description": "The Indian city that hosted the first-ever Kho Kho World Cup.",
+    "options": [
+      "New Delhi",
+      "Mumbai",
+      "Kolkata",
+      "Chennai"
+    ],
+    "correctAnswer": "New Delhi"
+  },
+  {
+    "id": "E151",
+    "question": "What benefit does SECL’s Post-Retirement Benefit Cell under ‘Mission Sambandh’ provide?",
+    "description": "Support offered to retired employees by SECL under Mission Sambandh.",
+    "options": [
+      "Welfare support for retired employees",
+      "Pension enhancement scheme",
+      "Health insurance benefits",
+      "Skill development programs"
+    ],
+    "correctAnswer": "Welfare support for retired employees"
+  },
+  {
+    "id": "E152",
+    "question": "What is India’s projected economy rank by 2026 as per PHDCCI?",
+    "description": "The forecasted global ranking of India’s economy in 2026.",
+    "options": [
+      "4th largest in the world",
+      "3rd largest in the world",
+      "5th largest in the world",
+      "6th largest in the world"
+    ],
+    "correctAnswer": "4th largest in the world"
+  },
+  {
+    "id": "E153",
+    "question": "Who received the Honorary Citizen Award from Singapore in January 2025?",
+    "description": "An Indian industrialist honored by Singapore for his contributions.",
+    "options": [
+      "Tarun Das",
+      "Ratan Tata",
+      "Mukesh Ambani",
+      "Narayana Murthy"
+    ],
+    "correctAnswer": "Tarun Das"
+  },
+  {
+    "id": "E154",
+    "question": "What is the new pension amount for Odisha’s Emergency detainees announced in 2025?",
+    "description": "Monthly pension fixed for emergency detainees by the Odisha government.",
+    "options": [
+      "₹20,000 monthly",
+      "₹15,000 monthly",
+      "₹10,000 monthly",
+      "₹25,000 monthly"
+    ],
+    "correctAnswer": "₹20,000 monthly"
+  },
+  {
+    "id": "E155",
+    "question": "What is the inflation rate in December 2024 due to manufacturing and fuel costs?",
+    "description": "Inflation percentage influenced by manufacturing and fuel price changes.",
+    "options": [
+      "2.37%",
+      "3.50%",
+      "1.95%",
+      "4.20%"
+    ],
+    "correctAnswer": "2.37%"
+  },
+  {
+    "id": "E156",
+    "question": "Which post-harvest festival was celebrated by the Zeliangrong community in Manipur?",
+    "description": "A traditional festival marking the end of harvest season.",
+    "options": [
+      "Gaan-Ngai Festival",
+      "Lui Ngai Ni Festival",
+      "Chapchar Kut Festival",
+      "Bihu Festival"
+    ],
+    "correctAnswer": "Gaan-Ngai Festival"
+  },
+  {
+    "id": "E157",
+    "question": "What record did Djokovic achieve at the Australian Open 2025?",
+    "description": "The total number of Grand Slam matches played by Djokovic.",
+    "options": [
+      "430 Grand Slam matches",
+      "400 Grand Slam matches",
+      "450 Grand Slam matches",
+      "420 Grand Slam matches"
+    ],
+    "correctAnswer": "430 Grand Slam matches"
+  },
+  {
+    "id": "E158",
+    "question": "What significant event was launched at the Bharat Climate Forum 2025?",
+    "description": "An initiative aimed at boosting clean technology value chains in India.",
+    "options": [
+      "Bharat Cleantech Platform",
+      "National Solar Mission",
+      "Climate Resilience Fund",
+      "Green Energy Alliance"
+    ],
+    "correctAnswer": "Bharat Cleantech Platform"
+  },
+  {
+    "id": "E159",
+    "question": "Which river's historic buildings in Hyderabad were recognized on the 2025 World Monuments Watch?",
+    "description": "Historic heritage near this river in Hyderabad was included in global conservation watch list.",
+    "options": [
+      "Musi River",
+      "Godavari River",
+      "Krishna River",
+      "Hussain Sagar"
+    ],
+    "correctAnswer": "Musi River"
+  },
+  {
+    "id": "E160",
+    "question": "What did PM Modi discuss in the first 'Mann Ki Baat' of 2025?",
+    "description": "Key topics addressed by PM Modi in his first radio address of 2025.",
+    "options": [
+      "Constitution, democracy, space tech, and human-animal harmony",
+      "Economic reforms, sports, health, and education",
+      "Climate change, digital India, agriculture, and tourism",
+      "Science, technology, infrastructure, and culture"
+    ],
+    "correctAnswer": "Constitution, democracy, space tech, and human-animal harmony"
+  },
+  {
+    "id": "E161",
+    "question": "What is the 'Entity Locker' launched by the Government of India?",
+    "description": "A digital platform for managing and verifying business documents, inspired by DigiLocker.",
+    "options": [
+      "A digital platform for efficient management and verification of business documents",
+      "A government database for entity registrations",
+      "An online tax filing system",
+      "A digital identity verification tool for citizens"
+    ],
+    "correctAnswer": "A digital platform for efficient management and verification of business documents"
+  },
+  {
+    "id": "E162",
+    "question": "Which company unveiled India's first eVTOL air taxi prototype called 'Shunya'?",
+    "description": "An Indian aviation company developing electric vertical takeoff and landing air taxis.",
+    "options": [
+      "Sarla Aviation",
+      "Tata Aerospace",
+      "Mahindra Aerospace",
+      "Adani Aviation"
+    ],
+    "correctAnswer": "Sarla Aviation"
+  },
+  {
+    "id": "E163",
+    "question": "Who was appointed as the Neutral Expert for the Indus Waters Treaty dispute?",
+    "description": "The appointed third-party expert chosen by the World Bank to resolve water disputes.",
+    "options": [
+      "A World Bank-appointed expert",
+      "An Indian government nominee",
+      "A Pakistani government nominee",
+      "An independent UN arbitrator"
+    ],
+    "correctAnswer": "A World Bank-appointed expert"
+  },
+  {
+    "id": "E164",
+    "question": "Which country has India partnered with for geothermal energy development?",
+    "description": "International collaboration for clean geothermal energy projects.",
+    "options": [
+      "Iceland",
+      "Norway",
+      "Japan",
+      "Denmark"
+    ],
+    "correctAnswer": "Iceland"
+  },
+  {
+    "id": "E165",
+    "question": "What is the main goal of the NITI Aayog’s Fiscal Health Index (FHI) 2025?",
+    "description": "An index designed to evaluate fiscal conditions of Indian states to guide reforms.",
+    "options": [
+      "To evaluate the fiscal health of 18 Indian states for policy reforms",
+      "To measure economic growth rates",
+      "To assess infrastructure development",
+      "To monitor inflation and prices"
+    ],
+    "correctAnswer": "To evaluate the fiscal health of 18 Indian states for policy reforms"
+  },
+  {
+    "id": "E166",
+    "question": "Where was the two-day consultation on AI RAM held in January 2025?",
+    "description": "The city hosting discussions on AI and robotics asset management.",
+    "options": [
+      "Bangalore",
+      "Hyderabad",
+      "New Delhi",
+      "Pune"
+    ],
+    "correctAnswer": "Bangalore"
+  },
+  {
+    "id": "E167",
+    "question": "Who was elected as the new President of ICSI in 2025?",
+    "description": "The new head of the Institute of Company Secretaries of India.",
+    "options": [
+      "Dhananjay Shukla",
+      "R. K. Singh",
+      "Anjali Sharma",
+      "Rajesh Gupta"
+    ],
+    "correctAnswer": "Dhananjay Shukla"
+  },
+  {
+    "id": "E168",
+    "question": "What new sustainable initiative was introduced by India in January 2025 for rubber production?",
+    "description": "An initiative promoting sustainable natural rubber production in India.",
+    "options": [
+      "Indian Sustainable Natural Rubber (iSNR)",
+      "Green Rubber Project",
+      "Eco Rubber Initiative",
+      "Sustainable Latex Program"
+    ],
+    "correctAnswer": "Indian Sustainable Natural Rubber (iSNR)"
+  },
+  {
+    "id": "E169",
+    "question": "Which social media platform temporarily shut down in the U.S. due to a national security law?",
+    "description": "A popular social media app temporarily blocked over security concerns in the U.S.",
+    "options": [
+      "TikTok",
+      "Facebook",
+      "Instagram",
+      "Snapchat"
+    ],
+    "correctAnswer": "TikTok"
+  },
+  {
+    "id": "E170",
+    "question": "Who was sworn in as the 47th President of the U.S. on January 20, 2025?",
+    "description": "The President inaugurated on January 20, 2025.",
+    "options": [
+      "Donald Trump",
+      "Joe Biden",
+      "Kamala Harris",
+      "Mike Pence"
+    ],
+    "correctAnswer": "Donald Trump"
+  },
+  {
+    "id": "E171",
+    "question": "Which two countries signed a 20-year Comprehensive Strategic Partnership Treaty in January 2025?",
+    "description": "A long-term strategic partnership agreement between two major countries.",
+    "options": [
+      "Russia and Iran",
+      "India and Russia",
+      "China and Pakistan",
+      "USA and South Korea"
+    ],
+    "correctAnswer": "Russia and Iran"
+  },
+  {
+    "id": "E172",
+    "question": "Which country built the world’s longest tunnel, the Tianshan Shengli Tunnel?",
+    "description": "Country responsible for constructing the longest tunnel worldwide.",
+    "options": [
+      "China",
+      "Japan",
+      "Switzerland",
+      "Russia"
+    ],
+    "correctAnswer": "China"
+  },
+  {
+    "id": "E173",
+    "question": "Who became the first Indian-American Hindu Second Lady of the United States?",
+    "description": "The Vice President's spouse of Indian-American Hindu origin.",
+    "options": [
+      "Usha Vance",
+      "Kamala Harris",
+      "Indira Patel",
+      "Anita Desai"
+    ],
+    "correctAnswer": "Usha Vance"
+  },
+  {
+    "id": "E174",
+    "question": "Which U.S. executive order on birthright citizenship was temporarily blocked by a Seattle-based judge?",
+    "description": "An executive order concerning citizenship that faced judicial blockage.",
+    "options": [
+      "Trump’s executive order on birthright citizenship",
+      "Obama’s immigration order",
+      "Biden’s healthcare executive order",
+      "Clinton’s economic reform order"
+    ],
+    "correctAnswer": "Trump’s executive order on birthright citizenship"
+  },
+  {
+    "id": "E175",
+    "question": "Which country withdrew from the Paris Climate Agreement in January 2025?",
+    "description": "A major global player exiting the international climate pact.",
+    "options": [
+      "United States",
+      "China",
+      "India",
+      "Russia"
+    ],
+    "correctAnswer": "United States"
+  },
+  {
+    "id": "E176",
+    "question": "Which glacier in Nepal is expected to vanish by the 2040s due to climate change?",
+    "description": "A major Himalayan glacier under threat from global warming.",
+    "options": [
+      "Yala Glacier",
+      "Khumbu Glacier",
+      "Gangotri Glacier",
+      "Siachen Glacier"
+    ],
+    "correctAnswer": "Yala Glacier"
+  },
+  {
+    "id": "E177",
+    "question": "Which country was granted partner status in BRICS in January 2025?",
+    "description": "A new partner country added to the BRICS grouping.",
+    "options": [
+      "Nigeria",
+      "Argentina",
+      "Mexico",
+      "Indonesia"
+    ],
+    "correctAnswer": "Nigeria"
+  },
+  {
+    "id": "E178",
+    "question": "What did Donald Trump announce related to cryptocurrency in January 2025?",
+    "description": "A new initiative formed by the former U.S. President regarding digital currencies.",
+    "options": [
+      "He formed a Cryptocurrency Working Group",
+      "He banned all cryptocurrencies",
+      "He endorsed Bitcoin as legal tender",
+      "He introduced new crypto taxes"
+    ],
+    "correctAnswer": "He formed a Cryptocurrency Working Group"
+  },
+  {
+    "id": "E179",
+    "question": "What major renaming took place in the Gulf of Mexico under Trump’s administration?",
+    "description": "The Gulf of Mexico was renamed during Trump’s tenure.",
+    "options": [
+      "Gulf of America",
+      "Trump Gulf",
+      "American Gulf",
+      "New Gulf"
+    ],
+    "correctAnswer": "Gulf of America"
+  },
+  {
+    "id": "E180",
+    "question": "Which Indian product received a GI tag from PM Modi in January 2025?",
+    "description": "A traditional product from Nicobar district recognized with a Geographical Indication tag.",
+    "options": [
+      "Virgin Coconut Oil from Nicobar district",
+      "Darjeeling Tea",
+      "Mysore Sandalwood Oil",
+      "Kashmiri Saffron"
+    ],
+    "correctAnswer": "Virgin Coconut Oil from Nicobar district"
+  },
+  {
+    "id": "E181",
+    "question": "Which northeastern state celebrated its Statehood Day on January 21, 2025?",
+    "description": "States in Northeast India marking their statehood anniversaries on January 21, 2025.",
+    "options": [
+      "Manipur, Meghalaya, Tripura",
+      "Assam, Nagaland, Arunachal Pradesh",
+      "Sikkim, Mizoram, Meghalaya",
+      "Manipur, Nagaland, Tripura"
+    ],
+    "correctAnswer": "Manipur, Meghalaya, Tripura"
+  },
+  {
+    "id": "E182",
+    "question": "Which festival in Andhra Pradesh emphasizes biodiversity conservation?",
+    "description": "A festival dedicated to promoting biodiversity in Andhra Pradesh.",
+    "options": [
+      "Flamingo Festival",
+      "Sankranti Festival",
+      "Pushkar Festival",
+      "Rath Yatra"
+    ],
+    "correctAnswer": "Flamingo Festival"
+  },
+  {
+    "id": "E183",
+    "question": "What scheme did the Chhattisgarh CM launch to aid landless agricultural laborers?",
+    "description": "A financial aid scheme providing annual support to landless agricultural workers.",
+    "options": [
+      "Rs 10,000 annually for 7.5 lakh landless agricultural laborers",
+      "Rs 5,000 annually for 5 lakh farmers",
+      "Rs 15,000 annually for 10 lakh agricultural workers",
+      "Rs 20,000 annually for 3 lakh landless laborers"
+    ],
+    "correctAnswer": "Rs 10,000 annually for 7.5 lakh landless agricultural laborers"
+  },
+  {
+    "id": "E184",
+    "question": "Which state celebrated its 54th Statehood Day on January 25, 2025?",
+    "description": "A northern Indian state marked its 54th anniversary of statehood in January 2025.",
+    "options": [
+      "Himachal Pradesh",
+      "Punjab",
+      "Uttarakhand",
+      "Jammu & Kashmir"
+    ],
+    "correctAnswer": "Himachal Pradesh"
+  },
+  {
+    "id": "E185",
+    "question": "What GDP growth is projected for India in 2025-26 by the CII?",
+    "description": "Projected economic growth rate by the Confederation of Indian Industry.",
+    "options": [
+      "7%",
+      "5.5%",
+      "6.2%",
+      "8%"
+    ],
+    "correctAnswer": "7%"
+  },
+  {
+    "id": "E186",
+    "question": "How much Mudra Loan was disbursed in Q3 FY25?",
+    "description": "The amount of Mudra loans disbursed in the third quarter of FY 2024-25.",
+    "options": [
+      "₹3.39 lakh crore",
+      "₹2.5 lakh crore",
+      "₹4.1 lakh crore",
+      "₹3.0 lakh crore"
+    ],
+    "correctAnswer": "₹3.39 lakh crore"
+  },
+  {
+    "id": "E187",
+    "question": "Which bank's expansion was approved by RBI with 20 new branches?",
+    "description": "A bank authorized by the Reserve Bank of India for branch expansion.",
+    "options": [
+      "HSBC India",
+      "State Bank of India",
+      "ICICI Bank",
+      "Axis Bank"
+    ],
+    "correctAnswer": "HSBC India"
+  },
+  {
+    "id": "E188",
+    "question": "What is the new series that RBI mandates for transactional calls?",
+    "description": "The new numeric prefix series for regulated transactional phone calls.",
+    "options": [
+      "'1600xx'",
+      "'1800xx'",
+      "'1400xx'",
+      "'1700xx'"
+    ],
+    "correctAnswer": "'1600xx'"
+  },
+  {
+    "id": "E189",
+    "question": "What new system was launched by Rajnath Singh to enhance Indian Army's situational awareness?",
+    "description": "A battlefield surveillance technology system introduced for the Indian Army.",
+    "options": [
+      "SANJAY Battlefield Surveillance System",
+      "RAJ Surveillance Network",
+      "VIGILANT Defense System",
+      "PRATYAKSH Monitoring System"
+    ],
+    "correctAnswer": "SANJAY Battlefield Surveillance System"
+  },
+  {
+    "id": "E190",
+    "question": "Which state launched its own disaster early warning systems in January 2025?",
+    "description": "An Indian state introducing localized disaster prediction and alert infrastructure.",
+    "options": [
+      "Kerala",
+      "Odisha",
+      "Tamil Nadu",
+      "West Bengal"
+    ],
+    "correctAnswer": "Kerala"
+  },
+  {
+    "id": "E191",
+    "question": "What digital innovation was introduced by CSIR in Mumbai?",
+    "description": "A large innovation complex launched by the Council of Scientific and Industrial Research.",
+    "options": [
+      "Mega Innovation Complex",
+      "Digital Science Park",
+      "Tech Innovation Hub",
+      "Innovation Research Centre"
+    ],
+    "correctAnswer": "Mega Innovation Complex"
+  },
+  {
+    "id": "E192",
+    "question": "Which platform launched ‘PB Advantage’ health insurance initiative?",
+    "description": "An online platform introducing a new health insurance product.",
+    "options": [
+      "Policybazaar.ae",
+      "LIC India",
+      "ICICI Lombard",
+      "Bajaj Allianz"
+    ],
+    "correctAnswer": "Policybazaar.ae"
+  },
+  {
+    "id": "E193",
+    "question": "Which Indian IT company topped the Brand Finance 2025 rankings?",
+    "description": "The leading Indian IT brand in 2025 as per Brand Finance.",
+    "options": [
+      "Accenture",
+      "TCS",
+      "Infosys",
+      "Wipro"
+    ],
+    "correctAnswer": "Accenture"
+  },
+  {
+    "id": "E194",
+    "question": "What major data infrastructure project is Reliance building in Gujarat?",
+    "description": "Reliance's data center project in Jamnagar aiming to be the world's largest.",
+    "options": [
+      "The world’s largest data center in Jamnagar",
+      "A smart city data hub in Ahmedabad",
+      "A cloud computing center in Surat",
+      "A cybersecurity facility in Vadodara"
+    ],
+    "correctAnswer": "The world’s largest data center in Jamnagar"
+  },
+  {
+    "id": "E195",
+    "question": "Where was India's sixth astronomical observatory inaugurated in January 2025?",
+    "description": "Location of the newly inaugurated astronomical observatory in India.",
+    "options": [
+      "Panchet Hill, West Bengal",
+      "Mount Abu, Rajasthan",
+      "Kodaikanal, Tamil Nadu",
+      "Nainital, Uttarakhand"
+    ],
+    "correctAnswer": "Panchet Hill, West Bengal"
+  },
+  {
+    "id": "E196",
+    "question": "Which Indian state will host the FIDE Chess World Cup in 2025?",
+    "description": "Host country for the 2025 FIDE Chess World Cup.",
+    "options": [
+      "India",
+      "Russia",
+      "USA",
+      "Germany"
+    ],
+    "correctAnswer": "India"
+  },
+  {
+    "id": "E197",
+    "question": "Which Indian city is hosting the first-ever Kho Kho World Cup in 2025?",
+    "description": "City hosting the inaugural Kho Kho World Cup in India.",
+    "options": [
+      "New Delhi",
+      "Mumbai",
+      "Bengaluru",
+      "Chennai"
+    ],
+    "correctAnswer": "New Delhi"
+  },
+  {
+    "id": "E198",
+    "question": "Who won the men’s singles title at the India Open 2025 badminton tournament?",
+    "description": "Champion of men’s singles in India Open 2025.",
+    "options": [
+      "Viktor Axelsen",
+      "Kidambi Srikanth",
+      "PV Sindhu",
+      "Lee Chong Wei"
+    ],
+    "correctAnswer": "Viktor Axelsen"
+  },
+  {
+    "id": "E199",
+    "question": "What event is celebrated as National Tourism Day 2025 in India?",
+    "description": "Theme for India’s National Tourism Day 2025.",
+    "options": [
+      "Tourism for Inclusive Growth",
+      "Tourism for Sustainable Future",
+      "Cultural Tourism in India",
+      "Tourism and Digital India"
+    ],
+    "correctAnswer": "Tourism for Inclusive Growth"
+  },
+  {
+    "id": "E200",
+    "question": "What is the theme for National Voters’ Day 2025?",
+    "description": "Theme for National Voters’ Day in 2025 to promote voting.",
+    "options": [
+      "Nothing Like Voting, I Vote for Sure.",
+      "Your Vote, Your Voice",
+      "Vote for Better India",
+      "Democracy in Action"
+    ],
+    "correctAnswer": "Nothing Like Voting, I Vote for Sure."
+  }]

@@ -1,0 +1,2597 @@
+[
+  {
+    "id": "c001",
+    "question": "Which initiative was unveiled by Sarbananda Sonowal to standardize port operations?",
+    "description": "Initiative launched to standardize port operations across India.",
+    "options": [
+      "One Nation-One Port",
+      "Harbor Unification Mission",
+      "National Port Grid",
+      "Unified Shipping Strategy"
+    ],
+    "correctAnswer": "One Nation-One Port"
+  },
+  {
+    "id": "c002",
+    "question": "How many riverine dolphins were recorded under Project Dolphin across three river systems?",
+    "description": "Total number of riverine dolphins recorded in a key conservation project.",
+    "options": [
+      "5,432 riverine dolphins",
+      "6,327 riverine dolphins",
+      "7,015 riverine dolphins",
+      "4,986 riverine dolphins"
+    ],
+    "correctAnswer": "6,327 riverine dolphins"
+  },
+  {
+    "id": "c003",
+    "question": "What is the cost of the Govindghat-Hemkund Sahib Ji Ropeway approved under Parvatmala Pariyojana?",
+    "description": "Estimated cost of ropeway project approved under Parvatmala Pariyojana.",
+    "options": [
+      "₹2,100.00 crore",
+      "₹2,730.13 crore",
+      "₹3,000.00 crore",
+      "₹2,500.50 crore"
+    ],
+    "correctAnswer": "₹2,730.13 crore"
+  },
+  {
+    "id": "c004",
+    "question": "How much will the travel time be reduced from 9 hours to by the Sonprayag-Kedarnath Ropeway?",
+    "description": "Expected travel time reduction due to ropeway development from Sonprayag to Kedarnath.",
+    "options": [
+      "1 hour",
+      "45 minutes",
+      "36 minutes",
+      "90 minutes"
+    ],
+    "correctAnswer": "36 minutes"
+  },
+  {
+    "id": "c005",
+    "question": "Which census was announced by PM Modi during the NBWL meeting to be conducted in May 2024?",
+    "description": "Census announced for wildlife conservation in India.",
+    "options": [
+      "Tiger Census",
+      "Elephant Census",
+      "16th Asiatic Lion Census",
+      "Leopard Census"
+    ],
+    "correctAnswer": "16th Asiatic Lion Census"
+  },
+  {
+    "id": "c006",
+    "question": "Who inaugurated the 'Vividhta Ka Amrit Mahotsav' showcasing Southern India's cultural heritage?",
+    "description": "Dignitary who inaugurated a cultural event representing southern heritage.",
+    "options": [
+      "PM Narendra Modi",
+      "President Murmu",
+      "Vice President Jagdeep Dhankhar",
+      "Home Minister Amit Shah"
+    ],
+    "correctAnswer": "President Murmu"
+  },
+  {
+    "id": "c007",
+    "question": "What is the name of the IndiaAI Datasets Platform launched by Union Minister Ashwini Vaishnaw?",
+    "description": "Platform launched to enhance access to AI datasets in India.",
+    "options": [
+      "DataVerse",
+      "AIKosha",
+      "BharatAI",
+      "IndiData"
+    ],
+    "correctAnswer": "AIKosha"
+  },
+  {
+    "id": "c008",
+    "question": "What is the maximum subsidy percentage offered on high-end GPUs under the IndiaAI Compute Portal?",
+    "description": "Subsidy offered on GPUs to promote AI infrastructure in India.",
+    "options": [
+      "20%",
+      "30%",
+      "Up to 40%",
+      "50%"
+    ],
+    "correctAnswer": "Up to 40%"
+  },
+  {
+    "id": "c009",
+    "question": "How many outstanding women professionals in mining were recognized under the Women in Mining Initiative?",
+    "description": "Recognition of women professionals in the mining sector.",
+    "options": [
+      "36",
+      "42",
+      "46",
+      "50"
+    ],
+    "correctAnswer": "46"
+  },
+  {
+    "id": "c010",
+    "question": "Where was India's first World Peace Center inaugurated to promote non-violence and universal brotherhood?",
+    "description": "Location of India's first World Peace Center.",
+    "options": [
+      "Varanasi",
+      "Ahmedabad",
+      "Pune",
+      "Gurugram"
+    ],
+    "correctAnswer": "Gurugram"
+  },
+  {
+    "id": "c011",
+    "question": "When will Uttarakhand's Unified Pension Scheme (UPS) for NPS employees become effective?",
+    "description": "Effective date for the Unified Pension Scheme (UPS) in Uttarakhand.",
+    "options": [
+      "January 1, 2025",
+      "March 1, 2025",
+      "April 1, 2025",
+      "July 1, 2025"
+    ],
+    "correctAnswer": "April 1, 2025"
+  },
+  {
+    "id": "c012",
+    "question": "Which cybersecurity facility was inaugurated by Kerala CM Pinarayi Vijayan?",
+    "description": "Cybersecurity center launched by Kerala government.",
+    "options": [
+      "Cyber Security Intelligence Lab",
+      "Advanced Cybersecurity Operations Centre (SOC)",
+      "Kerala Digital Defence Hub",
+      "Cyber Suraksha Mission Control"
+    ],
+    "correctAnswer": "Advanced Cybersecurity Operations Centre (SOC)"
+  },
+  {
+    "id": "c013",
+    "question": "What is the total budget allocation for Bihar in 2025-26?",
+    "description": "Total amount allocated in Bihar's 2025-26 budget.",
+    "options": [
+      "₹2,95,000 crore",
+      "₹3,16,895 crore",
+      "₹3,50,000 crore",
+      "₹3,10,750 crore"
+    ],
+    "correctAnswer": "₹3,16,895 crore"
+  },
+  {
+    "id": "c014",
+    "question": "At what price will Madhya Pradesh government provide permanent power connections to farmers?",
+    "description": "Subsidized cost for permanent agricultural power connections in MP.",
+    "options": [
+      "Rs 1",
+      "Rs 5",
+      "Rs 10",
+      "Rs 100"
+    ],
+    "correctAnswer": "Rs 5"
+  },
+  {
+    "id": "c015",
+    "question": "To what has Bangalore City University been renamed?",
+    "description": "New name given to Bangalore City University.",
+    "options": [
+      "Dr. Manmohan Singh Bengaluru University",
+      "Kuvempu Bengaluru University",
+      "Rajaji University",
+      "Sir M. Visvesvaraya Bengaluru University"
+    ],
+    "correctAnswer": "Dr. Manmohan Singh Bengaluru University"
+  },
+  {
+    "id": "c016",
+    "question": "What is the helpline number for Punjab's 'Project Hifazat' women & child safety initiative?",
+    "description": "Helpline number for safety and welfare under Project Hifazat.",
+    "options": [
+      "112",
+      "100",
+      "1091",
+      "181"
+    ],
+    "correctAnswer": "181"
+  },
+  {
+    "id": "c017",
+    "question": "What is the name of Assam's electronic city announced post Advantage Assam 2.0 Summit?",
+    "description": "Proposed name for Assam’s new electronics hub.",
+    "options": [
+      "Tata Innovation City",
+      "Ratan Tata Electronic City",
+      "Assam Digital Valley",
+      "Brahmaputra Tech Park"
+    ],
+    "correctAnswer": "Ratan Tata Electronic City"
+  },
+  {
+    "id": "c018",
+    "question": "What does RISE app in Uttar Pradesh stand for?",
+    "description": "Full form of the RISE immunization app launched in UP.",
+    "options": [
+      "Rapid Immunisation Strategy Enhancement",
+      "Rural Immunity Support Engine",
+      "Rapid Immunisation Skill Enhancement",
+      "Responsive Immunisation Support Ecosystem"
+    ],
+    "correctAnswer": "Rapid Immunisation Skill Enhancement"
+  },
+  {
+    "id": "c019",
+    "question": "By what percentage did China increase its 2025 defence budget?",
+    "description": "Defence budget increase percentage by China in 2025.",
+    "options": [
+      "6.8%",
+      "7.0%",
+      "7.2%",
+      "7.5%"
+    ],
+    "correctAnswer": "7.2%"
+  },
+  {
+    "id": "c020",
+    "question": "Who was sworn in as Uruguay's President on March 1, 2025?",
+    "description": "New President of Uruguay sworn in during 2025.",
+    "options": [
+      "Luis Lacalle Pou",
+      "Yamandu Orsi",
+      "Tabaré Vázquez",
+      "Carolina Cosse"
+    ],
+    "correctAnswer": "Yamandu Orsi"
+  },
+  {
+    "id": "c021",
+    "question": "Which countries faced sweeping tariffs from the Trump administration effective March 4, 2025?",
+    "description": "Countries affected by new US tariff policies under Trump.",
+    "options": [
+      "China, Japan, and India",
+      "Mexico, Canada, and China",
+      "UK, EU, and China",
+      "Brazil, Canada, and Russia"
+    ],
+    "correctAnswer": "Canada, Mexico, and China"
+  },
+  {
+    "id": "c022",
+    "question": "Which is the world's largest iceberg that ran aground near South Georgia Island?",
+    "description": "Name of the largest iceberg involved in a major drift event.",
+    "options": [
+      "Iceberg A76a",
+      "Iceberg A23a",
+      "Iceberg B15",
+      "Iceberg C19a"
+    ],
+    "correctAnswer": "Iceberg A23a"
+  },
+  {
+    "id": "c023",
+    "question": "Who replaced Herzi Halevi as Israeli Military Chief?",
+    "description": "New chief of Israeli Defence Forces appointed in 2025.",
+    "options": [
+      "Eyal Zamir",
+      "Aviv Kochavi",
+      "Yoav Gallant",
+      "Benny Gantz"
+    ],
+    "correctAnswer": "Eyal Zamir"
+  },
+  {
+    "id": "c024",
+    "question": "Which certification did Bank of Baroda receive from BSI for Business Continuity Management?",
+    "description": "ISO certification awarded to Bank of Baroda for risk and continuity management.",
+    "options": [
+      "ISO 20000:2018",
+      "ISO 22301:2019",
+      "ISO 9001:2015",
+      "ISO 31000:2018"
+    ],
+    "correctAnswer": "ISO 22301:2019"
+  },
+  {
+    "id": "c025",
+    "question": "Which bank partnered with Chennai Super Kings to launch a co-branded credit card?",
+    "description": "Bank that launched a cricket-themed credit card with CSK.",
+    "options": [
+      "City Union Bank",
+      "ICICI Bank",
+      "Axis Bank",
+      "HDFC Bank"
+    ],
+    "correctAnswer": "City Union Bank"
+  },
+  {
+    "id": "c026",
+    "question": "Who was appointed as RBI Executive Director to manage key financial and risk management sectors?",
+    "description": "New RBI Executive Director appointed for financial supervision.",
+    "options": [
+      "Dr. Ajit Ratnakar Joshi",
+      "Dr. Michael Patra",
+      "T. Rabi Sankar",
+      "M. Rajeshwar Rao"
+    ],
+    "correctAnswer": "Dr. Ajit Ratnakar Joshi"
+  },
+  {
+    "id": "c027",
+    "question": "By what percentage did SEBI's total income rise YoY in FY 2023-24?",
+    "description": "Year-on-year rise in SEBI's total income for FY 2023-24.",
+    "options": ["48%", "38%", "52%", "45%"],
+    "correctAnswer": "48%"
+  },
+  {
+    "id": "c028",
+    "question": "What was the fine imposed by RBI on HSBC for compliance lapses?",
+    "description": "Penalty amount imposed by RBI on HSBC for regulatory lapses.",
+    "options": ["₹66.6 lakh", "₹50 lakh", "₹75 lakh", "₹1 crore"],
+    "correctAnswer": "₹66.6 lakh"
+  },
+  {
+    "id": "c029",
+    "question": "Which handbook did RBI release for cooperative banks summarizing key regulatory guidelines?",
+    "description": "RBI handbook for regulatory guidance to cooperative banks.",
+    "options": ["Banking Simplified", "Rules for Co-op Banks", "Regulations at a Glance", "Compliance Toolkit"],
+    "correctAnswer": "Regulations at a Glance"
+  },
+  {
+    "id": "c030",
+    "question": "Which AI company did Paytm partner with to enhance search and financial decision-making?",
+    "description": "AI firm partnered with Paytm for financial insights.",
+    "options": ["OpenAI", "Perplexity AI", "Anthropic", "Stability AI"],
+    "correctAnswer": "Perplexity AI"
+  },
+  {
+    "id": "c031",
+    "question": "What was the percentage decline in UPI transactions in February 2025?",
+    "description": "MoM decline in UPI volume for February 2025.",
+    "options": ["2%", "5%", "7%", "4%"],
+    "correctAnswer": "5%"
+  },
+  {
+    "id": "c032",
+    "question": "What was the YoY growth in GST collections in February 2025?",
+    "description": "Year-on-year growth rate of GST revenue in Feb 2025.",
+    "options": ["8.5%", "9.1%", "10%", "7.3%"],
+    "correctAnswer": "9.1%"
+  },
+  {
+    "id": "c033",
+    "question": "What is the maximum discount offered on term life insurance under PhonePe's 'Insuring HEROES' Campaign?",
+    "description": "Top discount rate under PhonePe’s insurance initiative.",
+    "options": ["20%", "25%", "30%", "15%"],
+    "correctAnswer": "30%"
+  },
+  {
+    "id": "c034",
+    "question": "What is India's GDP growth forecast by Crisil for FY26?",
+    "description": "Crisil's forecasted GDP growth rate for India in FY26.",
+    "options": ["6.2%", "6.5%", "7%", "6.8%"],
+    "correctAnswer": "6.5%"
+  },
+  {
+    "id": "c035",
+    "question": "Which film won Best Picture at the Oscars 2025?",
+    "description": "2025 Academy Award winner for Best Picture.",
+    "options": ["Oppenheimer", "Anora", "The Holdovers", "Poor Things"],
+    "correctAnswer": "Anora"
+  },
+  {
+    "id": "c036",
+    "question": "Who received the 'Lifetime Achievement in Hospitality Education' award at Vibrant Bharat Global Summit 2025?",
+    "description": "Lifetime award winner for hospitality education in 2025.",
+    "options": ["Chef Sanjeev Kapoor", "Dr. Suborno Bose", "Rakesh Sarna", "Zubin Saxena"],
+    "correctAnswer": "Dr. Suborno Bose"
+  },
+  {
+    "id": "c037",
+    "question": "What honorary order did PM Modi receive from Barbados?",
+    "description": "Top civilian honor conferred on PM Modi by Barbados.",
+    "options": [
+      "Honorary Order of Merit of Barbados",
+      "Honorary Order of Freedom of Barbados",
+      "Order of the Caribbean Sun",
+      "Barbados International Order of Excellence"
+    ],
+    "correctAnswer": "Honorary Order of Freedom of Barbados"
+  },
+  {
+    "id": "c038",
+    "question": "Which rivers are the focus of the MoU between IWAI & J&K Govt. for River Cruise Tourism?",
+    "description": "Rivers included in the cruise tourism agreement in J&K.",
+    "options": [
+      "Chenab (NW-26), Jhelum (NW-49), Ravi (NW-84)",
+      "Beas, Ravi, Chenab",
+      "Jhelum, Indus, Ravi",
+      "Chenab, Tawi, Sutlej"
+    ],
+    "correctAnswer": "Chenab (NW-26), Jhelum (NW-49), Ravi (NW-84)"
+  },
+  {
+    "id": "c039",
+    "question": "What is the name of HDFC Bank's project launched in partnership with IAF & CSC Academy?",
+    "description": "Name of HDFC Bank initiative with IAF & CSC.",
+    "options": ["Project SHAKTI", "Project UDAAN", "Project HAKK", "Project SEWA"],
+    "correctAnswer": "Project HAKK"
+  },
+  {
+    "id": "c040",
+    "question": "Where was the Australia-India Sports Excellence Forum launched?",
+    "description": "Venue of launch for Australia-India sports cooperation platform.",
+    "options": ["New Delhi", "Bengaluru", "Sydney", "GIFT City, Gujarat"],
+    "correctAnswer": "GIFT City, Gujarat"
+  },
+  {
+    "id": "c041",
+    "question": "Who was re-elected as Chairman of Bar Council of India for the seventh consecutive term?",
+    "description": "BCI Chairman elected for 7th time.",
+    "options": ["Manan Kumar Mishra", "Prashant Bhushan", "Kapil Sibal", "Ashok Arora"],
+    "correctAnswer": "Manan Kumar Mishra"
+  },
+  {
+    "id": "c042",
+    "question": "Who was appointed as CEO of Government e-Marketplace (GeM)?",
+    "description": "New CEO of the GeM portal.",
+    "options": ["Ajay Bhadoo", "T. V. Somanathan", "Anurag Jain", "Amitabh Kant"],
+    "correctAnswer": "Ajay Bhadoo"
+  },
+  {
+    "id": "c043",
+    "question": "Who became the first woman Law Secretary in India?",
+    "description": "India's first female Law Secretary appointment.",
+    "options": ["Meenakshi Arora", "Indu Malhotra", "Anju Rathi Rana", "Ranjana Desai"],
+    "correctAnswer": "Anju Rathi Rana"
+  },
+  {
+    "id": "c044",
+    "question": "Which Punjabi artist was appointed as Levi's first global ambassador?",
+    "description": "Levi’s global brand ambassador from Punjab.",
+    "options": ["Ammy Virk", "Diljit Dosanjh", "Sidhu Moosewala", "Jassi Gill"],
+    "correctAnswer": "Diljit Dosanjh"
+  },
+  {
+    "id": "c045",
+    "question": "Who took additional charge as Revenue Secretary?",
+    "description": "Officer given additional charge of Revenue Secretary.",
+    "options": ["Ajay Seth", "T. V. Somanathan", "Vivek Joshi", "Sanjay Malhotra"],
+    "correctAnswer": "Ajay Seth"
+  },
+  {
+    "id": "c046",
+    "question": "What was tested at 50,000 feet in DRDO's High-Altitude Trial for Tejas?",
+    "description": "Technology tested during Tejas fighter altitude trial.",
+    "options": [
+      "Indigenous radar system",
+      "Missile countermeasures",
+      "Indigenous On-Board Oxygen Generating System (OBOGS)",
+      "Stealth coating module"
+    ],
+    "correctAnswer": "Indigenous On-Board Oxygen Generating System (OBOGS)"
+  },
+  {
+    "id": "c047",
+    "question": "Which countries are participating in the Sea Dragon 2025 Naval Exercise?",
+    "description": "Nations involved in the 2025 edition of Sea Dragon.",
+    "options": [
+      "India, U.S., Japan, Australia, S. Korea",
+      "India, U.K., France, Japan, Canada",
+      "India, China, Russia, Iran, U.S.",
+      "India, Australia, Germany, S. Korea, UAE"
+    ],
+    "correctAnswer": "India, U.S., Japan, Australia, S. Korea"
+  },
+  {
+    "id": "c048",
+    "question": "What is India's rank in Global Wealth Rankings according to Knight Frank's Wealth Report 2025?",
+    "description": "India’s position in 2025 global wealth ranking.",
+    "options": ["3rd", "5th", "4th", "6th"],
+    "correctAnswer": "4th"
+  },
+  {
+    "id": "c049",
+    "question": "How many HNWIs does India have according to Knight Frank's Wealth Report 2025?",
+    "description": "Total number of High-Net-Worth Individuals in India (2025).",
+    "options": ["78,000", "85,698", "92,000", "88,500"],
+    "correctAnswer": "85,698"
+  },
+  {
+    "id": "c050",
+    "question": "Which company was honored as Emerging Innovator at Forbes India Leadership Awards 2025?",
+    "description": "Forbes India Emerging Innovator award 2025 recipient.",
+    "options": ["Niramai", "BugWorks Research", "Molbio Diagnostics", "Zoho Corp"],
+    "correctAnswer": "BugWorks Research"
+  },
+  {
+    "id": "c051",
+    "question": "Which country ranks No.1 in the Glass-Ceiling Index 2025 for working women?",
+    "description": "Top-ranked country for working women in Glass-Ceiling Index 2025.",
+    "options": ["Iceland", "Sweden", "Norway", "Denmark"],
+    "correctAnswer": "Sweden"
+  },
+  {
+    "id": "c052",
+    "question": "What is LIC's rank in the strongest insurance brand index?",
+    "description": "LIC's position in global insurance brand strength ranking.",
+    "options": ["1st", "2nd", "3rd", "4th"],
+    "correctAnswer": "3rd"
+  },
+  {
+    "id": "c053",
+    "question": "What is IndiGo's seat capacity growth percentage, making it the 2nd fastest-growing airline?",
+    "description": "Seat capacity growth of IndiGo making it second-fastest-growing globally.",
+    "options": ["8.7%", "10.1%", "12.5%", "9.3%"],
+    "correctAnswer": "10.1%"
+  },
+  {
+    "id": "c054",
+    "question": "Where was the World Sustainable Development Summit (WSDS) 2025 held?",
+    "description": "Location of the WSDS 2025 summit.",
+    "options": ["New Delhi", "Mumbai", "Not specified", "Bengaluru"],
+    "correctAnswer": "Not specified"
+  },
+  {
+    "id": "c055",
+    "question": "Which cricket milestone did Virat Kohli achieve recently?",
+    "description": "Virat Kohli's latest cricket milestone.",
+    "options": ["300th ODI", "50th Test century", "12,000 ODI runs", "500th international match"],
+    "correctAnswer": "300th ODI"
+  },
+  {
+    "id": "c056",
+    "question": "Who announced retirement from table tennis at WTT Star Contender Chennai?",
+    "description": "Indian table tennis player retiring at WTT event.",
+    "options": ["Sharath Kamal", "G. Sathiyan", "Manika Batra", "Anthony Amalraj"],
+    "correctAnswer": "Sharath Kamal"
+  },
+  {
+    "id": "c057",
+    "question": "When are the Khelo India Para Games 2025 scheduled to be held?",
+    "description": "Scheduled dates for Khelo India Para Games 2025.",
+    "options": ["March 20-27, 2025", "April 1-7, 2025", "February 10-17, 2025", "March 5-12, 2025"],
+    "correctAnswer": "March 20-27, 2025"
+  },
+  {
+    "id": "c058",
+    "question": "Which Bangladesh cricketer announced retirement from ODIs post Champions Trophy 2025?",
+    "description": "Bangladesh cricketer retiring after Champions Trophy 2025.",
+    "options": ["Shakib Al Hasan", "Mushfiqur Rahim", "Tamim Iqbal", "Mahmudullah"],
+    "correctAnswer": "Mushfiqur Rahim"
+  },
+  {
+    "id": "c059",
+    "question": "Which team clinched their third Ranji Trophy title in seven seasons?",
+    "description": "Recent Ranji Trophy champions.",
+    "options": ["Vidarbha", "Mumbai", "Saurashtra", "Karnataka"],
+    "correctAnswer": "Vidarbha"
+  },
+  {
+    "id": "c060",
+    "question": "When is Khelo India Winter Games 2025 scheduled in Gulmarg?",
+    "description": "Scheduled dates for Khelo India Winter Games 2025.",
+    "options": ["March 1-5", "March 9-12", "February 20-24", "April 3-7"],
+    "correctAnswer": "March 9-12"
+  },
+  {
+    "id": "c061",
+    "question": "Who clinched the Bengaluru Open ATP 125 Challenger title?",
+    "description": "Winner of Bengaluru Open ATP 125 Challenger.",
+    "options": ["Sumit Nagal", "Yuki Bhambri", "Brandon Holt", "Denis Kudla"],
+    "correctAnswer": "Brandon Holt"
+  },
+  {
+    "id": "c062",
+    "question": "Who took over as ACC President after Jay Shah became ICC Chairman?",
+    "description": "New ACC President after Jay Shah.",
+    "options": ["Shammi Silva", "Nazmul Hassan", "Sourav Ganguly", "Ramiz Raja"],
+    "correctAnswer": "Shammi Silva"
+  },
+  {
+    "id": "c063",
+    "question": "How many GPUs are available under the IndiaAI Mission Compute Portal?",
+    "description": "Number of GPUs on IndiaAI Compute Portal.",
+    "options": ["15,000+", "18,000+", "20,000+", "10,000+"],
+    "correctAnswer": "18,000+"
+  },
+  {
+    "id": "c064",
+    "question": "What was the theme of World Wildlife Day 2025?",
+    "description": "Theme of World Wildlife Day 2025.",
+    "options": [
+      "Restore the Wild",
+      "Investing in People and Planet",
+      "Preserve Biodiversity",
+      "Wildlife Conservation Finance: Investing in People and Planet"
+    ],
+    "correctAnswer": "Wildlife Conservation Finance: Investing in People and Planet"
+  },
+  {
+    "id": "c065",
+    "question": "When is National Dentist's Day observed?",
+    "description": "Date of National Dentist's Day in India.",
+    "options": ["March 6", "March 7", "April 4", "February 28"],
+    "correctAnswer": "March 6"
+  },
+  {
+    "id": "c066",
+    "question": "When is Jan Aushadhi Diwas celebrated?",
+    "description": "Annual observance date for Jan Aushadhi Diwas.",
+    "options": ["March 5", "March 6", "March 7", "March 8"],
+    "correctAnswer": "March 7"
+  },
+  {
+    "id": "c067",
+    "question": "What was the theme of World Hearing Day 2025?",
+    "description": "Theme of World Hearing Day 2025.",
+    "options": [
+      "Hearing for All",
+      "Hearing Care for All",
+      "Changing mindsets: Empower yourself to make ear and hearing care a reality for all!",
+      "Don't Let Hearing Loss Limit You"
+    ],
+    "correctAnswer": "Changing mindsets: Empower yourself to make ear and hearing care a reality for all!"
+  },
+  {
+    "id": "c068",
+    "question": "At what age did Australian tennis legend Fred Stolle pass away?",
+    "description": "Age at death of Fred Stolle.",
+    "options": ["86", "83", "88", "84"],
+    "correctAnswer": "86"
+  },
+  {
+    "id": "c069",
+    "question": "Who is now the oldest living Test cricketer after Ron Draper's passing?",
+    "description": "Oldest living Test cricketer after Ron Draper.",
+    "options": ["Neil Harvey", "Ian Chappell", "Farokh Engineer", "Bobby Simpson"],
+    "correctAnswer": "Neil Harvey"
+  },
+  {
+    "id": "c070",
+    "question": "Which legendary left-arm spinner for Mumbai cricket passed away at 84?",
+    "description": "Mumbai left-arm spinner who passed away at 84.",
+    "options": ["Padmakar Shivalkar", "Rajinder Goel", "Bapu Nadkarni", "Dilip Doshi"],
+    "correctAnswer": "Padmakar Shivalkar"
+  },
+  {
+    "id": "c071",
+    "question": "Which new habitats were identified for cheetah reintroduction in India?",
+    "description": "New sites for cheetah reintroduction.",
+    "options": [
+      "Gir Forest & Bandipur",
+      "Banni Grasslands & Gandhisagar Sanctuary",
+      "Kanha & Satpura",
+      "Sariska & Ranthambhore"
+    ],
+    "correctAnswer": "Banni Grasslands & Gandhisagar Sanctuary"
+  },
+  {
+    "id": "c072",
+    "question": "What will be the cost of the Sonprayag-Kedarnath Ropeway project?",
+    "description": "Estimated cost of Sonprayag-Kedarnath Ropeway.",
+    "options": ["₹2,500 crore", "₹3,100 crore", "₹4,081.28 crore", "₹3,800 crore"],
+    "correctAnswer": "₹4,081.28 crore"
+  },
+  {
+    "id": "c073",
+    "question": "Which festival was described as Asia's largest literature festival from March 7-12 in New Delhi?",
+    "description": "Asia's largest literature festival held in March 2025.",
+    "options": [
+      "Jaipur Literature Festival",
+      "Festival of Letters 2025",
+      "World Book Fair",
+      "Delhi Literature Carnival"
+    ],
+    "correctAnswer": "Festival of Letters 2025"
+  },
+  {
+    "id": "c074",
+    "question": "Which two railway PSUs were upgraded to Navratna status on March 4, 2025?",
+    "description": "Railway PSUs upgraded to Navratna status.",
+    "options": [
+      "IRCTC and IRFC",
+      "CONCOR and RITES",
+      "IRCON and RVNL",
+      "DFCCIL and IRFC"
+    ],
+    "correctAnswer": "IRCTC and IRFC"
+  },
+  {
+    "id": "c075",
+    "question": "Who was the new RBI Executive Director appointed to oversee Statistics & Information Management?",
+    "description": "New RBI Executive Director for Statistics.",
+    "options": [
+      "Dr. Ajit Ratnakar Joshi",
+      "M. Rajeshwar Rao",
+      "Swaminathan J.",
+      "Vivek Joshi"
+    ],
+    "correctAnswer": "Dr. Ajit Ratnakar Joshi"
+  },
+  {
+    "id": "c076",
+    "question": "What is the total defence budget of China for 2025?",
+    "description": "China's defence budget for 2025.",
+    "options": ["$230 billion", "$245 billion", "$250 billion", "$265 billion"],
+    "correctAnswer": "$245 billion"
+  },
+  {
+    "id": "c077",
+    "question": "When will Trump's reciprocal tariffs on India be effective?",
+    "description": "Effective date of U.S. reciprocal tariffs on India.",
+    "options": ["April 2", "March 15", "May 1", "April 10"],
+    "correctAnswer": "April 2"
+  },
+  {
+    "id": "c078",
+    "question": "Which sector received the highest allocation in Bihar's 2025-26 budget?",
+    "description": "Highest allocated sector in Bihar’s 2025-26 state budget.",
+    "options": ["Education", "Health", "Agriculture", "Infrastructure"],
+    "correctAnswer": "Education"
+  },
+  {
+    "id": "c079",
+    "question": "Who won the Best Director award at Oscars 2025?",
+    "description": "Best Director winner at the 2025 Oscars.",
+    "options": ["Sean Baker", "Christopher Nolan", "Yorgos Lanthimos", "Martin Scorsese"],
+    "correctAnswer": "Sean Baker"
+  },
+  {
+    "id": "c080",
+    "question": "How many disciplines will feature in the Khelo India Para Games 2025?",
+    "description": "Number of disciplines in Khelo India Para Games 2025.",
+    "options": ["Four", "Five", "Six", "Seven"],
+    "correctAnswer": "Six"
+  },
+  {
+    "id": "c081",
+    "question": "What is India’s 58th Tiger Reserve?",
+    "description": "Recently declared 58th Tiger Reserve in India.",
+    "options": ["Madhav National Park", "Kuno National Park", "Buxa Tiger Reserve", "Palamau Tiger Reserve"],
+    "correctAnswer": "Madhav National Park"
+  },
+  {
+    "id": "c082",
+    "question": "Which is the first state in India to use AI in vehicle fitness testing?",
+    "description": "First Indian state to implement AI for vehicle fitness testing.",
+    "options": ["Uttar Pradesh", "Maharashtra", "Karnataka", "Tamil Nadu"],
+    "correctAnswer": "Uttar Pradesh"
+  },
+  {
+    "id": "c083",
+    "question": "How many kilometers does India’s longest expressway, the Delhi-Mumbai Expressway, span?",
+    "description": "Length of Delhi-Mumbai Expressway in kilometers.",
+    "options": ["1,200 km", "1,386 km", "1,500 km", "1,300 km"],
+    "correctAnswer": "1,386 km"
+  },
+  {
+    "id": "c084",
+    "question": "What is the purpose of the “Mera Yuva Bharat” (MY Bharat) platform?",
+    "description": "Primary aim of the MY Bharat platform.",
+    "options": ["Youth empowerment", "Skill development", "Job creation", "Health awareness"],
+    "correctAnswer": "Youth empowerment"
+  },
+  {
+    "id": "c085",
+    "question": "Which city is recognized as India’s first solar city?",
+    "description": "India’s first city to be recognized as a solar city.",
+    "options": ["Sanchi, Madhya Pradesh", "Jaipur, Rajasthan", "Ahmedabad, Gujarat", "Bhubaneswar, Odisha"],
+    "correctAnswer": "Sanchi, Madhya Pradesh"
+  },
+  {
+    "id": "c086",
+    "question": "Under the ‘PM Surya Ghar Muft Bijli Yojana,’ how many units of free electricity are provided?",
+    "description": "Units of free electricity provided under PM Surya Ghar Muft Bijli Yojana.",
+    "options": ["100 units", "200 units", "300 units", "400 units"],
+    "correctAnswer": "300 units"
+  },
+  {
+    "id": "c087",
+    "question": "Which city hosts India’s first underwater metro?",
+    "description": "City where India’s first underwater metro is located.",
+    "options": ["Kolkata", "Mumbai", "Chennai", "Delhi"],
+    "correctAnswer": "Kolkata"
+  },
+  {
+    "id": "c088",
+    "question": "Which state was the first to implement a climate risk atlas?",
+    "description": "First Indian state to launch a climate risk atlas.",
+    "options": ["Odisha", "West Bengal", "Kerala", "Gujarat"],
+    "correctAnswer": "Odisha"
+  },
+  {
+    "id": "c089",
+    "question": "Which was the first state to provide menstrual leave for women employees?",
+    "description": "First Indian state to introduce menstrual leave for women workers.",
+    "options": ["Bihar", "Tamil Nadu", "Kerala", "Maharashtra"],
+    "correctAnswer": "Bihar"
+  },
+  {
+    "id": "c090",
+    "question": "The world’s tallest railway bridge is built over which river?",
+    "description": "River over which the tallest railway bridge in the world is constructed.",
+    "options": ["Chenab River", "Ganges River", "Yamuna River", "Narmada River"],
+    "correctAnswer": "Chenab River"
+  },
+  {
+    "id": "c091",
+    "question": "Which country launched the “Bharat Mart” in Dubai?",
+    "description": "Country where Bharat Mart was launched in Dubai.",
+    "options": ["UAE", "Saudi Arabia", "Qatar", "Oman"],
+    "correctAnswer": "UAE"
+  },
+  {
+    "id": "c092",
+    "question": "With which South American country did India sign a trade agreement in 2025?",
+    "description": "South American country signing a trade deal with India in 2025.",
+    "options": ["Argentina", "Brazil", "Chile", "Colombia"],
+    "correctAnswer": "Brazil"
+  },
+  {
+    "id": "c093",
+    "question": "Which country was the first to land on the far side of the Moon?",
+    "description": "First country to successfully land on the Moon's far side.",
+    "options": ["USA", "Russia", "China", "India"],
+    "correctAnswer": "China"
+  },
+  {
+    "id": "c094",
+    "question": "In which country is India’s first overseas rail project located?",
+    "description": "Country hosting India’s first overseas railway project.",
+    "options": ["Mauritius", "Nepal", "Bangladesh", "Bhutan"],
+    "correctAnswer": "Mauritius"
+  },
+  {
+    "id": "c095",
+    "question": "Which country hosted the 2025 SCO Summit?",
+    "description": "Host country for the 2025 SCO Summit.",
+    "options": ["India", "Kazakhstan", "Russia", "China"],
+    "correctAnswer": "Kazakhstan"
+  },
+  {
+    "id": "c096",
+    "question": "To which country did India gift a Dornier aircraft?",
+    "description": "Country receiving a Dornier aircraft as a gift from India.",
+    "options": ["Sri Lanka", "Bangladesh", "Maldives", "Nepal"],
+    "correctAnswer": "Sri Lanka"
+  },
+  {
+    "id": "c097",
+    "question": "Which is the first AI-driven city in the world?",
+    "description": "First city globally to be fully AI-driven.",
+    "options": ["Neom, Saudi Arabia", "Singapore", "Dubai, UAE", "San Francisco, USA"],
+    "correctAnswer": "Neom, Saudi Arabia"
+  },
+  {
+    "id": "c098",
+    "question": "Which new sport was introduced in the Paris 2024 Olympics?",
+    "description": "New sport debuting at the Paris 2024 Olympic Games.",
+    "options": ["Skateboarding", "Breaking (Breakdancing)", "Surfing", "Sport Climbing"],
+    "correctAnswer": "Breaking (Breakdancing)"
+  },
+  {
+    "id": "c099",
+    "question": "Which country became the 31st NATO member?",
+    "description": "The country that joined NATO as the 31st member.",
+    "options": ["Finland", "Sweden", "Norway", "Iceland"],
+    "correctAnswer": "Sweden"
+  },
+  {
+    "id": "c100",
+    "question": "In which country was the world’s largest electric ferry launched?",
+    "description": "Country where the largest electric ferry in the world was launched.",
+    "options": ["Norway", "Denmark", "Germany", "Netherlands"],
+    "correctAnswer": "Norway"
+  },
+  {
+    "id": "c101",
+    "question": "What is India’s GDP growth projection for FY 2025 by RBI?",
+    "description": "RBI’s forecasted GDP growth rate for India in FY 2025.",
+    "options": ["5.5%", "6.0%", "6.5%", "7.0%"],
+    "correctAnswer": "6.5%"
+  },
+  {
+    "id": "c102",
+    "question": "Who was appointed as the new RBI governor in December 2024?",
+    "description": "The individual appointed as RBI governor in December 2024.",
+    "options": ["Shaktikanta Das", "Sanjay Malhotra", "Urjit Patel", "Raghuram Rajan"],
+    "correctAnswer": "Sanjay Malhotra"
+  },
+  {
+    "id": "c103",
+    "question": "Which bank launched the “Smart Hub Vyapar” app for merchants?",
+    "description": "Bank that introduced the Smart Hub Vyapar app.",
+    "options": ["ICICI Bank", "HDFC Bank", "Axis Bank", "State Bank of India"],
+    "correctAnswer": "HDFC Bank"
+  },
+  {
+    "id": "c104",
+    "question": "Which is India’s largest public sector bank?",
+    "description": "The largest public sector bank in India by size and assets.",
+    "options": ["Punjab National Bank", "Bank of Baroda", "State Bank of India", "Canara Bank"],
+    "correctAnswer": "State Bank of India"
+  },
+  {
+    "id": "c105",
+    "question": "Where is the headquarters of the BRICS New Development Bank?",
+    "description": "Location of the headquarters of the BRICS New Development Bank.",
+    "options": ["Beijing, China", "Shanghai, China", "New Delhi, India", "Moscow, Russia"],
+    "correctAnswer": "Shanghai, China"
+  },
+  {
+    "id": "c106",
+    "question": "What is the name of the first digital currency introduced by RBI?",
+    "description": "Name of RBI's first Central Bank Digital Currency (CBDC).",
+    "options": ["e-Rupee", "Digi-Rupee", "Crypto-Rupee", "Digital Rupee"],
+    "correctAnswer": "e-Rupee (CBDC)"
+  },
+  {
+    "id": "c107",
+    "question": "India’s forex reserves recently crossed which amount?",
+    "description": "Recent milestone crossed by India’s foreign exchange reserves.",
+    "options": ["$600 billion", "$650 billion", "$700 billion", "$750 billion"],
+    "correctAnswer": "$650 billion"
+  },
+  {
+    "id": "c108",
+    "question": "Which bank launched the ‘Green Deposit’ scheme?",
+    "description": "Bank that introduced the Green Deposit scheme to support sustainable projects.",
+    "options": ["ICICI Bank", "HDFC Bank", "Axis Bank", "Kotak Mahindra Bank"],
+    "correctAnswer": "ICICI Bank"
+  },
+  {
+    "id": "c109",
+    "question": "Which was the first Indian stock exchange to launch AI-powered trading?",
+    "description": "Indian stock exchange that first introduced AI-driven trading technology.",
+    "options": ["BSE", "NSE", "MCX", "ICEX"],
+    "correctAnswer": "NSE (National Stock Exchange)"
+  },
+  {
+    "id": "c110",
+    "question": "Which was the first bank in India to introduce a UPI credit card facility?",
+    "description": "First Indian bank to launch a UPI credit card.",
+    "options": ["Axis Bank", "HDFC Bank", "ICICI Bank", "SBI"],
+    "correctAnswer": "Axis Bank"
+  },
+  {
+    "id": "c111",
+    "question": "In which city was India’s first quantum computing-based telecom network set up?",
+    "description": "City hosting India’s first quantum computing telecom network.",
+    "options": ["Bengaluru", "Hyderabad", "Delhi", "Mumbai"],
+    "correctAnswer": "Delhi"
+  },
+  {
+    "id": "c112",
+    "question": "What is the name of ISRO’s reusable launch vehicle?",
+    "description": "Name of ISRO’s reusable launch vehicle project.",
+    "options": ["RLV-TD", "GSLV Mk III", "PSLV", "Chandrayaan"],
+    "correctAnswer": "RLV-TD"
+  },
+  {
+    "id": "c113",
+    "question": "Which company launched the world’s first 3D-printed rocket?",
+    "description": "Company that created the first fully 3D-printed rocket.",
+    "options": ["SpaceX", "Blue Origin", "Relativity Space", "Rocket Lab"],
+    "correctAnswer": "Relativity Space (USA)"
+  },
+  {
+    "id": "c114",
+    "question": "What is the name of India’s first AI-powered robot lawyer?",
+    "description": "Name of India’s first AI-powered robot lawyer.",
+    "options": ["Lexi", "RoboLaw", "AI Advocate", "LawBot"],
+    "correctAnswer": "Lexi"
+  },
+  {
+    "id": "c115",
+    "question": "Chandrayaan-3 successfully landed near which lunar region?",
+    "description": "The lunar region where Chandrayaan-3 made a successful landing.",
+    "options": ["Equator", "South Pole", "North Pole", "Mare Imbrium"],
+    "correctAnswer": "South Pole"
+  },
+  {
+    "id": "c116",
+    "question": "What is the name of the world’s first malaria vaccine approved by WHO?",
+    "description": "The first malaria vaccine approved by WHO for global use.",
+    "options": ["RTS,S (Mosquirix)", "Pfizer Malaria Vaccine", "GSK Malaria Vaccine", "Sanofi Malaria Vaccine"],
+    "correctAnswer": "RTS,S (Mosquirix)"
+  },
+  {
+    "id": "c117",
+    "question": "In which city was India’s first indigenously developed hydrogen fuel cell ferry launched?",
+    "description": "City where India's first hydrogen fuel cell ferry was launched.",
+    "options": ["Mumbai", "Kochi", "Chennai", "Goa"],
+    "correctAnswer": "Kochi"
+  },
+  {
+    "id": "c118",
+    "question": "What is the name of India’s AI chatbot for healthcare services?",
+    "description": "Name of the AI chatbot launched for healthcare in India.",
+    "options": ["Aarogya AI", "MedBot", "HealthMate", "DocBot"],
+    "correctAnswer": "Aarogya AI"
+  },
+  {
+    "id": "c119",
+    "question": "Which was the first Indian private rocket company to reach orbit?",
+    "description": "First Indian private company to successfully launch a rocket into orbit.",
+    "options": ["Agni Aerospace", "Skyroot Aerospace", "Bellatrix Aerospace", "Pixxel"],
+    "correctAnswer": "Skyroot Aerospace"
+  },
+  {
+    "id": "c120",
+    "question": "How many astronauts is the Gaganyaan mission aiming to send into space?",
+    "description": "Number of astronauts planned for the Gaganyaan mission.",
+    "options": ["Two", "Three", "Four", "Five"],
+    "correctAnswer": "Three"
+  },
+  {
+    "id": "c121",
+    "question": "What is the name of India’s first indigenous aircraft carrier?",
+    "description": "Name of the first aircraft carrier built indigenously by India.",
+    "options": ["INS Vikrant", "INS Vikramaditya", "INS Arihant", "INS Chakra"],
+    "correctAnswer": "INS Vikrant"
+  },
+  {
+    "id": "c122",
+    "question": "What is the range of the Agni-5 missile?",
+    "description": "Maximum range of the Agni-5 ballistic missile.",
+    "options": ["3,000 km", "4,000 km", "5,000 km", "6,000 km"],
+    "correctAnswer": "5,000 km"
+  },
+  {
+    "id": "c123",
+    "question": "Who is India’s first woman Rafale fighter pilot?",
+    "description": "Name of the first female pilot to fly the Rafale fighter jet in India.",
+    "options": ["Avani Chaturvedi", "Bhavna Joshi", "Shivangi Singh", "Gunjan Saxena"],
+    "correctAnswer": "Shivangi Singh"
+  },
+  {
+    "id": "c124",
+    "question": "Exercise ‘Yudh Abhyas’ is conducted between India and which country?",
+    "description": "Country partnering India in the Yudh Abhyas military exercise.",
+    "options": ["Russia", "USA", "Japan", "France"],
+    "correctAnswer": "USA"
+  },
+  {
+    "id": "c125",
+    "question": "What is the name of the first Indian submarine made under Project-75I?",
+    "description": "Name of the first submarine developed under Project-75I.",
+    "options": ["INS Chakra", "INS Arihant", "INS Kalvari", "INS Sindhughosh"],
+    "correctAnswer": "INS Kalvari"
+  },
+  {
+    "id": "c126",
+    "question": "The BrahMos missile is developed by India in collaboration with which country?",
+    "description": "Country collaborating with India in the BrahMos missile project.",
+    "options": ["USA", "Russia", "France", "Israel"],
+    "correctAnswer": "Russia"
+  },
+  {
+    "id": "c127",
+    "question": "What is the name of the Indian Army’s first AI-based combat drone system?",
+    "description": "Name of the AI-enabled combat drone used by the Indian Army.",
+    "options": ["SkyStriker", "AeroVigil", "Hunter-X", "DroneGuard"],
+    "correctAnswer": "SkyStriker"
+  },
+  {
+    "id": "c128",
+    "question": "Who is the current Chief of Defense Staff (CDS) of India?",
+    "description": "Name of India’s current Chief of Defense Staff.",
+    "options": ["General Bipin Rawat", "General Anil Chauhan", "General Manoj Mukund Naravane", "Admiral Karambir Singh"],
+    "correctAnswer": "General Anil Chauhan"
+  },
+  {
+    "id": "c129",
+    "question": "The 'Varunastra' torpedo was developed by which organization?",
+    "description": "Organization responsible for developing the Varunastra torpedo.",
+    "options": ["ISRO", "DRDO", "HAL", "BEL"],
+    "correctAnswer": "DRDO"
+  },
+  {
+    "id": "c130",
+    "question": "What is the name of India’s first indigenously built attack helicopter?",
+    "description": "Name of the first attack helicopter designed and built in India.",
+    "options": ["HAL Rudra", "HAL Prachand", "HAL Dhruv", "HAL Tejas"],
+    "correctAnswer": "HAL Prachand"
+  },
+  {
+    "id": "c131",
+    "question": "How many gold medals did India win in the 2024 Paris Olympics?",
+    "description": "Total gold medals won by India at the 2024 Paris Olympics.",
+    "options": ["5", "6", "7", "8"],
+    "correctAnswer": "7"
+  },
+  {
+    "id": "c132",
+    "question": "Who was the first Indian to win an ATP Masters 1000 title?",
+    "description": "Name of the first Indian player to win an ATP Masters 1000 tennis title.",
+    "options": ["Leander Paes", "Mahesh Bhupathi", "Rohan Bopanna", "Sania Mirza"],
+    "correctAnswer": "Rohan Bopanna"
+  },
+  {
+    "id": "c133",
+    "question": "Which country will host the Champions Trophy 2025?",
+    "description": "Host country for the 2025 Champions Trophy cricket tournament.",
+    "options": ["India", "Pakistan", "Australia", "England"],
+    "correctAnswer": "Pakistan"
+  },
+  {
+    "id": "c134",
+    "question": "Who won the Orange Cap in IPL 2024?",
+    "description": "Player awarded the Orange Cap in the 2024 IPL season.",
+    "options": ["Virat Kohli", "Shubman Gill", "Ruturaj Gaikwad", "Jos Buttler"],
+    "correctAnswer": "Shubman Gill"
+  },
+  {
+    "id": "c135",
+    "question": "Which country will host the 2028 Olympics?",
+    "description": "Host country and city for the 2028 Summer Olympics.",
+    "options": ["France (Paris)", "USA (Los Angeles)", "Japan (Tokyo)", "Australia (Sydney)"],
+    "correctAnswer": "USA (Los Angeles)"
+  },
+  {
+    "id": "c136",
+    "question": "Who became the first Indian woman to win a Formula 3 race?",
+    "description": "Name of the first Indian female Formula 3 race winner.",
+    "options": ["Sneha Sharma", "Divya Gokulnath", "Mahi Chopra", "Reema Juffali"],
+    "correctAnswer": "Sneha Sharma"
+  },
+  {
+    "id": "c137",
+    "question": "Where was India’s first football AI referee system launched?",
+    "description": "League where India introduced its first AI-based football referee system.",
+    "options": ["ISL (Indian Super League)", "I-League", "Durand Cup", "Santosh Trophy"],
+    "correctAnswer": "ISL (Indian Super League)"
+  },
+  {
+    "id": "c138",
+    "question": "Who was the first Indian para-athlete to win six medals at the Paralympics?",
+    "description": "Name of the para-athlete who won six Paralympic medals for India.",
+    "options": ["Devendra Jhajharia", "Sumit Antil", "Mariyappan Thangavelu", "Deepa Malik"],
+    "correctAnswer": "Sumit Antil"
+  },
+  {
+    "id": "c139",
+    "question": "Which country will host the Asian Games 2026?",
+    "description": "Host country for the 2026 Asian Games.",
+    "options": ["China", "Japan", "South Korea", "Indonesia"],
+    "correctAnswer": "Japan"
+  },
+  {
+    "id": "c140",
+    "question": "Who won the 2024 Ballon d’Or?",
+    "description": "Winner of the prestigious 2024 Ballon d’Or football award.",
+    "options": ["Cristiano Ronaldo", "Kylian Mbappé", "Lionel Messi", "Robert Lewandowski"],
+    "correctAnswer": "Lionel Messi"
+  },
+  {
+    "id": "c141",
+    "question": "Who was awarded the Bharat Ratna in 2024?",
+    "description": "Recipient of India's highest civilian award, the Bharat Ratna, in 2024.",
+    "options": ["Chaudhary Charan Singh", "Lata Mangeshkar", "Atal Bihari Vajpayee", "Sundar Pichai"],
+    "correctAnswer": "Chaudhary Charan Singh"
+  },
+  {
+    "id": "c142",
+    "question": "Who was the first Indian woman to receive the Nobel Prize in Literature?",
+    "description": "First Indian woman awarded the Nobel Prize for Literature.",
+    "options": ["Arundhati Roy", "Kiran Desai", "Jhumpa Lahiri", "Amrita Pritam"],
+    "correctAnswer": "Arundhati Roy"
+  },
+  {
+    "id": "c143",
+    "question": "Which film won the Oscar for Best Picture in 2024?",
+    "description": "Winner of the 2024 Academy Award for Best Picture.",
+    "options": ["Oppenheimer", "Everything Everywhere All at Once", "Top Gun: Maverick", "The Fabelmans"],
+    "correctAnswer": "Oppenheimer"
+  },
+  {
+    "id": "c144",
+    "question": "Who received the Padma Vibhushan in Sports in 2024?",
+    "description": "Recipient of the Padma Vibhushan award in the Sports category in 2024.",
+    "options": ["Virat Kohli", "Sachin Tendulkar", "PV Sindhu", "Mithali Raj"],
+    "correctAnswer": "Sachin Tendulkar"
+  },
+  {
+    "id": "c145",
+    "question": "Who was the first Indian scientist to win the Abel Prize?",
+    "description": "The first Indian scientist honored with the Abel Prize in Mathematics.",
+    "options": ["C.R. Rao", "Manjul Bhargava", "Srinivasa Ramanujan", "Akshay Venkatesh"],
+    "correctAnswer": "Manjul Bhargava"
+  },
+  {
+    "id": "c146",
+    "question": "Who won the Miss World 2024 title?",
+    "description": "Winner of the Miss World beauty pageant in 2024.",
+    "options": ["Karolina Bielawska", "Krystyna Pyszková", "Manasa Varanasi", "Anntonia Porsild"],
+    "correctAnswer": "Krystyna Pyszková"
+  },
+  {
+    "id": "c147",
+    "question": "Who was awarded the Jnanpith Award in 2024?",
+    "description": "Recipient of the prestigious Jnanpith literary award in 2024.",
+    "options": ["Damodar Mauzo", "U.R. Ananthamurthy", "Keki N. Daruwalla", "Arundhati Roy"],
+    "correctAnswer": "Damodar Mauzo"
+  },
+  {
+    "id": "c148",
+    "question": "Who was India’s first female Grandmaster in chess?",
+    "description": "The first Indian woman to achieve the Grandmaster title in chess.",
+    "options": ["Koneru Humpy", "Dronavalli Harika", "Tania Sachdev", "P. V. Nandhidhaa"],
+    "correctAnswer": "Koneru Humpy"
+  },
+  {
+    "id": "c149",
+    "question": "Who won the Booker Prize 2024?",
+    "description": "Winner of the Booker Prize literary award in 2024.",
+    "options": ["Chetna Maroo", "Geetanjali Shree", "Salman Rushdie", "Arundhati Roy"],
+    "correctAnswer": "Chetna Maroo"
+  },
+  {
+    "id": "c150",
+    "question": "Who was the first Indian to win the Fields Medal in Mathematics?",
+    "description": "The first Indian recipient of the Fields Medal, often called the 'Nobel Prize of Mathematics'.",
+    "options": ["Manjul Bhargava", "Akshay Venkatesh", "C.R. Rao", "Harish-Chandra"],
+    "correctAnswer": "Akshay Venkatesh"
+  },
+  {
+    "id": "c151",
+    "question": "What was the theme of World Environment Day 2024?",
+    "description": "Theme adopted globally for World Environment Day in 2024.",
+    "options": [
+      "Beat Plastic Pollution",
+      "Restore Our Earth",
+      "Land Restoration, Desertification, and Drought Resilience",
+      "Ecosystem Restoration"
+    ],
+    "correctAnswer": "Land Restoration, Desertification, and Drought Resilience"
+  },
+  {
+    "id": "c152",
+    "question": "Which was the first solar-powered village in India?",
+    "description": "The first village in India powered entirely by solar energy.",
+    "options": ["Modhera, Gujarat", "Punsari, Gujarat", "Phalodi, Rajasthan", "Karaikal, Puducherry"],
+    "correctAnswer": "Modhera, Gujarat"
+  },
+  {
+    "id": "c153",
+    "question": "In which state was India’s first hydrogen-powered train launched?",
+    "description": "The Indian state where the first hydrogen-powered train was inaugurated.",
+    "options": ["Maharashtra", "Kerala", "Haryana", "Tamil Nadu"],
+    "correctAnswer": "Haryana"
+  },
+  {
+    "id": "c154",
+    "question": "Where is the world’s largest renewable energy park located?",
+    "description": "Location of the world’s largest renewable energy park.",
+    "options": ["Tamil Nadu", "Gujarat", "Rajasthan", "Madhya Pradesh"],
+    "correctAnswer": "Gujarat"
+  },
+  {
+    "id": "c155",
+    "question": "Which was the first city in India to achieve net-zero carbon status?",
+    "description": "Indian city that achieved net-zero carbon emissions first.",
+    "options": ["Indore", "Pune", "Bhubaneswar", "Bengaluru"],
+    "correctAnswer": "Indore"
+  },
+  {
+    "id": "c156",
+    "question": "Which is the world’s first carbon-neutral country?",
+    "description": "Country recognized as the first to achieve carbon neutrality.",
+    "options": ["Bhutan", "Sweden", "Costa Rica", "Iceland"],
+    "correctAnswer": "Bhutan"
+  },
+  {
+    "id": "c157",
+    "question": "Which was the first Indian state to mandate EV-only government vehicles?",
+    "description": "State that first made electric vehicles mandatory for government use.",
+    "options": ["Kerala", "Delhi", "Tamil Nadu", "Karnataka"],
+    "correctAnswer": "Kerala"
+  },
+  {
+    "id": "c158",
+    "question": "Where is the world’s largest floating solar plant located?",
+    "description": "Location of the world's largest floating solar power plant.",
+    "options": ["Madhya Pradesh", "Gujarat", "Rajasthan", "Tamil Nadu"],
+    "correctAnswer": "Madhya Pradesh"
+  },
+  {
+    "id": "c159",
+    "question": "What is the name of India’s first deep-sea mining exploration project?",
+    "description": "Name of the first Indian project for exploring deep-sea mining.",
+    "options": ["Samudrayaan", "Sagar Kavach", "Neptune", "Oceanus"],
+    "correctAnswer": "Samudrayaan"
+  },
+  {
+    "id": "c160",
+    "question": "Which was the first river in India to be declared a living entity?",
+    "description": "The first Indian river legally recognized as a living entity.",
+    "options": ["Ganga", "Yamuna", "Narmada", "Godavari"],
+    "correctAnswer": "Ganga"
+  },
+  {
+    "id": "c161",
+    "question": "Who laid the foundation stone for NECTAR's permanent campus in Shillong?",
+    "description": "The dignitary who laid the foundation stone for NECTAR's permanent campus.",
+    "options": ["Union Minister Dr. Jitendra Singh", "Prime Minister Narendra Modi", "Union Minister Nitin Gadkari", "Chief Minister of Meghalaya"],
+    "correctAnswer": "Union Minister Dr. Jitendra Singh"
+  },
+  {
+    "id": "c162",
+    "question": "Where was the first-ever Fit India Carnival 2025 inaugurated?",
+    "description": "Venue of the inauguration of the first-ever Fit India Carnival in 2025.",
+    "options": [
+      "Jawaharlal Nehru Stadium, New Delhi",
+      "Eden Gardens, Kolkata",
+      "Wankhede Stadium, Mumbai",
+      "Salt Lake Stadium, Kolkata"
+    ],
+    "correctAnswer": "Jawaharlal Nehru Stadium, New Delhi"
+  },
+  {
+    "id": "c163",
+    "question": "Which Union Minister visited the IIT Madras Hyperloop testing facility?",
+    "description": "Union Minister who visited the IIT Madras Hyperloop testing facility.",
+    "options": ["Ashwini Vaishnaw", "Piyush Goyal", "Nitin Gadkari", "Dharmendra Pradhan"],
+    "correctAnswer": "Ashwini Vaishnaw"
+  },
+  {
+    "id": "c164",
+    "question": "What is the purpose of the PM Internship Scheme App launched by FM Nirmala Sitharaman?",
+    "description": "The main objective of the PM Internship Scheme App.",
+    "options": [
+      "To streamline internship applications and enhance youth employment",
+      "To provide scholarships for students",
+      "To facilitate foreign internships",
+      "To connect employers with experienced professionals"
+    ],
+    "correctAnswer": "To streamline internship applications and enhance youth employment"
+  },
+  {
+    "id": "c165",
+    "question": "Where will India's first PPP green waste processing plant be established?",
+    "description": "Location of India's first public-private partnership green waste processing plant.",
+    "options": ["Bicholi Hapsi, Indore", "Gurgaon, Haryana", "Chennai, Tamil Nadu", "Bengaluru, Karnataka"],
+    "correctAnswer": "Bicholi Hapsi, Indore"
+  },
+  {
+    "id": "c166",
+    "question": "What is the outlay for the Revised Rashtriya Gokul Mission?",
+    "description": "Financial outlay for the Revised Rashtriya Gokul Mission.",
+    "options": ["₹1,500 crore", "₹2,800 crore", "₹3,400 crore", "₹4,000 crore"],
+    "correctAnswer": "₹3,400 crore"
+  },
+  {
+    "id": "c167",
+    "question": "Which state will host the Jaitapur nuclear energy project?",
+    "description": "State selected for hosting the Jaitapur nuclear energy project.",
+    "options": ["Maharashtra", "Gujarat", "Tamil Nadu", "Karnataka"],
+    "correctAnswer": "Maharashtra"
+  },
+  {
+    "id": "c168",
+    "question": "What is the theme of Purple Fest 2025?",
+    "description": "Theme of the Purple Fest held in 2025.",
+    "options": [
+      "Promoting inclusivity for Divyangjan",
+      "Digital empowerment for youth",
+      "Climate action and sustainability",
+      "Cultural heritage and diversity"
+    ],
+    "correctAnswer": "Promoting inclusivity for Divyangjan"
+  },
+  {
+    "id": "c169",
+    "question": "What is the focus of C-DOT's 'Samarth' incubation program?",
+    "description": "Key focus areas of the Samarth incubation program by C-DOT.",
+    "options": [
+      "Telecom, Cybersecurity, 5G/6G, AI, and Quantum Technologies",
+      "Renewable energy and climate tech",
+      "Healthcare and biotechnology",
+      "Agritech and food security"
+    ],
+    "correctAnswer": "Telecom, Cybersecurity, 5G/6G, AI, and Quantum Technologies"
+  },
+  {
+    "id": "c170",
+    "question": "Which state government is implementing PMABHIM with 1,139 Urban Ayushman Arogya Mandirs?",
+    "description": "State implementing the PMABHIM scheme with a large number of Urban Ayushman Arogya Mandirs.",
+    "options": ["Delhi", "Uttar Pradesh", "Maharashtra", "Karnataka"],
+    "correctAnswer": "Delhi"
+  },
+  {
+    "id": "c171",
+    "question": "Who inaugurated the Chhatrapati Shivaji Maharaj Temple in Bhiwandi?",
+    "description": "Dignitary who inaugurated the temple in Bhiwandi.",
+    "options": ["Maharashtra CM Fadnavis", "Prime Minister Narendra Modi", "Union Minister Amit Shah", "Maharashtra CM Uddhav Thackeray"],
+    "correctAnswer": "Maharashtra CM Fadnavis"
+  },
+  {
+    "id": "c172",
+    "question": "Which state is planning stricter anti-conversion laws?",
+    "description": "Indian state planning to implement stricter anti-conversion legislation.",
+    "options": ["Chhattisgarh", "Rajasthan", "Uttar Pradesh", "Madhya Pradesh"],
+    "correctAnswer": "Chhattisgarh"
+  },
+  {
+    "id": "c173",
+    "question": "Who inaugurated the Lachit Barphukan Police Academy in Assam?",
+    "description": "Person who inaugurated the police academy in Assam.",
+    "options": ["Amit Shah", "Sarbananda Sonowal", "Himanta Biswa Sarma", "Nitin Gadkari"],
+    "correctAnswer": "Amit Shah"
+  },
+  {
+    "id": "c174",
+    "question": "What is the budget allocation for Himachal Pradesh in 2025-26?",
+    "description": "Financial budget allocated for Himachal Pradesh for the year 2025-26.",
+    "options": ["₹45,000 crore", "₹52,000 crore", "₹58,514 crore", "₹60,000 crore"],
+    "correctAnswer": "₹58,514 crore"
+  },
+  {
+    "id": "c175",
+    "question": "What is the purpose of Delhi Police's 'Shishtachar' squads?",
+    "description": "The main goal of the 'Shishtachar' squads formed by Delhi Police.",
+    "options": [
+      "To combat eve-teasing",
+      "To reduce traffic violations",
+      "To prevent cybercrime",
+      "To monitor COVID-19 protocols"
+    ],
+    "correctAnswer": "To combat eve-teasing"
+  },
+  {
+    "id": "c176",
+    "question": "What is the budget outlay for Telangana in 2025-26?",
+    "description": "Financial budget allocation for Telangana state in 2025-26.",
+    "options": [
+      "₹2.5 lakh crore",
+      "₹3.04 lakh crore",
+      "₹3.5 lakh crore",
+      "₹4.0 lakh crore"
+    ],
+    "correctAnswer": "₹3.04 lakh crore"
+  },
+  {
+    "id": "c177",
+    "question": "Which state will host the Namrup-IV Fertilizer Plant?",
+    "description": "State selected for the Namrup-IV Fertilizer Plant project.",
+    "options": ["Assam", "West Bengal", "Odisha", "Jharkhand"],
+    "correctAnswer": "Assam"
+  },
+  {
+    "id": "c178",
+    "question": "Who launched six mobile dental clinics in Delhi?",
+    "description": "The official who launched mobile dental clinics in Delhi.",
+    "options": [
+      "Delhi Health Minister Pankaj Kumar Singh",
+      "Delhi CM",
+      "Union Health Minister",
+      "Delhi Education Minister"
+    ],
+    "correctAnswer": "Delhi Health Minister Pankaj Kumar Singh"
+  },
+  {
+    "id": "c179",
+    "question": "Which state is exploring skill development partnerships with the UK?",
+    "description": "Indian state partnering with the UK for skill development.",
+    "options": ["Odisha", "Kerala", "Tamil Nadu", "Maharashtra"],
+    "correctAnswer": "Odisha"
+  },
+  {
+    "id": "c180",
+    "question": "Who inaugurated Meghalaya's first scientific coal mining block?",
+    "description": "Dignitary who inaugurated Meghalaya's scientific coal mining block.",
+    "options": [
+      "Meghalaya CM",
+      "Union Minister of Coal",
+      "Prime Minister",
+      "Governor of Meghalaya"
+    ],
+    "correctAnswer": "Meghalaya CM"
+  },
+  {
+    "id": "c181",
+    "question": "Which state will install a 58-foot statue of Potti Sriramulu?",
+    "description": "State planning to install a statue of Potti Sriramulu.",
+    "options": ["Andhra Pradesh", "Telangana", "Tamil Nadu", "Karnataka"],
+    "correctAnswer": "Andhra Pradesh"
+  },
+  {
+    "id": "c182",
+    "question": "Which countries finalized a peace treaty for Nagorno-Karabakh?",
+    "description": "Countries involved in the peace treaty for Nagorno-Karabakh conflict.",
+    "options": [
+      "Armenia and Azerbaijan",
+      "Armenia and Turkey",
+      "Azerbaijan and Russia",
+      "Georgia and Armenia"
+    ],
+    "correctAnswer": "Armenia and Azerbaijan"
+  },
+  {
+    "id": "c183",
+    "question": "Which platform is merging with DWAC to go public?",
+    "description": "Platform merging with DWAC for public listing.",
+    "options": ["Truth Social", "Twitter", "Facebook", "Instagram"],
+    "correctAnswer": "Truth Social"
+  },
+  {
+    "id": "c184",
+    "question": "What is the focus of ADB’s “Frontier Seed” Initiative?",
+    "description": "Main goal of the Asian Development Bank’s Frontier Seed initiative.",
+    "options": [
+      "Boosting Pacific businesses",
+      "Supporting renewable energy",
+      "Enhancing urban infrastructure",
+      "Improving education quality"
+    ],
+    "correctAnswer": "Boosting Pacific businesses"
+  },
+  {
+    "id": "c185",
+    "question": "Which country joined India’s Indo-Pacific Oceans Initiative?",
+    "description": "Country that became a member of the Indo-Pacific Oceans Initiative.",
+    "options": ["New Zealand", "Australia", "Japan", "Singapore"],
+    "correctAnswer": "New Zealand"
+  },
+  {
+    "id": "c186",
+    "question": "Which country tops the World Happiness Report 2025?",
+    "description": "Country ranked first in the 2025 World Happiness Report.",
+    "options": ["Finland", "Denmark", "Switzerland", "Iceland"],
+    "correctAnswer": "Finland"
+  },
+  {
+    "id": "c187",
+    "question": "Who became the first female IOC President?",
+    "description": "First woman to become the President of the International Olympic Committee.",
+    "options": [
+      "Kirsty Coventry",
+      "Serena Williams",
+      "Simone Biles",
+      "Megan Rapinoe"
+    ],
+    "correctAnswer": "Kirsty Coventry"
+  },
+  {
+    "id": "c188",
+    "question": "Which country ranks second in funding for women-led startups?",
+    "description": "Country ranked second globally in investment for women-led startups.",
+    "options": ["India", "USA", "UK", "Canada"],
+    "correctAnswer": "India"
+  },
+  {
+    "id": "c189",
+    "question": "What is SBI’s new project finance unit focusing on?",
+    "description": "Focus areas of State Bank of India's new project finance unit.",
+    "options": ["AI, fintech, and e-commerce startups", "Renewable energy projects", "Infrastructure development", "Agricultural technology"],
+    "correctAnswer": "AI, fintech, and e-commerce startups"
+  },
+  {
+    "id": "c190",
+    "question": "Which bank partnered with Sunrisers Hyderabad?",
+    "description": "Bank collaborating with the IPL team Sunrisers Hyderabad.",
+    "options": ["City Union Bank", "State Bank of India", "HDFC Bank", "ICICI Bank"],
+    "correctAnswer": "City Union Bank"
+  },
+  {
+    "id": "c191",
+    "question": "What is SEBI’s new minimum investment limit for SSE?",
+    "description": "The Securities and Exchange Board of India’s updated minimum investment limit for the Social Stock Exchange.",
+    "options": ["₹500", "₹1,000", "₹5,000", "₹10,000"],
+    "correctAnswer": "₹1,000"
+  },
+  {
+    "id": "c192",
+    "question": "Which country is India’s largest source of remittances?",
+    "description": "The country from which India receives the highest amount of remittances.",
+    "options": ["USA", "UAE", "Saudi Arabia", "UK"],
+    "correctAnswer": "USA"
+  },
+  {
+    "id": "c193",
+    "question": "Who sold Magma General Insurance to Patanjali Ayurved and DS Group?",
+    "description": "The individual who sold Magma General Insurance to Patanjali Ayurved and DS Group.",
+    "options": [
+      "Adar Poonawalla",
+      "Ratan Tata",
+      "Kiran Mazumdar-Shaw",
+      "Mukesh Ambani"
+    ],
+    "correctAnswer": "Adar Poonawalla"
+  },
+  {
+    "id": "c194",
+    "question": "Which company acquired an additional 10% stake in Tata Play?",
+    "description": "Company that increased its stake in Tata Play by 10%.",
+    "options": [
+      "Tata Sons",
+      "Reliance Industries",
+      "Adani Group",
+      "Bharti Enterprises"
+    ],
+    "correctAnswer": "Tata Sons"
+  },
+  {
+    "id": "c195",
+    "question": "Where did BPCL inaugurate a 3.2 MW floating solar power plant?",
+    "description": "Location of BPCL’s floating solar power plant inauguration.",
+    "options": ["Kochi Refinery", "Mumbai Refinery", "Vizag Refinery", "Chennai Refinery"],
+    "correctAnswer": "Kochi Refinery"
+  },
+  {
+    "id": "c196",
+    "question": "What was India’s wholesale inflation rate in February 2024?",
+    "description": "Wholesale inflation rate for India in February 2024.",
+    "options": ["1.98%", "2.38%", "2.88%", "3.25%"],
+    "correctAnswer": "2.38%"
+  },
+  {
+    "id": "c197",
+    "question": "What is India’s forex reserve as of March 2025?",
+    "description": "India’s foreign exchange reserves value as of March 2025.",
+    "options": ["$600 billion", "$653.966 billion", "$700 billion", "$720 billion"],
+    "correctAnswer": "$653.966 billion"
+  },
+  {
+    "id": "c198",
+    "question": "Which country is negotiating a Comprehensive FTA with India?",
+    "description": "Country engaged in negotiations for a Comprehensive Free Trade Agreement with India.",
+    "options": ["New Zealand", "Australia", "Canada", "UK"],
+    "correctAnswer": "New Zealand"
+  },
+  {
+    "id": "c199",
+    "question": "What is India’s projected GDP by 2028?",
+    "description": "Projected gross domestic product of India by the year 2028.",
+    "options": ["$4.5 trillion", "$5.7 trillion", "$6.0 trillion", "$7.2 trillion"],
+    "correctAnswer": "$5.7 trillion"
+  },
+  {
+    "id": "c200",
+    "question": "Who chairs the Inter-Ministerial-Industry Committee on Fintech?",
+    "description": "The chairperson of the Inter-Ministerial-Industry Committee focusing on fintech.",
+    "options": [
+      "DFS Secretary",
+      "Finance Minister",
+      "RBI Governor",
+      "NITI Aayog CEO"
+    ],
+    "correctAnswer": "DFS Secretary"
+  },
+  {
+    "id": "c201",
+    "question": "Which state signed an MoU with the Gates Foundation for AI integration?",
+    "description": "State that partnered with the Bill & Melinda Gates Foundation for AI projects.",
+    "options": ["Andhra Pradesh", "Telangana", "Karnataka", "Tamil Nadu"],
+    "correctAnswer": "Andhra Pradesh"
+  },
+  {
+    "id": "c202",
+    "question": "Which organization partnered with Sarvam AI for Aadhaar services?",
+    "description": "The organization collaborating with Sarvam AI to enhance Aadhaar-related services.",
+    "options": ["UIDAI", "NITI Aayog", "Aadhaar Council", "MeitY"],
+    "correctAnswer": "UIDAI"
+  },
+  {
+    "id": "c203",
+    "question": "Which countries signed an MoU to promote trade in local currencies?",
+    "description": "Countries that agreed to promote trade using their local currencies.",
+    "options": [
+      "India and Mauritius",
+      "India and UAE",
+      "India and Sri Lanka",
+      "India and Bangladesh"
+    ],
+    "correctAnswer": "India and Mauritius"
+  },
+  {
+    "id": "c204",
+    "question": "Who was appointed TAFE Vice Chairman?",
+    "description": "Person appointed as Vice Chairman of Tractors and Farm Equipment Limited (TAFE).",
+    "options": [
+      "Dr. Lakshmi Venu",
+      "Ratan Tata",
+      "Natarajan Chandrasekaran",
+      "Kiran Mazumdar-Shaw"
+    ],
+    "correctAnswer": "Dr. Lakshmi Venu"
+  },
+  {
+    "id": "c205",
+    "question": "Who became the CEO of ANRF?",
+    "description": "Person appointed as CEO of the Automotive Research Association of India (ANRF).",
+    "options": [
+      "Dr. Shivkumar Kalyanaraman",
+      "Sundar Pichai",
+      "Narayana Murthy",
+      "Anand Mahindra"
+    ],
+    "correctAnswer": "Dr. Shivkumar Kalyanaraman"
+  },
+  {
+    "id": "c206",
+    "question": "Who was appointed as Intel’s new CEO?",
+    "description": "The newly appointed Chief Executive Officer of Intel.",
+    "options": [
+      "Lip-Bu Tan",
+      "Pat Gelsinger",
+      "Sundar Pichai",
+      "Satya Nadella"
+    ],
+    "correctAnswer": "Lip-Bu Tan"
+  },
+  {
+    "id": "c207",
+    "question": "Who was named 'Fit India Icon'?",
+    "description": "Person honored with the title of 'Fit India Icon'.",
+    "options": [
+      "Ayushmann Khurrana",
+      "Virat Kohli",
+      "Deepika Padukone",
+      "MS Dhoni"
+    ],
+    "correctAnswer": "Ayushmann Khurrana"
+  },
+  {
+    "id": "c208",
+    "question": "Who joined Skechers as a brand ambassador?",
+    "description": "Cricketer who became the brand ambassador for Skechers.",
+    "options": ["Jasprit Bumrah", "Virat Kohli", "Rohit Sharma", "Hardik Pandya"],
+    "correctAnswer": "Jasprit Bumrah"
+  },
+  {
+    "id": "c209",
+    "question": "Who was appointed Goodwill Ambassador of VISION 2020 India?",
+    "description": "Person appointed as Goodwill Ambassador for VISION 2020 India.",
+    "options": [
+      "Krishnamachari Srikkanth",
+      "Sachin Tendulkar",
+      "Rahul Dravid",
+      "MS Dhoni"
+    ],
+    "correctAnswer": "Krishnamachari Srikkanth"
+  },
+  {
+    "id": "c210",
+    "question": "Who was re-appointed as Independent Director of Fino Payments Bank?",
+    "description": "Individual re-appointed as Independent Director at Fino Payments Bank.",
+    "options": [
+      "Deena Mehta",
+      "Raghuram Rajan",
+      "Arundhati Bhattacharya",
+      "K V Kamath"
+    ],
+    "correctAnswer": "Deena Mehta"
+  },
+  {
+    "id": "c211",
+    "question": "Who was appointed RBI's Executive Director?",
+    "description": "Person appointed as Executive Director of the Reserve Bank of India.",
+    "options": [
+      "Indranil Bhattacharyya",
+      "Shaktikanta Das",
+      "Vishwavir Ahuja",
+      "Subir Gokarn"
+    ],
+    "correctAnswer": "Indranil Bhattacharyya"
+  },
+  {
+    "id": "c212",
+    "question": "Who was appointed as NIIT University Chancellor?",
+    "description": "The new Chancellor appointed for NIIT University.",
+    "options": [
+      "Amitabh Kant",
+      "Narayana Murthy",
+      "Raghuram Rajan",
+      "Arundhati Bhattacharya"
+    ],
+    "correctAnswer": "Amitabh Kant"
+  },
+  {
+    "id": "c213",
+    "question": "Which book celebrates India's 1975 Hockey World Cup victory?",
+    "description": "Title of the book commemorating India’s 1975 Hockey World Cup win.",
+    "options": [
+      "March of Glory",
+      "Victory March",
+      "The Hockey Triumph",
+      "Legends on Ice"
+    ],
+    "correctAnswer": "March of Glory"
+  },
+  {
+    "id": "c214",
+    "question": "What is the focus of the book 'To the Seventh Generation'?",
+    "description": "Subject of the book 'To the Seventh Generation'.",
+    "options": [
+      "CMC Vellore",
+      "Indian Independence",
+      "Ancient Indian Culture",
+      "Space Exploration"
+    ],
+    "correctAnswer": "CMC Vellore"
+  },
+  {
+    "id": "c215",
+    "question": "Which organization signed a ₹2,906 crore deal with the Ministry of Defence?",
+    "description": "Organization that secured a major defence deal with the Indian Ministry of Defence.",
+    "options": [
+      "BEL",
+      "HAL",
+      "DRDO",
+      "BEML"
+    ],
+    "correctAnswer": "BEL"
+  },
+  {
+    "id": "c216",
+    "question": "Which countries participated in VARUNA 2025?",
+    "description": "Countries involved in the VARUNA naval exercise in 2025.",
+    "options": [
+      "India and France",
+      "India and USA",
+      "India and Japan",
+      "India and Australia"
+    ],
+    "correctAnswer": "India and France"
+  },
+  {
+    "id": "c217",
+    "question": "Who won the 2025 Stockholm Water Prize?",
+    "description": "Recipient of the prestigious Stockholm Water Prize in 2025.",
+    "options": [
+      "Günter Bloesch",
+      "Wangari Maathai",
+      "Peter Gleick",
+      "Vandana Shiva"
+    ],
+    "correctAnswer": "Günter Bloesch"
+  },
+  {
+    "id": "c218",
+    "question": "Who was honored with the Lifetime Achievement Award at the UK Parliament?",
+    "description": "Person who received the Lifetime Achievement Award in the UK Parliament.",
+    "options": [
+      "Chiranjeevi",
+      "Amitabh Bachchan",
+      "Rajinikanth",
+      "Shah Rukh Khan"
+    ],
+    "correctAnswer": "Chiranjeevi"
+  },
+  {
+    "id": "c219",
+    "question": "Who was conferred with the Maharashtra Bhushan Award?",
+    "description": "Recipient of the prestigious Maharashtra Bhushan Award.",
+    "options": [
+      "Ram Sutar",
+      "Lata Mangeshkar",
+      "Sachin Tendulkar",
+      "Dr. Babasaheb Ambedkar"
+    ],
+    "correctAnswer": "Ram Sutar"
+  },
+  {
+    "id": "c220",
+    "question": "Who was awarded the Knight's Cross of the Order of Dannebrog?",
+    "description": "Recipient of the Knight's Cross of the Order of Dannebrog honor.",
+    "options": ["Vijay Sankar", "Arvind Kejriwal", "Ratan Tata", "Sundar Pichai"],
+    "correctAnswer": "Vijay Sankar"
+  },
+  {
+    "id": "c221",
+    "question": "What is India’s rank in the Free Speech Index?",
+    "description": "India’s position in the global Free Speech Index ranking.",
+    "options": ["24th", "10th", "50th", "100th"],
+    "correctAnswer": "24th"
+  },
+  {
+    "id": "c222",
+    "question": "What is India’s rank in the World Happiness Report 2025?",
+    "description": "India’s position in the World Happiness Report of 2025.",
+    "options": ["118th", "75th", "50th", "30th"],
+    "correctAnswer": "118th"
+  },
+  {
+    "id": "c223",
+    "question": "What is the outlay for Telangana’s ‘Rajiv Yuva Vikasam’ Scheme?",
+    "description": "Budget allocation for Telangana’s youth development scheme.",
+    "options": ["₹6,000 crore", "₹3,000 crore", "₹1,000 crore", "₹10,000 crore"],
+    "correctAnswer": "₹6,000 crore"
+  },
+  {
+    "id": "c224",
+    "question": "Which country participated in the 353rd ILO Governing Body Meeting?",
+    "description": "Country that took part in the 353rd ILO Governing Body Meeting.",
+    "options": ["India", "USA", "China", "Brazil"],
+    "correctAnswer": "India"
+  },
+  {
+    "id": "c225",
+    "question": "Who won the Balbir Singh Sr Award for Player of the Year?",
+    "description": "Recipients of the Balbir Singh Sr Award for best player.",
+    "options": [
+      "Harmanpreet Singh and Savita Punia",
+      "Virat Kohli and Mithali Raj",
+      "Sunil Chhetri and Dipa Karmakar",
+      "Manpreet Singh and Rani Rampal"
+    ],
+    "correctAnswer": "Harmanpreet Singh and Savita Punia"
+  },
+  {
+    "id": "c226",
+    "question": "How many medals did India win at the Special Olympics World Winter Games 2025?",
+    "description": "Number of medals won by India at the Special Olympics World Winter Games 2025.",
+    "options": ["33", "10", "25", "50"],
+    "correctAnswer": "33"
+  },
+  {
+    "id": "c227",
+    "question": "Who won the IML 2025 title?",
+    "description": "Winner of the IML 2025 sports league.",
+    "options": ["India Masters", "Australia Masters", "England Masters", "USA Masters"],
+    "correctAnswer": "India Masters"
+  },
+  {
+    "id": "c228",
+    "question": "Who won the Australian GP opener in 2025?",
+    "description": "Winner of the 2025 Australian Grand Prix opening race.",
+    "options": ["Lando Norris", "Lewis Hamilton", "Max Verstappen", "Charles Leclerc"],
+    "correctAnswer": "Lando Norris"
+  },
+  {
+    "id": "c229",
+    "question": "Who was banned for doping in 2025?",
+    "description": "Sportsperson banned for doping violations in 2025.",
+    "options": ["Archana Jadhav", "Mary Kom", "P.V. Sindhu", "Harmanpreet Kaur"],
+    "correctAnswer": "Archana Jadhav"
+  },
+  {
+    "id": "c230",
+    "question": "Where is the Kabaddi World Cup 2025 being held?",
+    "description": "Host country of the Kabaddi World Cup 2025.",
+    "options": ["England", "India", "Pakistan", "Iran"],
+    "correctAnswer": "England"
+  },
+  {
+    "id": "c231",
+    "question": "Who qualified for the 2026 FIFA World Cup first after hosts?",
+    "description": "Team that secured early qualification for the 2026 FIFA World Cup after the hosts.",
+    "options": ["Japan", "Brazil", "Germany", "Spain"],
+    "correctAnswer": "Japan"
+  },
+  {
+    "id": "c232",
+    "question": "What is the mascot of Khelo India Para Games 2025?",
+    "description": "Name of the official mascot for the Khelo India Para Games 2025.",
+    "options": ["Ujjwala", "Veer", "Shakti", "Tejas"],
+    "correctAnswer": "Ujjwala"
+  },
+  {
+    "id": "c233",
+    "question": "Which mission will deploy a 250 kg rover in collaboration with JAXA?",
+    "description": "Space mission involving a rover developed with JAXA.",
+    "options": ["Chandrayaan-5", "Mars Orbiter Mission 2", "Aditya-L1", "Gaganyaan"],
+    "correctAnswer": "Chandrayaan-5"
+  },
+  {
+    "id": "c234",
+    "question": "How much revenue did India generate by launching foreign satellites?",
+    "description": "Revenue earned by India from launching foreign satellites.",
+    "options": ["$143 million", "$200 million", "$100 million", "$50 million"],
+    "correctAnswer": "$143 million"
+  },
+  {
+    "id": "c235",
+    "question": "Where did ISRO launch a Thermal Research Centre?",
+    "description": "Location of ISRO’s newly launched Thermal Research Centre.",
+    "options": ["IIT Madras", "IISc Bangalore", "ISRO HQ Bengaluru", "Tata Institute Mumbai"],
+    "correctAnswer": "IIT Madras"
+  },
+  {
+    "id": "c236",
+    "question": "What virus was detected in Kolkata but is not a pandemic threat?",
+    "description": "Name of the virus found in Kolkata that does not pose a pandemic threat.",
+    "options": ["HKU1 Coronavirus", "SARS-CoV-2", "MERS-CoV", "H1N1"],
+    "correctAnswer": "HKU1 Coronavirus"
+  },
+  {
+    "id": "c237",
+    "question": "Who returned to Earth after a nine-month extended stay in space?",
+    "description": "Astronauts who completed an extended nine-month mission in space.",
+    "options": ["Butch Wilmore and Sunita Williams", "Neil Armstrong and Buzz Aldrin", "Yuri Gagarin and Valentina Tereshkova", "Chris Hadfield and Peggy Whitson"],
+    "correctAnswer": "Butch Wilmore and Sunita Williams"
+  },
+  {
+    "id": "c238",
+    "question": "What is the name of Tata Communications' AI-powered cloud solution?",
+    "description": "AI-enabled cloud service launched by Tata Communications.",
+    "options": ["Vayu", "Aakash", "Indra", "Prithvi"],
+    "correctAnswer": "Vayu"
+  },
+  {
+    "id": "c239",
+    "question": "What was created by researchers combining superfluid and solid properties?",
+    "description": "Name of the state of matter exhibiting both superfluidity and solidity.",
+    "options": ["Supersolid", "Bose-Einstein Condensate", "Quark-Gluon Plasma", "Fermionic Condensate"],
+    "correctAnswer": "Supersolid"
+  },
+  {
+    "id": "c240",
+    "question": "What is the theme of World Water Day 2025?",
+    "description": "Official theme of World Water Day in 2025.",
+    "options": ["Glacier Preservation", "Water for All", "Clean Water and Sanitation", "Save Rivers"],
+    "correctAnswer": "Glacier Preservation"
+  },
+  {
+    "id": "c241",
+    "question": "Which ministry launched Project PARI to transform Delhi's public spaces into artistic landmarks?",
+    "description": "Government ministry responsible for initiating Project PARI.",
+    "options": ["Ministry of Culture", "Ministry of Housing", "Ministry of Tourism", "Ministry of Urban Development"],
+    "correctAnswer": "Ministry of Culture"
+  },
+  {
+    "id": "c242",
+    "question": "Which organization secured Oeko-Tex certification for eri silk?",
+    "description": "Organization that obtained international Oeko-Tex certification for eri silk.",
+    "options": ["NEHHDC", "SEWA", "KVIC", "Silk Board"],
+    "correctAnswer": "NEHHDC"
+  },
+  {
+    "id": "c243",
+    "question": "On which date is Ram Manohar Lohia Jayanti observed?",
+    "description": "Annual observance date for Ram Manohar Lohia Jayanti.",
+    "options": ["March 23", "April 14", "January 26", "August 15"],
+    "correctAnswer": "March 23"
+  },
+  {
+    "id": "c244",
+    "question": "What is the name of IICA's national competition on corporate rescue strategies?",
+    "description": "Title of the competition organized by IICA focusing on corporate rescue.",
+    "options": ["Samarthya 2025", "Udgam", "Vikas", "Pragati"],
+    "correctAnswer": "Samarthya 2025"
+  },
+  {
+    "id": "c245",
+    "question": "Which state established India's first Senior Citizens Commission?",
+    "description": "First Indian state to set up a commission for senior citizens.",
+    "options": ["Kerala", "Tamil Nadu", "Maharashtra", "Karnataka"],
+    "correctAnswer": "Kerala"
+  },
+  {
+    "id": "c246",
+    "question": "What is the name of the national museum planned in New Delhi with French cooperation?",
+    "description": "Title of the upcoming national museum project in partnership with France.",
+    "options": ["Yuge Yugeen Bharat", "Kala Sanskriti Museum", "Bharat Darshan", "Virasat Museum"],
+    "correctAnswer": "Yuge Yugeen Bharat"
+  },
+  {
+    "id": "c247",
+    "question": "Which portal was launched to enhance PSU bank e-auctions and asset sales?",
+    "description": "Name of the digital portal for PSU banks’ auctions and asset sales.",
+    "options": ["BAANKNET", "eBankAuction", "AssetX", "BankSale Portal"],
+    "correctAnswer": "BAANKNET"
+  },
+  {
+    "id": "c248",
+    "question": "Who chairs the National Task Force on student mental health established by the Supreme Court?",
+    "description": "Chairperson of the Supreme Court-established task force on student mental health.",
+    "options": ["Justice S. Ravindra Bhat", "Justice D.Y. Chandrachud", "Justice N.V. Ramana", "Justice Ranjan Gogoi"],
+    "correctAnswer": "Justice S. Ravindra Bhat"
+  },
+  {
+    "id": "c249",
+    "question": "What is India's current milk production in million metric tons?",
+    "description": "Latest figure for milk production in India.",
+    "options": ["239 MMT", "200 MMT", "150 MMT", "300 MMT"],
+    "correctAnswer": "239 MMT"
+  },
+  {
+    "id": "c250",
+    "question": "For whom was a commemorative postage stamp issued on her 1009th birth anniversary?",
+    "description": "Person honored with a commemorative stamp on her 1009th birth anniversary.",
+    "options": ["Mata Karma", "Sarojini Naidu", "Annapurna Devi", "Rani Lakshmibai"],
+    "correctAnswer": "Mata Karma"
+  },
+  {
+    "id": "c251",
+    "question": "What is India's nuclear power target by 2047?",
+    "description": "India's planned nuclear power generation capacity target by the year 2047.",
+    "options": ["100 GW", "50 GW", "150 GW", "200 GW"],
+    "correctAnswer": "100 GW"
+  },
+  {
+    "id": "c252",
+    "question": "Which country did India surpass to become the 2nd largest tea exporter?",
+    "description": "Country overtaken by India in tea export rankings.",
+    "options": ["Sri Lanka", "Kenya", "China", "Vietnam"],
+    "correctAnswer": "Sri Lanka"
+  },
+  {
+    "id": "c253",
+    "question": "What is the full form of DCS launched for real-time crop data collection?",
+    "description": "Full form of the agricultural data collection system named DCS.",
+    "options": ["Digital Crop Survey", "Data Collection System", "Direct Crop Sampling", "Digital Cultivation Survey"],
+    "correctAnswer": "Digital Crop Survey"
+  },
+  {
+    "id": "c254",
+    "question": "Which two river corridors are being planned by Uttarakhand to boost religious tourism?",
+    "description": "Names of river corridors targeted for tourism development in Uttarakhand.",
+    "options": ["Ganga and Sharda", "Yamuna and Saraswati", "Godavari and Krishna", "Narmada and Tapti"],
+    "correctAnswer": "Ganga and Sharda"
+  },
+  {
+    "id": "c255",
+    "question": "What is the name of the mobile app launched by West Bengal Police for transparent transfers?",
+    "description": "Mobile application for transparency in police transfers in West Bengal.",
+    "options": ["West Bengal Police Mobile App", "Police Connect", "Safe Transfer", "CopAlert"],
+    "correctAnswer": "West Bengal Police Mobile App"
+  },
+  {
+    "id": "c256",
+    "question": "What is the name of Haryana's AI chatbot for citizen services?",
+    "description": "AI-based chatbot launched by Haryana for assisting citizens.",
+    "options": ["Sarathi", "Saksham", "Sahayak", "Sevak"],
+    "correctAnswer": "Sarathi"
+  },
+  {
+    "id": "c257",
+    "question": "Which zoo launched India's first DNA preservation project using cryogenic storage?",
+    "description": "Zoo that initiated the first DNA preservation project in India.",
+    "options": ["Darjeeling Zoo", "Delhi Zoo", "Mysore Zoo", "Sundarban Zoo"],
+    "correctAnswer": "Darjeeling Zoo"
+  },
+  {
+    "id": "c258",
+    "question": "Which country recently joined the BRICS New Development Bank?",
+    "description": "Latest member country to join the BRICS NDB.",
+    "options": ["Indonesia", "Argentina", "Egypt", "Saudi Arabia"],
+    "correctAnswer": "Indonesia"
+  },
+  {
+    "id": "c259",
+    "question": "Who became Namibia's first female president in March 2025?",
+    "description": "Name of the first female president of Namibia.",
+    "options": ["Netumbo Nandi-Ndaitwah", "Hage Geingob", "Sam Nujoma", "Saara Kuugongelwa"],
+    "correctAnswer": "Netumbo Nandi-Ndaitwah"
+  },
+  {
+    "id": "c260",
+    "question": "What percentage tariff did the US impose on imported cars and auto parts?",
+    "description": "Tariff rate imposed by the US on automobile imports.",
+    "options": ["25%", "10%", "15%", "30%"],
+    "correctAnswer": "25%"
+  },
+  {
+    "id": "c261",
+    "question": "What was the magnitude of the earthquake that hit near Mandalay, Myanmar?",
+    "description": "Magnitude of the recent earthquake near Mandalay.",
+    "options": ["7.7", "6.5", "8.1", "5.9"],
+    "correctAnswer": "7.7"
+  },
+  {
+    "id": "c262",
+    "question": "Which two funds did SBI Mutual Fund launch tracking the BSE PSU Bank Index?",
+    "description": "Names of SBI Mutual Fund schemes linked to PSU Bank Index.",
+    "options": ["PSU Bank Index Fund & PSU Bank ETF", "PSU Growth Fund & PSU Equity Fund", "Banking Sector Fund & PSU Debt Fund", "PSU Index Fund & PSU Balanced Fund"],
+    "correctAnswer": "PSU Bank Index Fund & PSU Bank ETF"
+  },
+  {
+    "id": "c263",
+    "question": "How many years has RBI granted RRBs to amortize additional pension liabilities?",
+    "description": "Duration allowed by RBI to Regional Rural Banks for pension liabilities.",
+    "options": ["Five years", "Three years", "Seven years", "Ten years"],
+    "correctAnswer": "Five years"
+  },
+  {
+    "id": "c264",
+    "question": "By what percentage did public sector banks' dividend payouts surge in FY24?",
+    "description": "Increase in dividend payouts by PSU banks in fiscal year 2024.",
+    "options": ["33%", "25%", "40%", "50%"],
+    "correctAnswer": "33%"
+  },
+  {
+    "id": "c265",
+    "question": "What interest rate did RBI set for GOI Floating Rate Bond 2033?",
+    "description": "Interest rate for Government of India bond maturing in 2033.",
+    "options": ["8.34%", "7.50%", "9.00%", "8.00%"],
+    "correctAnswer": "8.34%"
+  },
+  {
+    "id": "c266",
+    "question": "Which IPL teams has Equitas Small Finance Bank partnered with?",
+    "description": "IPL franchises partnered with Equitas Small Finance Bank.",
+    "options": ["Chennai Super Kings and Gujarat Titans", "Mumbai Indians and Delhi Capitals", "Royal Challengers Bangalore and Kolkata Knight Riders", "Sunrisers Hyderabad and Punjab Kings"],
+    "correctAnswer": "Chennai Super Kings and Gujarat Titans"
+  },
+  {
+    "id": "c267",
+    "question": "What type of fixed deposit did HDFC Bank launch for diplomatic missions in India?",
+    "description": "HDFC Bank's fixed deposit product specifically designed for embassies and diplomatic missions.",
+    "options": ["Embassy Fixed Deposit", "Diplomat Fixed Deposit", "Foreign Mission Deposit", "Consulate Fixed Deposit"],
+    "correctAnswer": "Embassy Fixed Deposit"
+  },
+  {
+    "id": "c268",
+    "question": "What will be the ATM cash withdrawal fee from May 1, 2025?",
+    "description": "The fee charged for ATM cash withdrawals starting May 2025.",
+    "options": ["₹19", "₹10", "₹25", "₹15"],
+    "correctAnswer": "₹19"
+  },
+  {
+    "id": "c269",
+    "question": "What is the new education loan limit under revised Priority Sector Lending norms?",
+    "description": "Revised maximum loan amount for education under Priority Sector Lending.",
+    "options": ["₹25 lakh", "₹10 lakh", "₹15 lakh", "₹30 lakh"],
+    "correctAnswer": "₹25 lakh"
+  },
+  {
+    "id": "c270",
+    "question": "What penalty did RBI impose on HDFC Bank for regulatory non-compliance?",
+    "description": "Monetary fine imposed on HDFC Bank by RBI for regulatory lapses.",
+    "options": ["₹75 lakh", "₹50 lakh", "₹1 crore", "₹25 lakh"],
+    "correctAnswer": "₹75 lakh"
+  },
+  {
+    "id": "c271",
+    "question": "What is the value of unclaimed bank deposits transferred to RBI's DEA Fund?",
+    "description": "Total value of unclaimed deposits moved to Deposit Insurance and Credit Guarantee Corporation's fund.",
+    "options": ["₹45,000+ crore", "₹30,000 crore", "₹50,000 crore", "₹25,000 crore"],
+    "correctAnswer": "₹45,000+ crore"
+  },
+  {
+    "id": "c272",
+    "question": "Who was appointed as brand ambassador for Tata Motors' Passenger and Electric Vehicle segment?",
+    "description": "Celebrity endorsing Tata Motors' vehicle segment.",
+    "options": ["Vicky Kaushal", "Ranveer Singh", "Alia Bhatt", "Hrithik Roshan"],
+    "correctAnswer": "Vicky Kaushal"
+  },
+  {
+    "id": "c273",
+    "question": "Which company did Reliance Industries acquire to expand its shipyard operations?",
+    "description": "Company acquired by Reliance for shipbuilding business expansion.",
+    "options": ["Nauyaan Tradings", "Larsen & Toubro", "Mazagon Dock", "ABG Shipyard"],
+    "correctAnswer": "Nauyaan Tradings"
+  },
+  {
+    "id": "c274",
+    "question": "Which company became the world's most valuable steelmaker with a market cap over $30 billion?",
+    "description": "Steel company achieving market capitalization milestone.",
+    "options": ["JSW Steel", "Tata Steel", "ArcelorMittal", "POSCO"],
+    "correctAnswer": "JSW Steel"
+  },
+  {
+    "id": "c275",
+    "question": "Which countries replaced Gulf nations as top remittance sources to India?",
+    "description": "Countries now leading in remittance flows to India.",
+    "options": ["U.S. & U.K.", "Canada & Australia", "Singapore & Malaysia", "Germany & France"],
+    "correctAnswer": "U.S. & U.K."
+  },
+  {
+    "id": "c276",
+    "question": "When will the revised MSME classification become effective?",
+    "description": "Date from which new MSME classification norms will be implemented.",
+    "options": ["April 1, 2025", "January 1, 2025", "July 1, 2025", "October 1, 2025"],
+    "correctAnswer": "April 1, 2025"
+  },
+  {
+    "id": "c277",
+    "question": "Which flower did Mizoram export to Singapore for the first time?",
+    "description": "Name of the flower exported by Mizoram to Singapore.",
+    "options": ["Anthurium", "Orchid", "Hibiscus", "Lotus"],
+    "correctAnswer": "Anthurium"
+  },
+  {
+    "id": "c278",
+    "question": "On how many Chinese products did India impose anti-dumping duties?",
+    "description": "Number of Chinese product categories subjected to anti-dumping duties by India.",
+    "options": ["Five", "Three", "Seven", "Ten"],
+    "correctAnswer": "Five"
+  },
+  {
+    "id": "c279",
+    "question": "What is India's current GDP in trillion dollars?",
+    "description": "India's GDP value in trillion US dollars.",
+    "options": ["$4.3 trillion", "$3.5 trillion", "$5.0 trillion", "$4.0 trillion"],
+    "correctAnswer": "$4.3 trillion"
+  },
+  {
+    "id": "c280",
+    "question": "Which country is India projected to surpass economically in 2025?",
+    "description": "Country India is expected to overtake in GDP ranking.",
+    "options": ["Japan", "Germany", "United Kingdom", "France"],
+    "correctAnswer": "Japan"
+  },
+  {
+    "id": "c281",
+    "question": "What is the total expenditure in the Finance Bill 2025 passed by Lok Sabha?",
+    "description": "Total expenditure approved in Finance Bill 2025.",
+    "options": ["₹50.65 lakh crore", "₹45 lakh crore", "₹55 lakh crore", "₹60 lakh crore"],
+    "correctAnswer": "₹50.65 lakh crore"
+  },
+  {
+    "id": "c282",
+    "question": "What is S&P's growth forecast for India in FY26?",
+    "description": "Standard & Poor's economic growth projection for India in the fiscal year 2025-26.",
+    "options": ["6.5%", "7.0%", "5.5%", "6.0%"],
+    "correctAnswer": "6.5%"
+  },
+  {
+    "id": "c283",
+    "question": "How much does the government plan to raise via bonds in H1 FY26?",
+    "description": "Government's bond-raising target for the first half of FY26.",
+    "options": ["₹8 lakh crore", "₹7 lakh crore", "₹9 lakh crore", "₹10 lakh crore"],
+    "correctAnswer": "₹8 lakh crore"
+  },
+  {
+    "id": "c284",
+    "question": "Which country did India sign a Green and Digital Shipping Corridor Letter of Intent with?",
+    "description": "Country partnered with India for green and digital shipping initiative.",
+    "options": ["Singapore", "Japan", "South Korea", "UAE"],
+    "correctAnswer": "Singapore"
+  },
+  {
+    "id": "c285",
+    "question": "Which organization partnered with LIC for digital insurance services?",
+    "description": "Company collaborating with LIC to offer digital insurance.",
+    "options": ["CDSL Centrico", "TCS", "Infosys", "Wipro"],
+    "correctAnswer": "CDSL Centrico"
+  },
+  {
+    "id": "c286",
+    "question": "What is the focus of the UIDAI-IIIT Hyderabad Biometric Challenge?",
+    "description": "Primary objective of the biometric authentication challenge by UIDAI and IIIT Hyderabad.",
+    "options": ["Age-invariant fingerprint authentication", "Facial recognition", "Iris scan authentication", "Voice recognition"],
+    "correctAnswer": "Age-invariant fingerprint authentication"
+  },
+  {
+    "id": "c287",
+    "question": "What organization was launched to strengthen India-Sri Lanka economic ties?",
+    "description": "Newly formed association to boost bilateral economic relations between India and Sri Lanka.",
+    "options": ["India-Sri Lanka Business Association", "Indo-Sri Lanka Trade Forum", "Sri Lanka-India Economic Council", "Bilateral Trade Alliance"],
+    "correctAnswer": "India-Sri Lanka Business Association"
+  },
+  {
+    "id": "c288",
+    "question": "Whose autobiography \"Stumped\" revisits India's 1983 Cricket World Cup triumph?",
+    "description": "Author of the autobiography recounting India's 1983 World Cup victory.",
+    "options": ["Not specified", "Kapil Dev", "Sunil Gavaskar", "Mohinder Amarnath"],
+    "correctAnswer": "Not specified"
+  },
+  {
+    "id": "c289",
+    "question": "Who is the subject of the book 'Leo: The Untold Story of Chennai Super Kings'?",
+    "description": "Focus of the book detailing the history and story of the cricket team.",
+    "options": ["Chennai Super Kings", "MS Dhoni", "Rajasthan Royals", "Mumbai Indians"],
+    "correctAnswer": "Chennai Super Kings"
+  },
+  {
+    "id": "c290",
+    "question": "Who received the Sangita Kalanidhi Award 2025 for Carnatic music?",
+    "description": "Recipient of the prestigious Carnatic music award in 2025.",
+    "options": ["R.K. Shriramkumar", "T.M. Krishna", "Sudha Ragunathan", "Aruna Sairam"],
+    "correctAnswer": "R.K. Shriramkumar"
+  },
+  {
+    "id": "c291",
+    "question": "Who was appointed as Interim MD & CEO of Edelweiss ARC?",
+    "description": "Temporary managing director and chief executive officer appointed for Edelweiss Asset Reconstruction Company.",
+    "options": ["Mythili Balasubramanian", "Radhika Gupta", "Vikram Limaye", "Sandeep Bakshi"],
+    "correctAnswer": "Mythili Balasubramanian"
+  },
+  {
+    "id": "c292",
+    "question": "Who was appointed as Chief Justice of Orissa High Court?",
+    "description": "Newly appointed Chief Justice of Orissa High Court.",
+    "options": ["Justice Harish Tandon", "Justice Dhirendra H. Waghela", "Justice Vineet Saran", "Justice Satish Chandra Sharma"],
+    "correctAnswer": "Justice Harish Tandon"
+  },
+  {
+    "id": "c293",
+    "question": "Who was elected as GSMA Chairman?",
+    "description": "Newly elected chairman of the GSMA, a global mobile industry association.",
+    "options": ["Gopal Vittal", "Sundar Pichai", "Rajeev Suri", "Mukesh Ambani"],
+    "correctAnswer": "Gopal Vittal"
+  },
+  {
+    "id": "c294",
+    "question": "Who was appointed as the new Finance Secretary?",
+    "description": "Appointee for the post of Finance Secretary in India.",
+    "options": ["Ajay Seth", "T.V. Somanathan", "Subhash Chandra Garg", "Hasmukh Adhia"],
+    "correctAnswer": "Ajay Seth"
+  },
+  {
+    "id": "c295",
+    "question": "Who was appointed as Full-Time Member of NITI Aayog?",
+    "description": "Individual appointed as a full-time member of the NITI Aayog policy think tank.",
+    "options": ["Rajiv Gauba", "Amitabh Kant", "Ramesh Chand", "Vikram Kirloskar"],
+    "correctAnswer": "Rajiv Gauba"
+  },
+  {
+    "id": "c296",
+    "question": "Who was elected as INTACH chairman?",
+    "description": "Person elected as chairman of the Indian National Trust for Art and Cultural Heritage.",
+    "options": ["Ashok Singh Thakur", "Ratan Tata", "Amitabh Kant", "Sanjay Singh"],
+    "correctAnswer": "Ashok Singh Thakur"
+  },
+  {
+    "id": "c297",
+    "question": "Who was appointed as MD & CEO of IFCI?",
+    "description": "Managing Director and Chief Executive Officer appointed for Industrial Finance Corporation of India.",
+    "options": ["Rahul Bhave", "S.S. Mallikarjuna Rao", "Rajeev Kumar", "Vikram Kirloskar"],
+    "correctAnswer": "Rahul Bhave"
+  },
+  {
+    "id": "c298",
+    "question": "Who was appointed as MD & CEO of Hitachi CMS?",
+    "description": "Managing Director and Chief Executive Officer appointed for Hitachi Construction Machinery India.",
+    "options": ["Yusuf Pachmariwala", "Sanjay Jha", "Rajiv Kumar", "Amit Jain"],
+    "correctAnswer": "Yusuf Pachmariwala"
+  },
+  {
+    "id": "c299",
+    "question": "What is the name of the frigate launched by the Indian Navy?",
+    "description": "Name of the newly launched frigate by the Indian Navy.",
+    "options": ["Tavasya", "Talwar", "Shivalik", "Kamorta"],
+    "correctAnswer": "Tavasya"
+  },
+  {
+    "id": "c300",
+    "question": "What missile was successfully test-fired by DRDO and Indian Navy?",
+    "description": "Name of the missile tested successfully by DRDO and Indian Navy.",
+    "options": ["VLSRSAM", "Prithvi", "Agni", "BrahMos"],
+    "correctAnswer": "VLSRSAM"
+  },
+  {
+    "id": "c301",
+    "question": "What barge was launched by the Indian Navy to transport ammunition, torpedoes, and missiles?",
+    "description": "Name of the barge launched for transporting naval ammunition and missiles.",
+    "options": ["ACTCM Barge (LSAM 24)", "INS Shakti", "INS Deepak", "INS Arihant"],
+    "correctAnswer": "ACTCM Barge (LSAM 24)"
+  },
+  {
+    "id": "c302",
+    "question": "Which region's glaciers are facing accelerated loss according to a UN report?",
+    "description": "Region reported by the UN for accelerated glacier loss.",
+    "options": ["Hindu Kush Himalayas", "Alps", "Andes", "Rocky Mountains"],
+    "correctAnswer": "Hindu Kush Himalayas"
+  },
+  {
+    "id": "c303",
+    "question": "What rank did Roshni Nadar achieve in the Hurun Global Rich List 2025?",
+    "description": "Position of Roshni Nadar in the 2025 Hurun Global Rich List.",
+    "options": ["5th", "3rd", "7th", "10th"],
+    "correctAnswer": "5th"
+  },
+  {
+    "id": "c304",
+    "question": "How many Jan Aushadhi Kendras have been opened under PMBJP?",
+    "description": "Total number of Jan Aushadhi Kendras opened under the Pradhan Mantri Bhartiya Jan Aushadhi Pariyojana.",
+    "options": ["15,057", "12,000", "10,500", "18,000"],
+    "correctAnswer": "15,057"
+  },
+  {
+    "id": "c305",
+    "question": "What initiative was launched to promote Indian rhymes under NEP 2020?",
+    "description": "Name of the initiative launched to promote Indian rhymes as part of National Education Policy 2020.",
+    "options": ["Baalpan ki Kavita", "Kavita Gatha", "Rhymes for India", "Bachpan Geet"],
+    "correctAnswer": "Baalpan ki Kavita"
+  },
+  {
+    "id": "c306",
+    "question": "Which scheme's medium and long-term deposits did the government discontinue?",
+    "description": "Name of the scheme whose deposits were discontinued by the government.",
+    "options": ["Gold Monetisation Scheme", "Public Provident Fund", "National Savings Certificate", "Senior Citizen Savings Scheme"],
+    "correctAnswer": "Gold Monetisation Scheme"
+  },
+  {
+    "id": "c307",
+    "question": "How many buyers from how many countries participated in Sourcex India 2025?",
+    "description": "Number of buyers and countries participating in Sourcex India 2025.",
+    "options": ["150+ buyers from 45+ countries", "100+ buyers from 30+ countries", "200+ buyers from 50+ countries", "120+ buyers from 40+ countries"],
+    "correctAnswer": "150+ buyers from 45+ countries"
+  },
+  {
+    "id": "c308",
+    "question": "Who won the Chinese Grand Prix 2025?",
+    "description": "Winner of the 2025 Chinese Grand Prix.",
+    "options": ["Oscar Piastri", "Lewis Hamilton", "Max Verstappen", "Charles Leclerc"],
+    "correctAnswer": "Oscar Piastri"
+  },
+  {
+    "id": "c309",
+    "question": "Who made IPL history by captaining three different teams?",
+    "description": "Cricketer who captained three IPL teams, setting a record.",
+    "options": ["Ajinkya Rahane", "MS Dhoni", "Virat Kohli", "Rohit Sharma"],
+    "correctAnswer": "Ajinkya Rahane"
+  },
+  {
+    "id": "c310",
+    "question": "Who won bronze at the Asian Wrestling Championships 2025?",
+    "description": "Wrestler who secured a bronze medal at the 2025 Asian Wrestling Championships.",
+    "options": ["Sunil Kumar", "Bajrang Punia", "Sushil Kumar", "Deepak Punia"],
+    "correctAnswer": "Sunil Kumar"
+  },
+  {
+    "id": "c311",
+    "question": "Which badminton player retired to focus on coaching?",
+    "description": "Badminton player who retired from active play to pursue coaching.",
+    "options": ["B Sumeeth Reddy", "P.V. Sindhu", "Kidambi Srikanth", "Parupalli Kashyap"],
+    "correctAnswer": "B Sumeeth Reddy"
+  },
+  {
+    "id": "c312",
+    "question": "Which state topped the medal tally at Khelo India Para Games with 34 gold medals?",
+    "description": "State leading the medal tally at Khelo India Para Games 2025.",
+    "options": ["Haryana", "Maharashtra", "Tamil Nadu", "Kerala"],
+    "correctAnswer": "Haryana"
+  },
+  {
+    "id": "c313",
+    "question": "Which company partnered with Astroscale Japan for space debris removal?",
+    "description": "Indian company collaborating with Astroscale Japan for cleaning space debris.",
+    "options": ["Bellatrix Aerospace", "ISRO", "Tata Aerospace", "Larsen & Toubro"],
+    "correctAnswer": "Bellatrix Aerospace"
+  },
+  {
+    "id": "c314",
+    "question": "What is the theme of World TB Day 2025?",
+    "description": "Official theme for World Tuberculosis Day 2025.",
+    "options": [
+      "\"Yes! We Can End TB: Commit, Invest, Deliver\"",
+      "\"End TB Now\"",
+      "\"Unite to End TB\"",
+      "\"TB-Free World\""
+    ],
+    "correctAnswer": "\"Yes! We Can End TB: Commit, Invest, Deliver\""
+  },
+  {
+    "id": "c315",
+    "question": "Whose memory does the International Day for the Right to the Truth honor?",
+    "description": "Person commemorated on the International Day for the Right to the Truth.",
+    "options": [
+      "Monsignor Oscar Romero",
+      "Mahatma Gandhi",
+      "Martin Luther King Jr.",
+      "Nelson Mandela"
+    ],
+    "correctAnswer": "Monsignor Oscar Romero"
+  },
+  {
+    "id": "c316",
+    "question": "On which date is International Unborn Child Day observed?",
+    "description": "Date on which International Unborn Child Day is celebrated.",
+    "options": ["March 25", "April 15", "February 10", "May 5"],
+    "correctAnswer": "March 25"
+  },
+  {
+    "id": "c317",
+    "question": "What was the theme of World Theatre Day 2025?",
+    "description": "Theme for the global World Theatre Day in 2025.",
+    "options": [
+      "\"Theatre and a Culture of Peace\"",
+      "\"Theatre for Change\"",
+      "\"Celebrating Diversity\"",
+      "\"Theatre and Technology\""
+    ],
+    "correctAnswer": "\"Theatre and a Culture of Peace\""
+  },
+  {
+    "id": "c318",
+    "question": "Which Tamil actor-director passed away at 48 due to a heart attack?",
+    "description": "Name of the Tamil actor-director who died at 48 years old.",
+    "options": ["Manoj Bharathiraja", "Karthik Raja", "Selvaraghavan", "Vikram"],
+    "correctAnswer": "Manoj Bharathiraja"
+  },
+  {
+    "id": "c319",
+    "question": "What is the size of Delhi Budget 2025-26?",
+    "description": "Total budget outlay for Delhi in the fiscal year 2025-26.",
+    "options": ["Rs 1 lakh crore", "Rs 75,000 crore", "Rs 1.5 lakh crore", "Rs 90,000 crore"],
+    "correctAnswer": "Rs 1 lakh crore"
+  },
+  {
+    "id": "c320",
+    "question": "What archaeological discoveries did ASI make in Kerala?",
+    "description": "Findings made by the Archaeological Survey of India in Kerala.",
+    "options": ["Megaliths", "Harappan ruins", "Ancient temples", "Rock art"],
+    "correctAnswer": "Megaliths"
+  }
+]

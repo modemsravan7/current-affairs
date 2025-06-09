@@ -1,0 +1,1201 @@
+[
+  {
+    "id": "C101",
+    "question": "By how much has India's Female Labour Force Participation Rate (FLFPR) increased from 2017-18 to 2023-24?",
+    "description": "Increase in India's Female Labour Force Participation Rate between 2017-18 and 2023-24.",
+    "options": [
+      "From 23.3% to 41.7%",
+      "From 20.5% to 38.2%",
+      "From 25.0% to 40.0%",
+      "From 30.1% to 45.5%"
+    ],
+    "correctAnswer": "From 23.3% to 41.7%"
+  },
+  {
+    "id": "C102",
+    "question": "Which Indian state has the highest Female Labour Force Participation Rate (FLFPR)?",
+    "description": "State with the highest Female Labour Force Participation Rate in India.",
+    "options": [
+      "Sikkim",
+      "Kerala",
+      "Mizoram",
+      "Goa"
+    ],
+    "correctAnswer": "Sikkim"
+  },
+  {
+    "id": "C103",
+    "question": "What is the Kavach Project in Indian Railways?",
+    "description": "Description of the Kavach Project implemented by Indian Railways.",
+    "options": [
+      "An Automatic Train Protection (ATP) system for railway safety",
+      "A high-speed train project",
+      "A rail electrification program",
+      "A new passenger reservation system"
+    ],
+    "correctAnswer": "An Automatic Train Protection (ATP) system for railway safety"
+  },
+  {
+    "id": "C104",
+    "question": "Where has India's first White Tiger Breeding Centre been approved?",
+    "description": "Location of India’s first White Tiger Breeding Centre approved by CZA.",
+    "options": [
+      "Rewa, Madhya Pradesh",
+      "Ranthambore, Rajasthan",
+      "Bandhavgarh, Madhya Pradesh",
+      "Gir, Gujarat"
+    ],
+    "correctAnswer": "Rewa, Madhya Pradesh"
+  },
+  {
+    "id": "C105",
+    "question": "What is AgriHub launched by MeitY & IIT Indore?",
+    "description": "Purpose of AgriHub, an initiative by MeitY and IIT Indore.",
+    "options": [
+      "An AI-driven Centre of Excellence to address agricultural challenges",
+      "A new agricultural university",
+      "A farm equipment subsidy program",
+      "A seed bank for drought-resistant crops"
+    ],
+    "correctAnswer": "An AI-driven Centre of Excellence to address agricultural challenges"
+  },
+  {
+    "id": "C106",
+    "question": "What is the objective of the Watershed Yatra launched by Shivraj Singh Chouhan?",
+    "description": "Goal of the Watershed Yatra under PMKSY 2.0.",
+    "options": [
+      "Promote watershed development focusing on soil and water conservation",
+      "Promote renewable energy adoption",
+      "Improve rural sanitation",
+      "Enhance digital literacy"
+    ],
+    "correctAnswer": "Promote watershed development focusing on soil and water conservation"
+  },
+  {
+    "id": "C107",
+    "question": "How much nuclear power capacity does India aim to achieve by 2047 under the Nuclear Energy Mission?",
+    "description": "Target nuclear power capacity under India’s Nuclear Energy Mission by 2047.",
+    "options": [
+      "100 GW",
+      "50 GW",
+      "150 GW",
+      "200 GW"
+    ],
+    "correctAnswer": "100 GW"
+  },
+  {
+    "id": "C108",
+    "question": "Which Indian fort was renamed as 'Vijay Durg' as part of decolonization efforts?",
+    "description": "Indian fort renamed 'Vijay Durg' during decolonization.",
+    "options": [
+      "Fort William, Kolkata",
+      "Red Fort, Delhi",
+      "Fort St. George, Chennai",
+      "Agra Fort"
+    ],
+    "correctAnswer": "Fort William, Kolkata"
+  },
+  {
+    "id": "C109",
+    "question": "Where has the largest Hindu temple in the Southern Hemisphere been inaugurated?",
+    "description": "Location of the largest Hindu temple in the Southern Hemisphere.",
+    "options": [
+      "Johannesburg, South Africa",
+      "Sydney, Australia",
+      "Cape Town, South Africa",
+      "Auckland, New Zealand"
+    ],
+    "correctAnswer": "Johannesburg, South Africa"
+  },
+  {
+    "id": "C110",
+    "question": "What is the aim of the ‘Shatavari for Wellness’ campaign launched by the Ministry of Ayush?",
+    "description": "Objective of the ‘Shatavari for Wellness’ campaign.",
+    "options": [
+      "Promote medicinal benefits of Shatavari focusing on women’s health",
+      "Promote yoga and meditation",
+      "Promote Ayurvedic skin care",
+      "Promote herbal farming"
+    ],
+    "correctAnswer": "Promote medicinal benefits of Shatavari focusing on women’s health"
+  },
+  {
+    "id": "C111",
+    "question": "What ranking does India aim to achieve in the World Bank’s Logistics Performance Index (LPI) by 2030?",
+    "description": "India’s target rank in the Logistics Performance Index by 2030.",
+    "options": [
+      "Top 25",
+      "Top 50",
+      "Top 10",
+      "Top 100"
+    ],
+    "correctAnswer": "Top 25"
+  },
+  {
+    "id": "C112",
+    "question": "Where will the Aero India Show 2025 be held?",
+    "description": "Venue of the Aero India Show 2025.",
+    "options": [
+      "Air Force Station Yelahanka, Bengaluru",
+      "Indira Gandhi International Airport, Delhi",
+      "HAL Airport, Bengaluru",
+      "Chennai International Airport"
+    ],
+    "correctAnswer": "Air Force Station Yelahanka, Bengaluru"
+  },
+  {
+    "id": "C113",
+    "question": "Which state will establish India’s first AI university?",
+    "description": "State where India’s first AI university will be established.",
+    "options": [
+      "Maharashtra",
+      "Karnataka",
+      "Telangana",
+      "Tamil Nadu"
+    ],
+    "correctAnswer": "Maharashtra"
+  },
+  {
+    "id": "C114",
+    "question": "How has the National Consumer Helpline (NCH) been upgraded?",
+    "description": "Upgrade of National Consumer Helpline to improve grievance redressal.",
+    "options": [
+      "AI-enabled technology for faster consumer grievance redressal",
+      "Introduction of a new call center",
+      "Expansion to rural areas",
+      "Integration with social media platforms"
+    ],
+    "correctAnswer": "AI-enabled technology for faster consumer grievance redressal"
+  },
+  {
+    "id": "C115",
+    "question": "Which anniversary of the National Sample Survey (NSS) was celebrated in 2025?",
+    "description": "Anniversary milestone of National Sample Survey in 2025.",
+    "options": [
+      "75th Anniversary",
+      "50th Anniversary",
+      "100th Anniversary",
+      "60th Anniversary"
+    ],
+    "correctAnswer": "75th Anniversary"
+  },
+  {
+    "id": "C116",
+    "question": "What is the key objective of UNICEF’s National Roadmap for Child Road Safety?",
+    "description": "Main goal of UNICEF's initiative on child road safety.",
+    "options": [
+      "To reduce child road accident fatalities through regulations and awareness",
+      "To build more pedestrian crossings",
+      "To promote cycling among children",
+      "To increase school bus safety standards"
+    ],
+    "correctAnswer": "To reduce child road accident fatalities through regulations and awareness"
+  },
+  {
+    "id": "C117",
+    "question": "Which bill was passed by the Union Cabinet to replace the Income Tax Act of 1961?",
+    "description": "New legislation replacing the old Income Tax Act.",
+    "options": [
+      "New Income Tax Bill 2025",
+      "Goods and Services Tax (GST) Amendment",
+      "Direct Tax Code Bill",
+      "Financial Regulation Act 2025"
+    ],
+    "correctAnswer": "New Income Tax Bill 2025"
+  },
+  {
+    "id": "C118",
+    "question": "How much solar power capacity has India achieved?",
+    "description": "India’s milestone in solar power capacity.",
+    "options": [
+      "100 GW",
+      "50 GW",
+      "150 GW",
+      "200 GW"
+    ],
+    "correctAnswer": "100 GW"
+  },
+  {
+    "id": "C119",
+    "question": "Which three nations officially withdrew from ECOWAS?",
+    "description": "Countries that withdrew from the Economic Community of West African States.",
+    "options": [
+      "Niger, Mali, and Burkina Faso",
+      "Nigeria, Ghana, and Senegal",
+      "Benin, Togo, and Liberia",
+      "Ivory Coast, Sierra Leone, and Gambia"
+    ],
+    "correctAnswer": "Niger, Mali, and Burkina Faso"
+  },
+  {
+    "id": "C120",
+    "question": "Why did the Indian Embassy urge nationals to evacuate from Bukavu, DRC?",
+    "description": "Reason for evacuation advisory issued by Indian Embassy.",
+    "options": [
+      "Due to escalating violence from rebel forces",
+      "Natural disaster warnings",
+      "Political unrest in the capital city",
+      "Health epidemic outbreak"
+    ],
+    "correctAnswer": "Due to escalating violence from rebel forces"
+  },
+  {
+    "id": "C121",
+    "question": "Which natural landmark in New Zealand was granted legal personhood?",
+    "description": "Natural landmark recognized as a legal person.",
+    "options": [
+      "Mount Taranaki",
+      "Lake Taupo",
+      "Milford Sound",
+      "Mount Cook"
+    ],
+    "correctAnswer": "Mount Taranaki"
+  },
+  {
+    "id": "C122",
+    "question": "Which countries did the US impose tariffs on under President Trump’s administration in 2025?",
+    "description": "Countries targeted by US tariffs in 2025.",
+    "options": [
+      "Mexico, Canada, and China",
+      "Germany, France, and Japan",
+      "India, Brazil, and Russia",
+      "South Korea, Australia, and UK"
+    ],
+    "correctAnswer": "Mexico, Canada, and China"
+  },
+  {
+    "id": "C123",
+    "question": "Which Russian lawmaker visited India for strategic discussions in 2025?",
+    "description": "Russian politician who visited India for talks.",
+    "options": [
+      "Vyacheslav Volodin",
+      "Dmitry Medvedev",
+      "Sergey Lavrov",
+      "Vladimir Zhirinovsky"
+    ],
+    "correctAnswer": "Vyacheslav Volodin"
+  },
+  {
+    "id": "C124",
+    "question": "Which country recorded its highest deflation in 65 years in January 2025?",
+    "description": "Country experiencing severe deflation in 2025.",
+    "options": [
+      "Sri Lanka (-4.0%)",
+      "Japan (-2.5%)",
+      "Argentina (-3.1%)",
+      "Brazil (-1.8%)"
+    ],
+    "correctAnswer": "Sri Lanka (-4.0%)"
+  },
+  {
+    "id": "C125",
+    "question": "Which country became the first to criminalize AI-generated child abuse content?",
+    "description": "First country to make AI-generated child abuse content illegal.",
+    "options": [
+      "United Kingdom (UK)",
+      "United States",
+      "Canada",
+      "Australia"
+    ],
+    "correctAnswer": "United Kingdom (UK)"
+  },
+  {
+    "id": "C126",
+    "question": "Which international organization did President Trump withdraw the US from in 2025?",
+    "description": "International body from which the US withdrew in 2025.",
+    "options": [
+      "UN Human Rights Council (UNHRC)",
+      "World Health Organization (WHO)",
+      "UNESCO",
+      "International Monetary Fund (IMF)"
+    ],
+    "correctAnswer": "UN Human Rights Council (UNHRC)"
+  },
+  {
+    "id": "C127",
+    "question": "Which airport company joined the UN Global Compact Initiative?",
+    "description": "Airport company that joined UN's sustainability initiative.",
+    "options": [
+      "GMR Airports Ltd (GAL)",
+      "Indira Gandhi International Airport",
+      "Delhi International Airport Ltd",
+      "Mumbai International Airport"
+    ],
+    "correctAnswer": "GMR Airports Ltd (GAL)"
+  },
+  {
+    "id": "C128",
+    "question": "Which country launched the world’s first Ebola vaccine trial?",
+    "description": "Country that launched the first Ebola vaccine trial with WHO.",
+    "options": [
+      "Uganda",
+      "Nigeria",
+      "Democratic Republic of Congo",
+      "Kenya"
+    ],
+    "correctAnswer": "Uganda"
+  },
+  {
+    "id": "C129",
+    "question": "Which country withdrew from WHO under President Javier Milei?",
+    "description": "Country that withdrew from WHO in 2025.",
+    "options": [
+      "Argentina",
+      "Brazil",
+      "Chile",
+      "Peru"
+    ],
+    "correctAnswer": "Argentina"
+  },
+  {
+    "id": "C130",
+    "question": "Which country withdrew from China’s Belt and Road Initiative (BRI) in 2025?",
+    "description": "Country that exited the BRI in 2025.",
+    "options": [
+      "Panama",
+      "Malaysia",
+      "Nepal",
+      "Sri Lanka"
+    ],
+    "correctAnswer": "Panama"
+  },
+  {
+    "id": "C131",
+    "question": "Which country successfully created the world’s first kangaroo embryos via IVF?",
+    "description": "Country that developed first kangaroo embryos using IVF technology.",
+    "options": [
+      "Australia",
+      "New Zealand",
+      "South Africa",
+      "United States"
+    ],
+    "correctAnswer": "Australia"
+  },
+  {
+    "id": "C132",
+    "question": "Which country partnered with China for the Chang’e-8 Lunar Mission?",
+    "description": "Country collaborating with China on Chang’e-8 lunar exploration.",
+    "options": [
+      "Pakistan",
+      "India",
+      "Russia",
+      "Japan"
+    ],
+    "correctAnswer": "Pakistan"
+  },
+  {
+    "id": "C133",
+    "question": "Which Buddhist organization launched a Triservices Trek across India, Nepal, and Sri Lanka?",
+    "description": "Buddhist group organizing a trek across three countries.",
+    "options": [
+      "International Buddhist Confederation (IBC)",
+      "World Buddhist Sangha Council",
+      "Global Buddhist Network",
+      "Buddhist Society of India"
+    ],
+    "correctAnswer": "International Buddhist Confederation (IBC)"
+  },
+  {
+    "id": "C134",
+    "question": "Which Indian village was declared a Biodiversity Heritage Site in Gujarat?",
+    "description": "Village recognized as Biodiversity Heritage Site in Gujarat.",
+    "options": [
+      "Guneri Village",
+      "Kutch Village",
+      "Saputara Village",
+      "Rann of Kutch"
+    ],
+    "correctAnswer": "Guneri Village"
+  },
+  {
+    "id": "C135",
+    "question": "Which app was launched in Barmer district to digitize MNREGA employment?",
+    "description": "Digital tool for managing MNREGA jobs in Barmer.",
+    "options": [
+      "MY NREGA App",
+      "NREGA Digital",
+      "WorkTrack App",
+      "MNREGA Online"
+    ],
+    "correctAnswer": "MY NREGA App"
+  },
+  {
+    "id": "C136",
+    "question": "Which state introduced the 'Mana Mitra' WhatsApp-based governance initiative?",
+    "description": "State implementing WhatsApp-based governance initiative.",
+    "options": [
+      "Andhra Pradesh",
+      "Telangana",
+      "Karnataka",
+      "Tamil Nadu"
+    ],
+    "correctAnswer": "Andhra Pradesh"
+  },
+  {
+    "id": "C137",
+    "question": "Which state approved a cannabis farming pilot project for medicinal use?",
+    "description": "State pioneering cannabis farming for medicine.",
+    "options": [
+      "Himachal Pradesh",
+      "Uttarakhand",
+      "Kerala",
+      "Punjab"
+    ],
+    "correctAnswer": "Himachal Pradesh"
+  },
+  {
+    "id": "C138",
+    "question": "How much did Kerala secure as a World Bank loan for healthcare improvements?",
+    "description": "World Bank loan amount to Kerala for health sector.",
+    "options": [
+      "₹2,424 crore",
+      "₹1,500 crore",
+      "₹3,000 crore",
+      "₹2,000 crore"
+    ],
+    "correctAnswer": "₹2,424 crore"
+  },
+  {
+    "id": "C139",
+    "question": "Which bank applied for a Universal Banking Licence in 2025?",
+    "description": "Bank seeking Universal Banking Licence.",
+    "options": [
+      "Ujjivan Small Finance Bank",
+      "AU Small Finance Bank",
+      "IDFC First Bank",
+      "Equitas Small Finance Bank"
+    ],
+    "correctAnswer": "Ujjivan Small Finance Bank"
+  },
+  {
+    "id": "C140",
+    "question": "Which AI-powered home loan advisor was launched by L&T Finance?",
+    "description": "AI home loan advisory tool by L&T Finance.",
+    "options": [
+      "'KAI' (Knowledgeable AI)",
+      "'LOANi' (Loan Intelligence)",
+      "'FINBOT'",
+      "'HomeAdvisor AI'"
+    ],
+    "correctAnswer": "'KAI' (Knowledgeable AI)"
+  },
+  {
+    "id": "C141",
+    "question": "Which company partnered with Karnataka Bulldozers for CCL 2025?",
+    "description": "Company sponsoring Karnataka Bulldozers cricket team.",
+    "options": [
+      "Airtel Payments Bank",
+      "HDFC Bank",
+      "ICICI Bank",
+      "Paytm"
+    ],
+    "correctAnswer": "Airtel Payments Bank"
+  },
+  {
+    "id": "C142",
+    "question": "What mechanism has SEBI proposed to enhance investor security in UPI transactions?",
+    "description": "SEBI's proposal to improve security for UPI market transactions.",
+    "options": [
+      "A secure UPI mechanism for market intermediaries",
+      "Two-factor authentication for all UPI payments",
+      "Dedicated UPI app for investors",
+      "Real-time fraud detection system"
+    ],
+    "correctAnswer": "A secure UPI mechanism for market intermediaries"
+  },
+  {
+    "id": "C143",
+    "question": "Which company has RBI selected for offline payment testing under the Regulatory Sandbox?",
+    "description": "Company chosen by RBI for offline payments testing.",
+    "options": [
+      "Exto India",
+      "Paytm",
+      "PhonePe",
+      "Google Pay"
+    ],
+    "correctAnswer": "Exto India"
+  },
+  {
+    "id": "C144",
+    "question": "What liquidity-boosting measures has RBI introduced in 2025?",
+    "description": "RBI’s liquidity enhancement steps in 2025.",
+    "options": [
+      "$5 billion USD/INR swap, OMOs, and VRR auctions",
+      "Only OMOs and CRR cut",
+      "Fiscal stimulus packages",
+      "Interest rate hike"
+    ],
+    "correctAnswer": "$5 billion USD/INR swap, OMOs, and VRR auctions"
+  },
+  {
+    "id": "C145",
+    "question": "Which AI-powered super app for personal finance management was launched by Finvasia & Yes Bank?",
+    "description": "AI-based finance management app launched by Finvasia and Yes Bank.",
+    "options": [
+      "Jumpp",
+      "Mint",
+      "WalletX",
+      "MoneyWise"
+    ],
+    "correctAnswer": "Jumpp"
+  },
+  {
+    "id": "C146",
+    "question": "Which mutual fund introduced India’s first MSCI India ETF?",
+    "description": "Mutual fund launching first MSCI India ETF.",
+    "options": [
+      "Kotak Mutual Fund",
+      "HDFC Mutual Fund",
+      "ICICI Prudential Mutual Fund",
+      "SBI Mutual Fund"
+    ],
+    "correctAnswer": "Kotak Mutual Fund"
+  },
+  {
+    "id": "C147",
+    "question": "Which cryptocurrency exchange was penalized ₹9.27 crore by FIU-IND for PMLA violations?",
+    "description": "Crypto exchange fined for violating anti-money laundering laws.",
+    "options": [
+      "Bybit",
+      "CoinDCX",
+      "WazirX",
+      "Binance"
+    ],
+    "correctAnswer": "Bybit"
+  },
+  {
+    "id": "C148",
+    "question": "What proposal has NPCI made regarding ATM interchange fees?",
+    "description": "NPCI’s proposal for ATM transaction fees.",
+    "options": [
+      "Increase in fees for cash and non-cash transactions",
+      "Decrease in fees for cash transactions only",
+      "Removal of all ATM fees",
+      "Fees unchanged"
+    ],
+    "correctAnswer": "Increase in fees for cash and non-cash transactions"
+  },
+  {
+    "id": "C149",
+    "question": "What percentage of ₹2000 notes have been returned as of Dec 31, 2024?",
+    "description": "Percentage of ₹2000 currency notes returned by end of 2024.",
+    "options": [
+      "98.12%",
+      "95.00%",
+      "90.45%",
+      "85.30%"
+    ],
+    "correctAnswer": "98.12%"
+  },
+  {
+    "id": "C150",
+    "question": "Which Indian bank joined the Global Partnership for Carbon Accounting (PCAF)?",
+    "description": "Indian bank that joined PCAF for carbon accounting.",
+    "options": [
+      "Indian Overseas Bank (IOB)",
+      "State Bank of India",
+      "Punjab National Bank",
+      "Bank of Baroda"
+    ],
+    "correctAnswer": "Indian Overseas Bank (IOB)"
+  },
+  {
+    "id": "C151",
+    "question": "Which bank introduced startup-specific current accounts to support entrepreneurs?",
+    "description": "Bank launching current accounts tailored for startups.",
+    "options": [
+      "South Indian Bank",
+      "HDFC Bank",
+      "Axis Bank",
+      "Kotak Mahindra Bank"
+    ],
+    "correctAnswer": "South Indian Bank"
+  },
+  {
+    "id": "C152",
+    "question": "What repo rate cut did RBI announce in its MPC Meeting 2025?",
+    "description": "RBI repo rate cut in 2025 MPC meeting.",
+    "options": [
+      "25 bps cut to 6.25%",
+      "50 bps cut to 6.00%",
+      "No change",
+      "25 bps hike to 6.75%"
+    ],
+    "correctAnswer": "25 bps cut to 6.25%"
+  },
+  {
+    "id": "C153",
+    "question": "Which exclusive domains did RBI launch for Indian banks & financial institutions?",
+    "description": "New internet domains launched for banks and financial entities by RBI.",
+    "options": [
+      "‘Bank.in’ & ‘Fin.in’",
+      "‘Finance.in’ & ‘Banking.in’",
+      "‘Banking.in’ & ‘Money.in’",
+      "‘Fintech.in’ & ‘Bank.in’"
+    ],
+    "correctAnswer": "‘Bank.in’ & ‘Fin.in’"
+  },
+  {
+    "id": "C154",
+    "question": "By how much did SBI’s net profit surge in Q3 2025?",
+    "description": "SBI’s net profit growth percentage in Q3 2025.",
+    "options": [
+      "84% YoY to ₹16,891 crore",
+      "50% YoY to ₹15,000 crore",
+      "70% YoY to ₹14,500 crore",
+      "60% YoY to ₹12,000 crore"
+    ],
+    "correctAnswer": "84% YoY to ₹16,891 crore"
+  },
+  {
+    "id": "C155",
+    "question": "Which company’s payment arm sale did RBI approve for ₹330 crore?",
+    "description": "Company whose payment business sale was cleared by RBI.",
+    "options": [
+      "Tata Communications to Findi",
+      "Reliance Jio to PhonePe",
+      "Bharti Airtel to Paytm",
+      "HDFC Ltd to Bajaj Finance"
+    ],
+    "correctAnswer": "Tata Communications to Findi"
+  },
+  {
+    "id": "C156",
+    "question": "Which real estate company was fined ₹25 lakh by SEBI for financial misstatements?",
+    "description": "Real estate firm penalized by SEBI.",
+    "options": [
+      "DB Realty",
+      "DLF Ltd",
+      "Godrej Properties",
+      "Oberoi Realty"
+    ],
+    "correctAnswer": "DB Realty"
+  },
+  {
+    "id": "C157",
+    "question": "Which sustainable material is the Indian Army using for bunkers in high-altitude regions?",
+    "description": "Material used by Indian Army in collaboration with IIT Guwahati for bunkers.",
+    "options": [
+      "Bamboo-based bunkers",
+      "Steel bunkers",
+      "Concrete bunkers",
+      "Plastic composite bunkers"
+    ],
+    "correctAnswer": "Bamboo-based bunkers"
+  },
+  {
+    "id": "C158",
+    "question": "Which air defense system trial was successfully conducted by DRDO?",
+    "description": "DRDO's air defense system trial.",
+    "options": [
+      "VSHORADS (Very Short-Range Air Defence System)",
+      "Akash missile system",
+      "Barak-8 missile system",
+      "S-400 Triumf"
+    ],
+    "correctAnswer": "VSHORADS (Very Short-Range Air Defence System)"
+  },
+  {
+    "id": "C159",
+    "question": "What pilot study is India conducting on AI-powered military weapons?",
+    "description": "India's pilot study on autonomous weapon systems.",
+    "options": [
+      "Lethal Autonomous Weapons Systems (LAWS)",
+      "Drones for reconnaissance",
+      "AI-enabled communication systems",
+      "Robotic infantry"
+    ],
+    "correctAnswer": "Lethal Autonomous Weapons Systems (LAWS)"
+  },
+  {
+    "id": "C160",
+    "question": "Which large-scale manufacturing system was unveiled by DRDO-IIT Hyderabad?",
+    "description": "Advanced manufacturing system launched by DRDO and IIT Hyderabad.",
+    "options": [
+      "Large Area Additive Manufacturing (LAAM) System",
+      "3D Printing Robotics",
+      "Nano-fabrication Unit",
+      "Automated Assembly Line"
+    ],
+    "correctAnswer": "Large Area Additive Manufacturing (LAAM) System"
+  },
+  {
+    "id": "C161",
+    "question": "What is the total allocation for India’s Defence Budget 2025-26?",
+    "description": "Defence budget allocation for the year 2025-26.",
+    "options": [
+      "₹6.81 lakh crore",
+      "₹5.50 lakh crore",
+      "₹7.25 lakh crore",
+      "₹6.00 lakh crore"
+    ],
+    "correctAnswer": "₹6.81 lakh crore"
+  },
+  {
+    "id": "C162",
+    "question": "Which joint military exercise between India and the Maldives began in Feb 2025?",
+    "description": "Name of the India-Maldives military exercise.",
+    "options": [
+      "Ekuverin",
+      "Mitravahini",
+      "Samudra Shakti",
+      "Cope India"
+    ],
+    "correctAnswer": "Ekuverin"
+  },
+  {
+    "id": "C163",
+    "question": "Which Indian Navy squadron docked at Changi Naval Base, Singapore?",
+    "description": "Indian naval ships visiting Changi Naval Base.",
+    "options": [
+      "INS Sujata, INS Shardul, and ICGS Veera",
+      "INS Vikramaditya and INS Kolkata",
+      "INS Kamorta and INS Kiltan",
+      "INS Arihant and INS Chakra"
+    ],
+    "correctAnswer": "INS Sujata, INS Shardul, and ICGS Veera"
+  },
+  {
+    "id": "C164",
+    "question": "Which Indian food tech company rebranded itself as ‘Eternal Ltd’?",
+    "description": "Company formerly known as Zomato.",
+    "options": [
+      "Zomato",
+      "Swiggy",
+      "BigBasket",
+      "Dunzo"
+    ],
+    "correctAnswer": "Zomato"
+  },
+  {
+    "id": "C165",
+    "question": "Which food delivery app became the second most downloaded globally in 2025?",
+    "description": "Second most downloaded food delivery app worldwide in 2025.",
+    "options": [
+      "Zepto",
+      "Swiggy",
+      "DoorDash",
+      "Uber Eats"
+    ],
+    "correctAnswer": "Zepto"
+  },
+  {
+    "id": "C166",
+    "question": "Which organizations signed an MoU for India’s carbon market expansion?",
+    "description": "Organizations collaborating to expand carbon markets in India.",
+    "options": [
+      "IICA & Carbon Market Association of India (CMAI)",
+      "NITI Aayog & Ministry of Environment",
+      "SEBI & RBI",
+      "TERI & Greenpeace India"
+    ],
+    "correctAnswer": "IICA & Carbon Market Association of India (CMAI)"
+  },
+  {
+    "id": "C167",
+    "question": "Who was appointed Acting Chair of the GSMA Board?",
+    "description": "Acting Chair of GSMA Board in 2025.",
+    "options": [
+      "Gopal Vittal (Bharti Airtel Vice Chairman)",
+      "Sundar Pichai",
+      "Mukesh Ambani",
+      "Narayana Murthy"
+    ],
+    "correctAnswer": "Gopal Vittal (Bharti Airtel Vice Chairman)"
+  },
+  {
+    "id": "C168",
+    "question": "Who is the new Citibank India Head, pending RBI approval?",
+    "description": "New head of Citibank India in 2025.",
+    "options": [
+      "K. Balasubramanian",
+      "Arundhati Bhattacharya",
+      "Raghuram Rajan",
+      "Shikha Sharma"
+    ],
+    "correctAnswer": "K. Balasubramanian"
+  },
+  {
+    "id": "C169",
+    "question": "Which new agri-tech scheme was launched to boost farm productivity?",
+    "description": "Scheme launched to enhance agricultural productivity using technology.",
+    "options": [
+      "Digital Agri-Tech Schemes",
+      "PM-KISAN",
+      "e-NAM",
+      "Soil Health Card"
+    ],
+    "correctAnswer": "Digital Agri-Tech Schemes"
+  },
+  {
+    "id": "C170",
+    "question": "Which app was introduced for Haj pilgrims' better experience?",
+    "description": "App launched to improve the experience of Haj pilgrims.",
+    "options": [
+      "Haj Suvidha App",
+      "Umrah Connect",
+      "Pilgrim Tracker",
+      "Haj Digital"
+    ],
+    "correctAnswer": "Haj Suvidha App"
+  },
+  {
+    "id": "C171",
+    "question": "What is PM-JANMAN Package launched for?",
+    "description": "Purpose of PM-JANMAN Package.",
+    "options": [
+      "Welfare of Particularly Vulnerable Tribal Groups (PVTGs)",
+      "Women empowerment",
+      "Healthcare for elderly",
+      "Education for rural children"
+    ],
+    "correctAnswer": "Welfare of Particularly Vulnerable Tribal Groups (PVTGs)"
+  },
+  {
+    "id": "C172",
+    "question": "How much of the Union Budget 2025-26 is allocated for gender-specific schemes?",
+    "description": "Percentage and amount allocated for gender-specific schemes in 2025-26 budget.",
+    "options": [
+      "8.86% (₹4.49 lakh crore)",
+      "5% (₹2.5 lakh crore)",
+      "10% (₹5 lakh crore)",
+      "7% (₹3.8 lakh crore)"
+    ],
+    "correctAnswer": "8.86% (₹4.49 lakh crore)"
+  },
+  {
+    "id": "C173",
+    "question": "What is the new FDI limit for the insurance sector?",
+    "description": "Revised foreign direct investment limit in insurance.",
+    "options": [
+      "Raised from 74% to 100%",
+      "Maintained at 74%",
+      "Reduced to 50%",
+      "Raised from 49% to 74%"
+    ],
+    "correctAnswer": "Raised from 74% to 100%"
+  },
+  {
+    "id": "C174",
+    "question": "Which university discovered the new fungus ‘Epicoccum indicum’?",
+    "description": "Institution that discovered a new fungal species.",
+    "options": [
+      "Banaras Hindu University (BHU)",
+      "Delhi University",
+      "Jawaharlal Nehru University",
+      "IISc Bangalore"
+    ],
+    "correctAnswer": "Banaras Hindu University (BHU)"
+  },
+  {
+    "id": "C175",
+    "question": "What is the Chain of Thought (CoT) in AI?",
+    "description": "Meaning of Chain of Thought in artificial intelligence.",
+    "options": [
+      "An AI reasoning method for breaking complex problems into logical steps",
+      "A neural network training method",
+      "A data collection technique",
+      "A type of machine learning algorithm"
+    ],
+    "correctAnswer": "An AI reasoning method for breaking complex problems into logical steps"
+  },
+  {
+    "id": "C176",
+    "question": "Which ISRO satellite faced orbit-raising issues due to a malfunction?",
+    "description": "ISRO satellite with orbit-raising problems in 2025.",
+    "options": [
+      "NVS-02 (GSLV-F15 mission)",
+      "Cartosat-3",
+      "RISAT-2B",
+      "NavIC satellite"
+    ],
+    "correctAnswer": "NVS-02 (GSLV-F15 mission)"
+  },
+  {
+    "id": "C177",
+    "question": "Which Japanese rocket successfully launched Michibiki No. 6 satellite?",
+    "description": "Japanese rocket responsible for launching Michibiki No. 6.",
+    "options": [
+      "H-3 Rocket",
+      "H-2A Rocket",
+      "Epsilon Rocket",
+      "Falcon 9"
+    ],
+    "correctAnswer": "H-3 Rocket"
+  },
+  {
+    "id": "C178",
+    "question": "Which research facility was inaugurated in India for vaccine studies?",
+    "description": "Vaccine research facility launched in Faridabad.",
+    "options": [
+      "Ferret Research Facility (THSTI, Faridabad)",
+      "National Institute of Virology",
+      "ICMR Vaccine Lab",
+      "All India Institute of Medical Sciences"
+    ],
+    "correctAnswer": "Ferret Research Facility (THSTI, Faridabad)"
+  },
+  {
+    "id": "C179",
+    "question": "Which Indian chess player won the Tata Steel Masters 2025?",
+    "description": "Winner of Tata Steel Chess Masters in 2025.",
+    "options": [
+      "R. Praggnanandhaa",
+      "Viswanathan Anand",
+      "Pentala Harikrishna",
+      "Vidit Gujrathi"
+    ],
+    "correctAnswer": "R. Praggnanandhaa"
+  },
+  {
+    "id": "C180",
+    "question": "Which Australian cricketer retired from ODIs in 2025?",
+    "description": "Australian player who retired from One Day Internationals in 2025.",
+    "options": [
+      "Marcus Stoinis",
+      "Steve Smith",
+      "David Warner",
+      "Glenn Maxwell"
+    ],
+    "correctAnswer": "Marcus Stoinis"
+  },
+  {
+    "id": "C181",
+    "question": "Until when has the Union Cabinet extended the tenure of the National Commission for Safai Karamcharis (NCSK)?",
+    "description": "Extended tenure deadline of NCSK.",
+    "options": [
+      "Till March 31, 2025",
+      "Till December 31, 2025",
+      "Till June 30, 2026",
+      "Till March 31, 2026"
+    ],
+    "correctAnswer": "Till March 31, 2025"
+  },
+  {
+    "id": "C182",
+    "question": "How much did India achieve in domestic defense production in 2024?",
+    "description": "Value of domestic defense production in 2024.",
+    "options": [
+      "₹1.27 lakh crore",
+      "₹1.50 lakh crore",
+      "₹90,000 crore",
+      "₹2 lakh crore"
+    ],
+    "correctAnswer": "₹1.27 lakh crore"
+  },
+  {
+    "id": "C183",
+    "question": "Which ministry launched the 'Culinary, Crafts & Clicks' festival?",
+    "description": "Government ministry responsible for the festival launch.",
+    "options": [
+      "Ministry of Housing and Urban Affairs (MoHUA)",
+      "Ministry of Tourism",
+      "Ministry of Culture",
+      "Ministry of Food Processing"
+    ],
+    "correctAnswer": "Ministry of Housing and Urban Affairs (MoHUA)"
+  },
+  {
+    "id": "C184",
+    "question": "What artwork did PM Modi gift to French President Emmanuel Macron?",
+    "description": "Type of artwork gifted by PM Modi to Macron.",
+    "options": [
+      "Dokra artwork",
+      "Madhubani painting",
+      "Tanjore painting",
+      "Warli art"
+    ],
+    "correctAnswer": "Dokra artwork"
+  },
+  {
+    "id": "C185",
+    "question": "Which new languages were added to Lok Sabha's translation services?",
+    "description": "Languages newly included for Lok Sabha translation.",
+    "options": [
+      "Bodo, Dogri, Maithili, Manipuri, Sanskrit, and Urdu",
+      "Konkani, Sindhi, Punjabi, Tamil",
+      "Marathi, Telugu, Kannada, Gujarati",
+      "Hindi, English, Bengali, Oriya"
+    ],
+    "correctAnswer": "Bodo, Dogri, Maithili, Manipuri, Sanskrit, and Urdu"
+  },
+  {
+    "id": "C186",
+    "question": "Where will India host the first-ever Regional Dialogue on Social Justice in 2025?",
+    "description": "Venue for Regional Dialogue on Social Justice.",
+    "options": [
+      "Bharat Mandapam, New Delhi",
+      "Vigyan Bhavan, New Delhi",
+      "Jawaharlal Nehru Stadium, Delhi",
+      "India Habitat Centre, Delhi"
+    ],
+    "correctAnswer": "Bharat Mandapam, New Delhi"
+  },
+  {
+    "id": "C187",
+    "question": "Who will chair the 12th All-India Pension Adalat in 2025?",
+    "description": "Chairperson for the 12th All-India Pension Adalat.",
+    "options": [
+      "Dr. Jitendra Singh",
+      "Arun Jaitley",
+      "Piyush Goyal",
+      "Nirmala Sitharaman"
+    ],
+    "correctAnswer": "Dr. Jitendra Singh"
+  },
+  {
+    "id": "C188",
+    "question": "What did PM Modi receive from SpaceX in 2024?",
+    "description": "Gift from SpaceX to PM Modi.",
+    "options": [
+      "A Starship heatshield tile",
+      "A Tesla Model S",
+      "A SpaceX astronaut suit",
+      "A Falcon 9 rocket model"
+    ],
+    "correctAnswer": "A Starship heatshield tile"
+  },
+  {
+    "id": "C189",
+    "question": "The Indian government announced a ₹100 commemorative coin in honor of which legendary singer?",
+    "description": "Legendary singer commemorated by ₹100 coin.",
+    "options": [
+      "Mohammed Rafi",
+      "Lata Mangeshkar",
+      "Kishore Kumar",
+      "Mukesh"
+    ],
+    "correctAnswer": "Mohammed Rafi"
+  },
+  {
+    "id": "C190",
+    "question": "Which Indian state is hosting the world’s largest Jhumur dance festival?",
+    "description": "Host state of the Jhumur dance festival.",
+    "options": [
+      "Assam",
+      "West Bengal",
+      "Jharkhand",
+      "Odisha"
+    ],
+    "correctAnswer": "Assam"
+  },
+  {
+    "id": "C191",
+    "question": "Why did Manipur CM Biren Singh resign in 2025?",
+    "description": "Reason behind CM Biren Singh's resignation.",
+    "options": [
+      "Due to ethnic violence between Meitei and Kuki communities",
+      "Health reasons",
+      "Corruption charges",
+      "Political instability within party"
+    ],
+    "correctAnswer": "Due to ethnic violence between Meitei and Kuki communities"
+  },
+  {
+    "id": "C192",
+    "question": "Which company began commercial operations in the thermal power sector at Khurja STPP, UP?",
+    "description": "Company operating at Khurja STPP in Uttar Pradesh.",
+    "options": [
+      "THDC India Ltd.",
+      "NTPC Ltd.",
+      "Tata Power",
+      "Adani Power"
+    ],
+    "correctAnswer": "THDC India Ltd."
+  },
+  {
+    "id": "C193",
+    "question": "What is the objective of Haryana’s ‘Har Khet-Swasth Khet’ campaign?",
+    "description": "Aim of Haryana's agricultural campaign.",
+    "options": [
+      "To improve soil health",
+      "To increase crop yield",
+      "To promote organic farming",
+      "To reduce water usage"
+    ],
+    "correctAnswer": "To improve soil health"
+  },
+  {
+    "id": "C194",
+    "question": "What is Foy Sagar Lake in Rajasthan renamed as?",
+    "description": "New name of Foy Sagar Lake.",
+    "options": [
+      "Varun Sagar",
+      "Pushkar Lake",
+      "Sambhar Lake",
+      "Pichola Lake"
+    ],
+    "correctAnswer": "Varun Sagar"
+  },
+  {
+    "id": "C195",
+    "question": "Which state has approved Nilgai culling, sparking environmental protests?",
+    "description": "State approving controversial Nilgai culling.",
+    "options": [
+      "Haryana",
+      "Rajasthan",
+      "Uttar Pradesh",
+      "Madhya Pradesh"
+    ],
+    "correctAnswer": "Haryana"
+  },
+  {
+    "id": "C196",
+    "question": "Which US semiconductor giant announced a ₹10,000 crore investment in Karnataka?",
+    "description": "Company investing heavily in Karnataka's semiconductor sector.",
+    "options": [
+      "Lam Research",
+      "Intel",
+      "AMD",
+      "Texas Instruments"
+    ],
+    "correctAnswer": "Lam Research"
+  },
+  {
+    "id": "C197",
+    "question": "What is the purpose of West Bengal’s 'Nodi Bandhan' scheme?",
+    "description": "Scheme focused on riverine development and flood prevention in West Bengal.",
+    "options": [
+      "Riverine development and flood prevention",
+      "Agricultural subsidy",
+      "Rural employment generation",
+      "Water purification"
+    ],
+    "correctAnswer": "Riverine development and flood prevention"
+  },
+  {
+    "id": "C198",
+    "question": "Which city in France will host India's new consulate?",
+    "description": "New Indian consulate location in France.",
+    "options": [
+      "Marseille",
+      "Paris",
+      "Lyon",
+      "Nice"
+    ],
+    "correctAnswer": "Marseille"
+  },
+  {
+    "id": "C199",
+    "question": "Who declared February 9 as 'Gulf of America Day'?",
+    "description": "Person who declared Gulf of America Day on February 9.",
+    "options": [
+      "Donald Trump",
+      "Joe Biden",
+      "Barack Obama",
+      "George W. Bush"
+    ],
+    "correctAnswer": "Donald Trump"
+  },
+  {
+    "id": "C200",
+    "question": "India signed an MoU with which country for Quick Impact Projects (QIPs)?",
+    "description": "Country partnering with India for Quick Impact Projects.",
+    "options": [
+      "Nicaragua",
+      "Nepal",
+      "Bangladesh",
+      "Sri Lanka"
+    ],
+    "correctAnswer": "Nicaragua"
+  }]
